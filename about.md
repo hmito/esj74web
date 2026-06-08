@@ -12,7 +12,8 @@ remarks:
 第73回日本生態学会大会（ESJ73）
 
 **=日程=**  
-2026年3月11日(水)〜15日(日)
+2026年3月11日(水)午後 〜 15日(日)  
+(オンラインポスター閲覧期間：2026年3月8日～)
 
 **=会場=**  
 前半と後半で会場が変わります。詳細は[**会場ページ**](/venue)をご覧ください。  
@@ -125,7 +126,7 @@ remarks:
 <tr class="even">
 <td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -134,7 +135,7 @@ remarks:
 <tr class="odd">
 <td colspan=2>自由集会</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -143,8 +144,8 @@ remarks:
 <tr class="even">
 <td colspan=2>フォーラム</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -189,6 +190,14 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
+<td colspan=2><a href = "/moai">メンタリング＆meetup(モアイ)</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<tr class="odd">
 <td colspan=2><a href = "/juniorlec">みんなのジュニア生態学講座</a></td>
 <td></td>
 <td></td>
@@ -197,7 +206,7 @@ remarks:
 <td></td>
 <td>○</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan=2>公開講演会</td>
 <td></td>
 <td></td>

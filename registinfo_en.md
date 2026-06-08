@@ -9,7 +9,9 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 31st Oct. 2025 (JST). Please check the details in below and register from the application site.
+Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) have closed. We still accept applications for the participation in the conference.
+
+The deadline for abstract submission is 17th Feb. 2026. Please review the details and complete the process via the application site below.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Applications site]</a>**
 
@@ -55,7 +57,7 @@ You can register for the conference participation at the below link.
 
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site. Please read the description of each session (links in the table below) and [Other Notes](#Other-Notes) before applications.
 
-**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Abstract Submission]</a>**
 
 <table>
   <colgroup>
@@ -84,7 +86,7 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
     </tr>
     <tr class="even">
       <td><a href="/regist_session_en#Symposium">Symposium</a><br />
-      <td rowspan=4> Registration to begin:<br>Wed. 1 Oct. 2025<br><br>Deadline:<br>Fri. 31 Oct. 2025 23:59 (JST)</td>
+      <td rowspan=4> <del>Fri. 31 Oct. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td><a href="/regist_session_en/#Workshop">Workshop</a></td>

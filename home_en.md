@@ -8,26 +8,29 @@ multi_language: true
 
 ## Important Notices
 
-- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 31st Oct. 2025, 23:59 JST.**
-    - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
-    - **[Symposia and Workshops](/regist_session_en)**
-    - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
-    - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations) at this conference.
-- **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
-    - Early registration discount is available until 17th Feb. 2026, 13:00 JST.
-    - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration.
-- **The [results of the selection for Open Sessions and ER Symposia](/sessions_en) have been published.**
+- **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
+    - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
+- **Applications for presentations and sessions are now closed.**
+    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
+- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward. See the [schedule](/about_en#schedule) for detail.**
+- **We recommend booking your accommodation well in advance.**
+    - For venue access information, please check the [Venue Page](/venue).
 
 ### Upcoming Schedule
 
-- The **program** and **information for presenters** are scheduled to be published in early January.
+- **The program is scheduled to be published in early January.**
     - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
+- **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
+- **Handling of presentation files differs depending on the presentation type. Detailed information will be announced in early January.**
+    - For **poster** presentations, all presenters are required to **upload their online posters by 7th Mar.**.
+    - For **oral** presentations, no pre-conference upload is necessary; however, presenters must register their presentation files in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
+    - For presentations in syposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#sessions)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
 
 ## Meeting information
 
 The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
-**[Dates](/about_en#Schedule): 11th Mar. 2026 to 15th Mar. 2026**  
+**[Dates](/about_en#Schedule): 11th Mar. to 15th Mar. 2026  (Online poster viewing period: 8th Mar.–)**  
 **[Venue](/venue_en): Two locations - <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University</a>（11-13th）and <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto)</a>（14-15th）**
 
 For more details about the meeting, please see [this page](/about_en).
@@ -37,6 +40,10 @@ Conference events, symposia, and workshops will be recorded by professional staf
 
 ## Update history
 
+- 2025.11.28: Updated the implementation status of sessions in the conference schedule table.
+- 2025.11.28: Information about the ER Symposium invited speaker has been posted.
+- 2025.11.01: Information about Moai has been posted.
+- 2025.11.01: The call for general presentations, symposia, workshop and junior posters has closed.
 - 2025.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
 - 2025.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
 - 2025.09.30: Guidelines for presenters and frequently asked questions have been posted.

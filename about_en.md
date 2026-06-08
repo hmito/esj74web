@@ -11,7 +11,8 @@ remarks:
 The 73rd Annual Meeting of the Ecological Society of Japan (ESJ73)
 
 **= Dates =**  
-11th Mar. (Wed) – 15th Mar. (Sun), 2026
+11th Mar. (Wed) Afternoon – 15th Mar. (Sun), 2026  
+(Online poster viewing period: 8th Mar. –)
 
 **= Venue =**  
 The [venue](/venue_en) will change between the first and second halves of the meeting  
@@ -125,7 +126,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -134,7 +135,7 @@ For application, please see [**here**](/registinfo_en).
 <tr class="odd">
 <td colspan=2>Workshops</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td></td>
@@ -143,8 +144,8 @@ For application, please see [**here**](/registinfo_en).
 <tr class="even">
 <td colspan=2>Forums</td>
 <td></td>
-<td>○</td>
-<td>○</td>
+<td></td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -189,6 +190,15 @@ For application, please see [**here**](/registinfo_en).
 <td>○</td>
 </tr>
 <tr class="even">
+<td colspan=2><a href="/moai_en">Mentoring & Meetup (Moai)</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+</tr>
+<tr class="odd">
 <td colspan=2><a href="/juniorlec">Junior Ecology Course (in Japanese)</a></td>
 <td></td>
 <td></td>
@@ -197,7 +207,7 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 <td>○</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td colspan=2>Public Lecture</td>
 <td></td>
 <td></td>

@@ -3,6 +3,8 @@ url: https://esj-meeting.net/sessions_en/
 menu: Programs > Sessions
 toc: true
 multi_language: true
+remarks:
+    ER招待講演者については、Wordpressの「メディアとテキスト」機能を使用していい雰囲気に修正。
 ---
 
 # Sessions
@@ -19,10 +21,20 @@ The following symposium was selected for this year's [ER Symposium](/ersympo_en)
 Hiroko Kurokawa (Kyoto University)
 
 [ER Invited Speaker]  
-**Joseph W. Veldman** (Texas A&M University, USA)
-<!-- ![](/media/...) -->
 
-Dr. Joseph W. Veldman is a pioneer in grassland ecosystem research, recognized for revealing the long-overlooked conservation value of grasslands and for extending the “old-growth” concept to them. His ideas form the foundation of the project The Environmental Value of Ancient Grasslands, conducted by the symposium organizers. Inviting Dr. Veldman will place Japanese grassland research in a global context and integrate knowledge from semi-natural grasslands into international studies. This symposium will advance grassland ecology and conservation while raising awareness of the ecological significance of non-forest ecosystems maintained by long-term disturbance regimes, which have often been overlooked.
+<!--　メディアとテキスト　の機能を使用 -->
+![](/media/ERsympo_profile.jpg)
+
+
+**Joseph W. Veldman**
+
+Department of Ecology and Conservation Biology, Texas A&M University, USA
+
+Joseph W. Veldman is an associate professor of Ecology and Conservation Biology at Texas A&M University. He holds a Ph.D. in Botany from the University of Florida and a B.S. in Biology from Hope College. His research explores the antiquity of old-growth grasslands and the role of fire in the management of tropical savannas and forests.
+<!-- 　メディアとテキスト　ここまで -->
+
+
+Title of the lecture: "Why the natural versus anthropogenic dichotomy is unhelpful for old-growth grassland conservation"
 
 ---
 
