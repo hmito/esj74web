@@ -8,12 +8,15 @@ multi_language: true
 
 ## Important notice
 
-- **~~We are now opening a call for [Open Sessions](/opensession_en) (Application: 2025.07.01 - 07.31)~~**
-- **We are now opening a call for [ER Symposia](/ersympo_en) (Application: 2025.07.01 - 08.29)**
+- ~~We are now accepting applications for [Open Sessions](/opensession) (Application period: 2025.07.01 - 07.31).~~
+- ~~We are now accepting applications for [ER Symposia](/ersympo) (Application period: 2025.07.01 - 08.29).~~
+- Applications for Regular Presentations, Symposia, Workshops, and Junior Posters are scheduled to open on **October 1**. Further details will be announced on this website at the end of September.
+- Information regarding participant registration and an overview of the meeting schedule will also be posted on this website at the end of September.
 
 ### Upcoming Schedule
 
-- Applications for Regular Presentations, Symposia, Workshops, and Junior Posters are scheduled to open on **1st October**. Details will be posted on this website at the end of September.
+- The **program** and **important notes for presenters** are scheduled to be published in early January.
+    - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
 
 ## Meeting information
 
@@ -30,5 +33,7 @@ Details of the meeting will be posted on this website as they are decided.
 
 ## Update history
 
-- 2025.07.01: Call for Open Sessions and ER Symposium has started.
+- 2025.08.29: The call for ER Symposia has closed.
+- 2025.07.31: The call for Open Sessions has closed.
+- 2025.07.01: The call for Open Sessions and ER Symposia has started.
 - 2025.07.01: The website for the 73rd Annual Meeting of the Ecological Society of Japan has been launched.

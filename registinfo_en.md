@@ -9,10 +9,6 @@ remarks:
 
 # Registration
 
-We are currently accepting applications for the ER Symposium. For details, please visit the following pages:
-
-- [ER Symposium](/ersympo_en)
-
 Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
 
 ## Deadlines for Presentations and Proposals
@@ -38,7 +34,7 @@ Please note that the listed deadlines are subject to change.
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Fri. 29 Aug. 2025 23:59 (JST)</td>
+      <td><del>Fri. 29 Aug. 2025 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
