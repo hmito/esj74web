@@ -12,6 +12,10 @@ multi_language: true
 
 Childcare service will be provided in the ESJ73 venue to those who have completed advance application and payment. The service is provided by Poppins service Kyoto, Poppins Corporation, which is contracted out by the ESJ.
 
+### Room Location
+
+Poppins service Kyoto will contact users regarding the childcare room location. If you have any questions, please ask at the reception desk.
+
 ### Operating dates
 
 - Kyoto Univ. Yoshida-South campus: March 11, 2026 to March 13, 2026.

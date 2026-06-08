@@ -2,24 +2,37 @@
 url: https://esj-meeting.net/home_en/
 menu: Home
 multi_language: true
+remarks: 名札カードの部分、span指定部分を赤字にしてはどうでしょう。
 ---
 
 # Home
 
+About Lost property, a list of items found at the venue is provided at [this page](スプレッドシートURL). Please visit the reception desk if you find any of your belongings on the list.
+
+<a href="https://esj73.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
+
+We are distributing a "Conference Program" that summarizes the program, venue maps, and important notes.  
+ &emsp;<a href="https://esj-meeting.net/wp-content/uploads/2026/02/ESJ73_guide_en_v1.2.pdf" target="_blank">**[Download Conference Program (PDF)]**</a>
+
+Please also check the following pages:
+
+- **[Attendance Information](/attendance_en): Details about registration, rest areas, WiFi, cloakroom, etc.**
+- **[Presentation Guidelines](/presentation_en): Important information presenters should know.**
+- **[Venue](/venue_en): Access to the venue and Venue maps**
+- **[Conference Schedule and Program](/program_en): Conference schedule, oral presentation program.**
+- **<a href="https://www.esj.ne.jp/meeting/abst/index.html" target="_blank">Abstracts</a>：Abstracts of all sessions and oral/poster presentations.**
+
 ## Important Notices
 
-- **Abstract submission deadline: Tue. 17th Feb., 23:59 JST. <span style="color:red;">Abstract registration is not handled through the Raku-Raku Conference but through Registration Site.</span> Please register via the <a href = "https://iap-jp.org/esj/conf/login_en.php" target = "_blank">\[Registration Site\]</a>. Please note that we will be unable to respond to any inquiries about abstracts after the deadline.**
-- **Early-bird registration is available until 17th Feb., 13:00 JST.**
-    - If you have already registered for attendance, you can make payment via the <a href="https://esj73.raku-con.com" target="_blank">Conference Platform (Raku-Raku Conference)</a>.
-    - If you have not registered, please check [Registration Information](/registinfo_en#Registration-for-Participation) before applying.
-- **[Presentation Guidelines](/presentation_en) includes important information for preparing your presentation.**
-- **[Attendance Information](/attendance_en) includes notes for participants and venue details.**
-- **Various presentation materials including poster file can be uploaded to <a href="https://esj73.raku-con.com" target="_blank">the conference platform</a> from 30th Jan. JST.**
-
-### Upcoming Schedule
-
-- **Registration will be unavailable from February 17, 13:00 to February 20, 9:00 due to system maintenance.**
-- **The method for pre-registering presentation files varies depending on the presentation type.**
+- **Please <span style="color:red;">print our your name badge card in advance</span> ([detail](/attendance_en)). Please also bring a name badge holder if possible.**
+    - The name badge card can be downloaded from "Issue certificates" page on the conference platform "Rakuraku-Conference".
+    - If you forget your name badge card, verification at the reception desk will be required. Since congestion is expected, we appreciate your cooperation in printing in advance.
+- **You can now register your presentation materials on the <a href="https://esj73.raku-con.com" target="_blank">conference platform　(Rakuraku-Conference)</a>.**
+- **To attend the conference, please register through the <a href="https://esj73.raku-con.com" target="_blank">conference platform (Rakuraku-Conference)</a>.**
+    - Undergraduate students (including students at colleges of technology) may attend free of charge.
+    - Students in primary schools, junior high schools and high schools may also attend free of charge, and up to 3 accompanying supervisors per group may attend free of charge. Membership in the society is not required.
+    - If you do not fall into the above categories, please pay the [participation fee](/registinfo_en#Conference-Registration) even if you are only attending lectures.
+- **Pre-registration of presentation files is required for poster and oral presentations.**
     - For **poster presentations**, all presenters are required to **[upload their online posters](/presentation_en#Poster-Presentation) by 7th Mar**.
     - For **oral presentations**, no pre-conference upload is necessary; however, presenters must [register their presentation files](/presentation_en#Oral-Presentations) in advance at the Speaker Ready Room provided at the venue. **Please bring your files on a USB flash drive or CD-R.**
     - For presentations in symposia, workshops or forums, please contact the respective session organizers regarding [file handling](/presentation_en#Symposia-Workshops-Forums)  (whether organizers collect them in advance or speakers are required to bring their own PCs).
