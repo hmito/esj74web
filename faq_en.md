@@ -20,14 +20,13 @@ Except for invited speakers in symposia or forums, non-members cannot register a
 However, non-members may be co-authors of presentations given by members.
 
 ### I want to invite non-members to my session. What should I do?
+For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program). Symposium invited speakers may also participate in other presentations and meetings, as well as view online content from the conference platform (RakuRaku-Conference).
 
-For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program).
+Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events, or using the conference platform.
 
-Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events.
+For workshops, non-members cannot give presentations with an abstract. Please join the Ecological Society of Japan and apply as a regular member.
 
-For workshops, non-members cannot give presentations with abstract. Please join the Ecological Society of Japan and apply as a regular member.
-
-Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks. However, even in these cases, the conference registration fee must be paid.
+Note: Non-members may give contributions that do not require the submission of a presentation abstract, such as introductory remarks, commentary, panel discussions, or lightning talks in any session type. However, even in these cases, the conference registration fee must be paid.
 
 ### I want to attend only a workshop. What should I do?
 
@@ -45,7 +44,7 @@ Yes, it is possible. For details on the procedure, please see [**“Invoice Paym
 
 ### Will a receipt be issued for the participation fee?
 
-Receipts are issued from the conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026.
+Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026.
 
 ### Is the participation fee subject to tax?
 
@@ -67,19 +66,21 @@ If you are an ESJ member, please contact our membership administration officer u
 
 ### If I am attending only as an audience and not giving a presentation, by when should I apply?
 
-You can apply to attend as an audience until the day of the conference.
+You can apply to attend as an audience member until the day of the conference.
 
 ### I'd like to change the information I submitted about my oral/poster presentation
 
-You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration Oct. 31, 2025). After that, you cannot correct any information about your presentation.
+You can freely cancel or change your submitted information on the webpage before the deadline for the presentation registration (Oct. 31, 2025). After that, you cannot correct any information about your presentation.
 
-### I selected an on-site poster presentation but am now unable to attend on-site.
+### I selected an on-site poster presentation but am now unable to attend on-site
 
-If you requested an on-site presentation for your poster or junior poster but will not be attending on-site, no specific action is required. However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
+If you requested an on-site presentation for your poster or junior poster but will not be attending on-site, no specific action is required.
+
+However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the online conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (Oct. 31, 2025). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that is subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the ESJ73 official website.
 
 ### I want to cancel my attendance. How should I do this?
 
@@ -97,7 +98,7 @@ We cannot accept any requests to change the conference program under any circums
 
 ### I registered in advance but have not received the program booklet
 
-No printed conference program booklet will be produced for this event. Please obtain necessary information from the conference website, the abstracts website, and the conference platform (RakuRaku-Conference).
+No printed conference program booklet will be produced for this event. Please obtain necessary information from the conference website, the abstracts website, and the online conference platform (RakuRaku-Conference).
 
 ## Abstracts
 
@@ -108,6 +109,8 @@ Abstracts will not be peer-reviewed. Abstracts will be published as they are reg
 ### I was not able to register my abstract by the deadline. Will my presentation be canceled?
 
 No, you can give your presentation even if you miss the abstract submission deadline. However, your abstract will be left blank.
+
+Please note that even if the abstract cannot be registered, the presentation will be treated as a presentation with abstract submission.
 
 ### Do forum speakers need to register their abstracts?
 
@@ -121,11 +124,11 @@ The content and time of video should be equivalent to presentation at on-site. S
 
 ### Can my oral presentation be recorded on-site and streamed in Self On-Demand Streaming?
 
-No. This is because the PCs used for oral presentations at the venue cannot record presentations or extract data afterwards. In addition, bringing your own equipment (video cameras, tripods, etc.) to the venue for recording is not permitted, as it interfere with the smooth transition between presentations.
+No. This is because the PCs used for oral presentations at the venue cannot record presentations or extract data afterwards. In addition, bringing your own equipment (video cameras, tripods, etc.) to the venue for recording is not permitted, as it interferes with the smooth transition between presentations.
 
 ### I canceled my oral presentation, but recorded it in advance. Is it acceptable to stream the recorded presentation by Self On-Demand Streaming?
 
-No. This ie because cancelled presentations will be deleted from the conference platform.
+No. This is because cancelled presentations will be deleted from the online conference platform.
 
 ### My presentation is scheduled for a symposium (or workshop). Can I record my presentation in advance and stream it by Self On-Demand Streaming?
 

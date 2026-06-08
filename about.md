@@ -3,8 +3,8 @@ url: https://esj-meeting.net/about/
 menu: 大会案内 > 基本情報
 multi_language: true
 remarks:
-  委員一覧のように見出しのないテーブルはWordPress上で見出しなしに手動で設定。
   このページは、「大会案内」のメニュー自体をクリック時にも開くように設定。
+  大会組織にある3つのテーブルは、WordPress上で「表のセル幅を固定」ヘッダーセクション」を手動で外す。
 ---
 
 # 大会基本情報
@@ -20,7 +20,9 @@ remarks:
 11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a>  
 14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a>
 
-- **宿泊先をできるだけ早くに確保されることをおすすめします**。両会場へのアクセスに便利なエリアは京都駅周辺や京都市営地下鉄烏丸線沿線です。
+**<a href="https://esj73.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）】</a>**
+
+- 11月27日までに参加登録をされた方には、**大会プラットフォームへのログイン情報をメールにてお送りしています**。日本生態学会大会ヘルプデスク (esj-desk@conf.bunken.co.jp) からのメールをご確認ください。
 
 ## 開催形式
 
@@ -51,19 +53,13 @@ remarks:
 
 ※ 配信は集会企画者・発表者が希望した場合に限ります
 
---------------------------------------------------------------------------
-
-オンデマンド配信にあたって、大会企画・各種集会へは、以下の内容についてご理解・ご同意の上ご参加ください。
-
-- オンデマンド配信の対象となる企画は、**質疑応答を含め全て録画**されます。
-- 会場にカメラを設置して録画するため、動画には**会場の様子が入る**可能性があります。
-
 ## スケジュール
 
-詳細なタイムテーブルは、12月末から1月上旬頃に公開予定です。なお、スケジュールは確定ではありません。**編成の都合で今後変更される可能性**もあります。
+詳細なタイムテーブルは、 [**プログラム**](/program) をご覧ください。
 
 各種申込み情報は [**こちら**](/registinfo) です。
 
+<style> td, th {text-align: center}</style>
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -97,7 +93,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>授賞式・受賞講演</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/prize_winners.html" target = "_blank">授賞式・受賞講演</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,7 +120,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
+<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、<a href = "https://www.esj.ne.jp/meeting/abst/73/sympo_index.html" target = "_blank">シンポジウム</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -133,7 +129,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>自由集会</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/jiyu_index.html" target = "_blank">自由集会</td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -142,7 +138,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>フォーラム</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/forum_index.html" target = "_blank">フォーラム</td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,7 +147,7 @@ remarks:
 <td>○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>口頭発表･英語口頭発表</td>
+<td colspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/oral_index.html" target = "_blank">口頭発表･英語口頭発表</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -160,7 +156,7 @@ remarks:
 <td></td>
 </tr>
 <tr class="even">
-<td rowspan=2>ポスター発表</td>
+<td rowspan=2><a href = "https://www.esj.ne.jp/meeting/abst/73/poster_index.html" target = "_blank">ポスター発表</a></td>
 <td>オンライン</td>
 <td>○</td>
 <td colspan=5>※4月5日まで大会プラットフォーム上で閲覧・コメント可能</td>
@@ -235,16 +231,10 @@ remarks:
 - 事前の参加申込み等は必要ありません。
 - 大会側からの飲食物の提供はいたしません。各自キッチンカー等でご購入ください。持ち込みも自由です。
 - お子様連れでのご参加も大歓迎です。
-- 詳細は後日掲載します。
 
-## 会場のWi-Fi環境
+## 受付・会場設備
 
-両会場ともに無料のWi-Fi環境が提供されています。なお、当日の会場の電波状況・接続環境について保証するものではありません。
-
-- 京大吉田南構内：会場では基本的に <a href="https://www.eduroam.jp/about" target="_blank">eduroam</a> が利用可能です。eduroamアカウントをお持ちの方は、ご利用いただいて構いません。なお、eduroamアカウントをお持ちでない場合でも、大会側では特に対応しません。
-- 国立京都国際会館：全館で<a href="https://www.icckyoto.or.jp/facility/other_services_for_planers/" target="_blank">無料WiFi (ICCK_Public_WiFi) </a>が利用可能です。連続しての接続は60分までです。
-
-※ 本情報は、あくまで会場設備の情報を提供するものです。大会側ではWi-Fi環境に関するいかなる要望に対してもお答えいたしかねます。
+受付、クローク、Wi-Fi等については、[参加にあたって](/attendance)をご覧ください。
 
 ## 育児支援・キャリア支援
 
@@ -260,6 +250,13 @@ ESJ73では、会場内に[託児室](/childcare#託児室)を設置します。
 
 京都大学がアクセス経路をわかりやすく表示した<a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">フリーアクセスマップ</a>を提供しているので、こちらもご参照ください。国立京都国際会館のバリアフリー情報は<a href="https://www.icckyoto.or.jp/facility/accessibility/" target="_blank">こちら</a>にございます。
 
+## 災害時の避難所
+
+災害時の避難所等の情報については、京都市のハザードマップ等の情報をご活用ください。
+
+- [京都市 Web版ハザードマップ](https://www.bousai.city.kyoto.lg.jp/bousai/hazardmap/index.html?lay=saigai_34)
+- [京都市左京区ハザードマップ [PDF]](https://www.bousai.city.kyoto.lg.jp/cmsfiles/contents/0000000/196/03_sakyou_map_jishin.pdf)
+
 ## 大会行動規範
 
 本大会では、大会への参加にあたって参加者全員に以下の行動規範の遵守をお願いしています。
@@ -268,14 +265,11 @@ ESJ73では、会場内に[託児室](/childcare#託児室)を設置します。
 
 第73回日本生態学会年次大会参加者は、大会への参加にあたり、以下の行動規範を遵守する。大会運営スタッフや他の参加者から迷惑・違反行為をやめるよう求められた場合、直ちにこれに応じる。
 
-1. **差別的言動の防止と個人の人格の尊重**  
-大会参加者は、出自・人種・民族・宗教・身体的特徴・年齢・地位・性別・性的指向・障害の有無など個人の属性によって個人を差別せず、個人の人格を尊重する。
+1. **差別的言動の防止と個人の人格の尊重**：大会参加者は、出自・人種・民族・宗教・身体的特徴・年齢・地位・性別・性的指向・障害の有無など個人の属性によって個人を差別せず、個人の人格を尊重する。
 
-2. **ハラスメント行為の防止**  
-他の参加者の活動やキャリアに害を与える行為、特定・不特定多数を問わず不快な想いをさせる行為、それらを助長する行為を含むあらゆる形態のハラスメント行為を行わない。
+2. **ハラスメント行為の防止**：他の参加者の活動やキャリアに害を与える行為、特定・不特定多数を問わず不快な想いをさせる行為、それらを助長する行為を含むあらゆる形態のハラスメント行為を行わない。
 
-3. **撮影・録音に関する違反行為**  
-大会会場において、発表者の承諾なしに写真撮影・音声録画・動画配信を行わない。大会プラットフォーム上にて、スクリーンショット撮影を行わない。オンデマンドにて配信される動画を、参加者以外の第三者に視聴させない。未発表の研究内容について、発表者の承諾なしにSNS等で公開しない。
+3. **撮影・録音に関する違反行為**：大会会場において、発表者の承諾なしに写真撮影・音声録画・動画配信を行わない。大会プラットフォーム上にて、スクリーンショット撮影を行わない。オンデマンドにて配信される動画を、参加者以外の第三者に視聴させない。未発表の研究内容について、発表者の承諾なしにSNS等で公開しない。
 
 ## 大会組織
 

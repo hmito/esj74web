@@ -2,6 +2,8 @@
 url: https://esj-meeting.net/venue/
 menu: 大会案内 > 会場
 multi_language: true
+remarks:
+    画像クリック時にPDFにジャンプするよう、リンクを設定してください（エディター上で画像クリック後、リンクボタンを押して選択）。
 ---
 
 # 会場
@@ -11,11 +13,34 @@ multi_language: true
 11～13日：<a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">京都大学吉田キャンパス吉田南構内</a> \[<a href="https://www.kyoto-u.ac.jp/access" target="_blank">公式のアクセス情報</a>\]  
 14～15日：<a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">国立京都国際会館</a> \[<a href="https://www.icckyoto.or.jp/access/getting_here/" target="_blank">公式のアクセス情報</a>\]
 
+## 会場案内図
+
+<!--画像クリック時に「京大_会場図_統合.pdf」にリンク>-->
+![吉田南構内会場](https://edit.esj-meeting.net/wp-content/uploads/2025/12/京大_会場図_統合.png)
+
+<!--画像クリック時に「国際会館_会場図.pdf」にリンク>-->
+![国立京都国際会館](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
+
+各会場のマップは、以下からPDF形式でダウンロードいただけます。
+
+- [**会場地図 [PDF]**](/media/会場地図.pdf)
+
+## 場内設備の開設時間
+
+|  | 3月11日<br>(水) | 3月12日<br>(木) | 3月13日<br>(金) | 3月14日<br>(土) | 3月15日<br>(日) |
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| **会場** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
+| **受付** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **クローク** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45  | 8:30-<br>18:00 |
+| **ファミリー休憩室** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **休憩室** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **企業展示** | - | - | - | 11:00-<br>19:30 | 9:00-<br>17:00  |
+
 ## 会場へのアクセス
 
 会場への交通機関は、市バス、地下鉄、京阪電車、hoopバスなどがあります。以下に主なルートを示します。
 
-![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/09/to_venue_map.png)
+![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map.png)
 
 ### 11-13日：京都大学吉田南構内へのアクセス
 

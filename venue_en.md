@@ -2,6 +2,8 @@
 url: https://esj-meeting.net/venue_en/
 menu: About > Venue
 multi_language: true
+remarks:
+    画像クリック時にPDFにジャンプするよう、リンクを設定してください（エディター上で画像クリック後、リンクボタンを押して選択）。
 ---
 
 # Venue
@@ -11,11 +13,32 @@ The venue will change between the first and second halves of the meeting.
 11th - 13th Mar.: <a href="https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6" target="_blank">Yoshida-South Campus, Kyoto University (京都大学吉田キャンパス吉田南構内)</a> \[<a href="https://www.kyoto-u.ac.jp/en/access" target="_blank">Access</a>\]  
 14th - 15th Mar.: <a href="https://maps.app.goo.gl/hutdNrXRaDugNpSy7" target="_blank">Kyoto International Conference Center (ICC Kyoto, 国立京都国際会館)</a> \[<a href="https://www.icckyoto.or.jp/en/access-2/getting_here/" target="_blank">Access</a>\]
 
+## Venue Map
+
+![Yoshida-South Campus Venue](https://edit.esj-meeting.net/wp-content/uploads/2025/12/京大_会場図_統合.png)
+
+![Kyoto International Conference Center](https://edit.esj-meeting.net/wp-content/uploads/2025/12/国際会館_会場図.png)
+
+Maps of each venue can be downloaded in PDF format from the links below.
+
+- [**Venue Map [PDF]**](/media/会場地図.pdf)
+
+## Opening Hours
+
+|  | 11th Mar.<br>(Wed) | 12th Mar.<br>(Thu) | 13th Mar.<br>(Fri) | 14th Mar.<br>(Sat) |  15th Mar.<br>(Sun) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Venue** | 12:00-<br>19:40 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
+| **Registration** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Cloak room** | 12:00-<br>19:30 | 8:30-<br>20:45 | 8:30-<br>19:00 | 8:30-<br>19:45 | 8:30-<br>18:00 |
+| **Family room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Break room** | 12:00-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>18:00 | 8:30-<br>15:00 |
+| **Corporate Exhibition** | - | - | - | 11:00-<br>19:30 | 9:00-<br>17:00 |
+
 ## Access to the Venues
 
-Transportation options to the venues include city buses, subways, Keihan Railway, and the hoop Bus. The main routes are outlined below.
+Transportation options to the venues include city buses, subways, Keihan Railway, and the Hoop Bus. The main routes are outlined below.
 
-![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/09/to_venue_map_en.png)
+![venue access map](https://edit.esj-meeting.net/wp-content/uploads/2025/12/to_venue_map_en.png)
 
 ### 11th–13th: Access to Kyoto University, Yoshida South Campus
 
@@ -70,8 +93,6 @@ The Karasuma Subway Line provides convenient access.
 - Exit from Exit 4-2 and walk about 5 minutes.
 
 You can also access ICC Kyoto by bus (City Bus Routes 5, 31, 65, or Kyoto-Bus Routes Toku-16 and Toku-17), but service is infrequent and the coverage area is limited. Please check the schedules and routes carefully before using these options.
-
----------------------
 
 ### Additional Information
 

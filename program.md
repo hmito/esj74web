@@ -14,16 +14,16 @@ remarks:
 ## 大会日程
 
 - <span style="color: red">**各セッションの開始・終了時刻や配置などが変更される場合があります。**</span>航空券や宿泊場所の予約等のための参考情報としてお使いください。
-<!--- 各発表日時の詳細は、[大会講演要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)で公開しました。要旨情報はまだ含まれていませんが、発表日時の確認のためにご利用ください。-->
+- プログラムの詳細は生態学会の<a href="https://www.esj.ne.jp/meeting/abst/index.html" target = "_blank">大会講演要旨閲覧ページ</a>から閲覧可能です。各発表の要旨は現在準備中です。
 
 [大会日程（12/15版）PDF](/media/スケジュール概要_ESJ73_20251215.pdf)
 
 ![大会日程（12/15版）1](/media/スケジュール概要_ESJ73_20251215_1.png)
 ![大会日程（12/15版）2](/media/スケジュール概要_ESJ73_20251215_2.png)
 
-## プログラム
+## 口頭発表プログラム
 
-- プログラムの詳細は生態学会の[大会講演要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)から閲覧可能です。各発表の要旨は現在準備中です。
+- 各講演の詳細については、<a href="https://esj.ne.jp/meeting/abst/73/oral_index.html" target = "_blank">大会講演要旨閲覧ページ</a>からご確認ください。
 
 [口頭発表プログラム（12/15版）PDF[縦長]](/media/JP_ESJ73_oral_20251215_tate.pdf)  
 [口頭発表プログラム（12/15版）PDF[横長]](/media/JP_ESJ73_oral_20251215_yoko.pdf)

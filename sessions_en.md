@@ -9,6 +9,10 @@ remarks:
 
 # Sessions
 
+## Symposia, Workshops, and Forums
+
+The program for symposia, workshops, and forums is now available on [this website (Conference Abstract Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
+
 ## ER Symposia
 
 The following symposium was selected for this year's [ER Symposium](/ersympo_en) (symposium where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research).

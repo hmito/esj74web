@@ -14,12 +14,12 @@ Regular presentations include oral and poster sessions.
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award will be discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
-- Participants could utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the conference platform. Please consider to utilize this service.
+- The original purpose of establishing the award was to promote internationalization of society members, and since this has been achieved, [the English Presentation Award will be discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
+- Participants can utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the online conference platform. Please consider to utilize this service.
 
 **Poster session**
 
-- There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
+- There are two opportunities to present posters: online presentations (**mandatory**) using the online conference platform, and on-site presentations (optional) at the conference venue.
 - Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 8th to 10th Mar. 2026).
 - There will be a core time during the conference period for on-site poster presentations. 
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, this does not apply to those who have received the Poster Award at a previous ESJ meeting.
@@ -89,7 +89,7 @@ You can apply for various types of presentations at the following page.
 </tr>
 <tr>
 <td>Animal-plant interactions</td>
-<td>Microbial ecology</td>
+<td>Fungi and microbes</td>
 <td></td>
 <td></td>
 </tr>
@@ -128,15 +128,15 @@ Poster award will be judged based on online posters.
 - Only the poster itself will be evaluated; graphical abstracts and explanatory videos will generally not be considered.
     - However, judges may refer to graphical abstracts and explanatory videos to understand the research content.
 - For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
-- The language used does not directly affect the evaluation, but in the event of a tie, **posters that can be understood in English** will be given higher priority. This applies in the following cases.
+- The language used does not directly affect the evaluation, **but in the event of a tie, posters that can be understood in English will be given higher priority**. This applies in the following cases.
     - English is included in the title, introduction, and conclusion.
-    - Understanding the outline of research by reading English alone.
+    - The research outline is easily understood by reading the English alone.
     - An English version of the poster is available on a separate page.
 
 ### Precautions
 
 - The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for 7th Mar. 2026, 23:59 (JST)).
-- The poster format should be **one A0-size sheet, portrait orientation only**.　This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
+- The poster format should be **one A0-size sheet, portrait orientation only**. This is based on the idea that “poster presentation is a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
 
