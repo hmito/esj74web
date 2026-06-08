@@ -6,6 +6,8 @@ multi_language: true
 
 # ER Symposium
 
+[\[Check the selected ER-Symposium\]](/sessions_en#ER-Symposia)
+
 ESJ73 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal [Ecological Research](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\).
 
 The symposium committee, responsible for the selection process, will choose one candidate overseas researcher to be the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 1), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
@@ -44,7 +46,7 @@ Proposals to reinvite individuals who have previously served as ER Invited Speak
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
+For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Deadline
 
@@ -74,9 +76,12 @@ Please note that if your proposal is accepted, the information provided in your 
 
 Travel expenses are covered within the society's travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances.
 
+For further details, please refer to the following file. We apologize, but only the Japanese version is available.  
+[\[Travel Expenses policy for Inviting Overseas Researchers (pdf file)\]](https://edit.esj-meeting.net/wp-content/uploads/2025/09/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf)
+
 ## Note 2
 
-In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
+In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a ["Symposium Invited Speaker Program"](/regist_session_en#Symposium-Invited-Speaker-Program). This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this program.
 
 ## Reference: Common Guidelines for Regular Symposia
 

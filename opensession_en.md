@@ -6,6 +6,8 @@ multi_language: true
 
 # Open Session
 
+[\[Check the selected Open Session\]](/sessions_en#Open-Session)
+
 Following the previous meeting, ESJ73 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
@@ -57,9 +59,9 @@ Note: Item 4 is just additional information related to Item 3. Journal impact fa
 
 Please note that if your proposal is accepted, the information provided in your application may be used on the official conference website for the purpose of announcing the selection results.
 
-## Note 1: The ESJ73 Symposium includes an "invited speaker" system
+## Note 1: Symposium Invited Speaker Program
 
-The ESJ73 Symposium includes an "invited speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
+The ESJ73 Symposium includes an "Symposium Invited Speaker Program". This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
 
 ## Note 2: Posters presented in the open session category will not be eligible for poster awards
 
