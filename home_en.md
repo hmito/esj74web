@@ -8,18 +8,17 @@ multi_language: true
 
 ## Important Notices
 
+- **The [ESJ73 program](/prgoram_en) has been published.**
+    - Note that we are unable to respond to individual request for presentation dates. Thank you for your understanding.
 - **Due to ongoing system migration work, registration for conference participation is currently unavailable. We plan to resume service on 6th Jan. 2026.**
     - Early registration discount is available until 17th Feb. 2026, 13:00 (JST).
 - **Applications for presentations and sessions are now closed.**
     - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
-- **The first day of the conference, 11th Mar., will begin in the afternoon. On that day, only oral presentations will be held, while various sessions are scheduled from 12th Mar. onward. See the [schedule](/about_en#schedule) for detail.**
 - **We recommend booking your accommodation well in advance.**
     - For venue access information, please check the [Venue Page](/venue).
 
 ### Upcoming Schedule
 
-- **The program is scheduled to be published in early January.**
-    - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
 - **Abstract registration will close at 17th Feb. 2026, 23:59 (JST).**
 - **Handling of presentation files differs depending on the presentation type. Detailed information will be announced in early January.**
     - For **poster** presentations, all presenters are required to **upload their online posters by 7th Mar.**.
