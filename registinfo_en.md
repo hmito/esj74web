@@ -9,11 +9,13 @@ remarks:
 
 # Registration
 
-We are currently accepting applications for the ER Symposium. For details, please visit the following pages:
+We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
+- [Open Sessions](/opensession_en)
 - [ER Symposium](/ersympo_en)
 
 Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
+
 
 ## Deadlines for Presentations and Proposals
 
@@ -62,11 +64,10 @@ Please note that the listed deadlines are subject to change.
 
 ## Restrictions on Multiple Presentations
 
-The Ecological Society of Japan aims to create rules for participation that are easy for everyone to understand. At the 73rd conference, we have decided to revise the complicated rules of overlap restriction for presentations and to make <span style="color: red; ">“one-person, one-presentation”</span> as the general rule.
-
 - Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
     - Please note that, unlike previous conferences, <span style="color:red;">it is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
-    - Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
+    - This restriction applies only for being a presenter. There are no restrictions for being a co-presenter (co-author). Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
+- **All presentations requiring abstract registration, except for poster presentations, must be delivered on-site**. However, this requirement does not apply in cases of reasonable accommodation.
 - In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as general introductions, commentators, panelists, or lightning talks, or to organize a session only.
     - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
     - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
