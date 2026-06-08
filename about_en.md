@@ -1,6 +1,6 @@
 ---
 url: https://esj-meeting.net/about_en/
-menu: Meeting Information > About
+menu: About > Overview
 multi_language: true
 remarks:
   このページは、「Meeting Information」のメニュー自体をクリック時にも開くように設定。
