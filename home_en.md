@@ -8,8 +8,8 @@ multi_language: true
 
 ## Important notice
 
-- **~~We are now opening a call for [Open Sessions](/opensession_en) (Application: 2025.07.01 - 07.31)~~**
-- **We are now opening a call for [ER Symposia](/ersympo_en) (Application: 2025.07.01 - 08.29)**
+- **We are now opening a call for [Open Sessions](/opensession_en) (Application: 2026.07.01 - 07.31)**
+- **We are now opening a call for [ER Symposia](/ersympo_en) (Application: 2026.07.01 - 08.31)**
 
 ### Upcoming Schedule
 
@@ -17,18 +17,18 @@ multi_language: true
 
 ## Meeting information
 
-The 73<sup>rd</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
+The 74th Annual Meeting of the Ecological Society of Japan (ESJ74) will be held as follows.
 
-**Dates: 11th March 2026 to 15th March 2026**  
-**Venue: Two locations - [Yoshida-South Campus, Kyoto University](https://maps.app.goo.gl/LHLBy3ZXNsiJq8bb6)\(11th-13th\) and [Kyoto International Conference Center (ICC Kyoto)](https://maps.app.goo.gl/hutdNrXRaDugNpSy7)\(14th-15th\)**
+**Dates: 18th March 2027 to 21st March 2027**  
+**Venue: Two locations - [Toyama International Conference Center](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A) and [Toyama Kenmin Kaikan](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9)**
 
 For more details about the meeting, please see [here](/about_en).
 
-All presentations at this meeting are planned to be held onsite. We are also working to enhance online contents, such as "self on-demand streaming" where organizers and speakers can upload recorded videos of the presentation at the meeting themselves.
+All presentations at this meeting are planned to be held onsite. ~~We are also working to enhance online contents, such as "self on-demand streaming" where organizers and speakers can upload recorded videos of the presentation at the meeting themselves.~~
 
 Details of the meeting will be posted on this website as they are decided.
 
 ## Update history
 
-- 2025.07.01: Call for Open Sessions and ER Symposium has started.
-- 2025.07.01: The website for the 73rd Annual Meeting of the Ecological Society of Japan has been launched.
+- 2026.07.01: Call for Open Sessions and ER Symposium has started.
+- 2026.07.01: The website for the 74th Annual Meeting of the Ecological Society of Japan has been launched.
