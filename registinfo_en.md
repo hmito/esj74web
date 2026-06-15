@@ -44,7 +44,7 @@ Please note that the listed deadlines are subject to change.
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>Around Sep. 2026 (tentative)</td>
+      <td>Tue. 15 Sep. 2026 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />

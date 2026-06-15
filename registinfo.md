@@ -18,6 +18,8 @@ remarks:
 
 ## 講演・企画に関する締切
 
+記載の日程から変更される可能性がありますのでご注意ください。
+
 <table>
   <colgroup>
     <col style="width: 20%" />
@@ -41,7 +43,7 @@ remarks:
     </tr>
     <tr class="odd">
       <td>フォーラム</td>
-      <td>2026年9月頃を予定</td>
+      <td>2026年9月15日(火) 23:59</td>
     </tr>
     <tr class="even">
       <td>シンポジウム<br />
