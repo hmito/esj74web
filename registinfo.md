@@ -47,7 +47,7 @@ remarks:
     </tr>
     <tr class="even">
       <td>シンポジウム<br />
-      <td rowspan=4> 受付開始予定:<br>2026年10月1日(水)<br><br>締切:<br>2026年11月2日(月) 23:59</td>
+      <td rowspan=4> 受付開始予定:<br>2026年10月1日(木)<br><br>締切:<br>2026年11月2日(月) 23:59</td>
     </tr>
     <tr class="odd">
       <td>自由集会</td>
