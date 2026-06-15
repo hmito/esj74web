@@ -19,23 +19,21 @@ The meeting will be held at two separate venues. It takes about 5 minutes to wal
 [Toyama International Conference Center](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A) \/ [**\[Access\]**](https://www.ticc.co.jp/english/access/)  
 [Toyama Kenmin Kaikan](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9) \/ [**\[Access\]**](https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html)
 
-**We recommend booking your accommodation well in advance**. Convenient areas for accessing both venues are around Toyama Station and along the Toyama City Tram Loop Line (富山地方鉄道市内環状線).
-
 ## Meeting Format
 
 - The meeting will be held in a hybrid format, primarily onsite, with the use of an online platform.
 - Oral presentations and sessions will take place onsite. In principle, online-only presentations will not be accepted.
 - Poster presentations will be conducted by uploading files in advance to the online platform, allowing participants to freely view them during the meeting period.
-  - Participants who wish may also display their posters onsite, however, if there are too many requests, we may limit the number of onsite presentations.
-  - Core time will be scheduled for onsite participants.
+    - Participants who wish may also display their posters onsite, however, if there are too many requests, we may limit the number of onsite presentations.
+    - Core time will be scheduled for onsite participants.
 - For major conference events including some sessions, recordings will be made by the meeting organizers and later made available on the online platform as on-demand streaming. Live streaming is not planned.
-  - We are currently discussing whether to implement the "self-on-demand" (self-recorded videos uploaded to the online platform) for sessions and oral presentations not covered by the above criteria.
+    - We are currently discussing whether to implement the "self-on-demand" (self-recorded videos uploaded to the online platform) for sessions and oral presentations not covered by the above criteria.
 
 Further details will be posted on this website as they are finalized.
 
 ## Important Dates and Registration
 
-Registration for participation is scheduled to begin around October. Details will be posted on the [Registration Information page](/registinfo_en).
+Applications for [Open sessions](/opensession_en) are open until the end of July, and applications for the [ER Symposium](/ersympo_en) are open until the end of August. Other participation applications are scheduled to begin around October. Details will be posted on the [Registration Information page](/registinfo_en).
 
 ## Promoting Diversity at the Meeting
 
