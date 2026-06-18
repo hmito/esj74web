@@ -73,11 +73,14 @@ Please note that if your proposal is accepted, the information provided in your 
 
 ## Note 1
 
-Travel expenses are covered within the society's [Travel Expense Regulations](https://esj.ne.jp/esj/Rule/ryohi_kitei.html). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances. For more details, please refer to [Travel Expenses for International Invitees](https://esj-meeting.net/wp-content/uploads/2025/09/%E6%B5%B7%E5%A4%96%E6%8B%9B%E8%81%98%E8%80%85%E6%97%85%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025%EF%BC%89.pdf).
+Travel expenses are covered within the society's [Travel Expense Regulations](https://esj.ne.jp/esj/Rule/ryohi_kitei.html). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances. 
+
+For further details, please refer to the following file. We apologize, but only the Japanese version is available.  
+[\[Travel Expenses policy for Inviting Overseas Researchers (pdf file)\]](/media/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf)
 
 ## Note 2
 
-In addition to the "ER Invited Speaker" system, ESJ74 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
+In addition to the "ER Invited Speaker" program, ESJ74 symposia also have a "Symposium Invited Speaker Program". This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this program.
 
 ## Reference: Common Guidelines for Regular Symposia
 

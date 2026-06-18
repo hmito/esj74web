@@ -57,9 +57,9 @@ Note: Item 4 is just additional information related to Item 3. Journal impact fa
 
 Please note that if your proposal is accepted, the information provided in your application may be used on the official conference website for the purpose of announcing the selection results.
 
-## Note 1: The ESJ74 Symposium includes an "invited speaker" system
+## Note 1: Symposium Invited Speaker Program
 
-The ESJ74 Symposia include an "invited speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
+The ESJ74 Symposium includes an "Symposium Invited Speaker Program". This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
 
 ## Note 2: Posters presented in the open session category will not be eligible for poster awards
 
