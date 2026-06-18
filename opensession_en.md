@@ -6,11 +6,11 @@ multi_language: true
 
 # Open Session
 
-Following the previous meeting, ESJ73 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
+Following the previous meetings, ESJ74 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
-This venue offers opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
+This venue offers opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers and speakers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
 
 ## Guidelines
 
@@ -24,7 +24,7 @@ If selected, the conveners will organize a symposium based on the proposed theme
 
 ### Review and Selection
 
-The ESJ73 Planning Committee will review the proposed "themes" and only 1-2 sessions total will be chosen based on the review results.
+The ESJ74 Planning Committee will review the proposed "themes" and only 1-2 sessions total will be chosen based on the review results.
 
 ### Review Criteria
 
@@ -36,15 +36,15 @@ Conveners of accepted themes will receive a list of oral presentations, poster p
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rules have changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
+For ESJ74, each presenter is restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Submission
 
-Proposals can be co-authored, but only one person should be designated as the contact. The submission **deadline is Thursday, July 31, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
+Proposals can be co-authored, but only one person should be designated as the contact. The submission **deadline is Friday, July 31, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
 
 ### Application Procedure
 
-Submit proposals via the application [Google Form](https://forms.gle/qHr7ivZ47VT5F3go8).
+Submit proposals via the application [Google Form](https://forms.gle/1CfE6ZfsbfLA8JjdA).
 
 The proposal should include the following information:
 
@@ -57,9 +57,9 @@ Note: Item 4 is just additional information related to Item 3. Journal impact fa
 
 Please note that if your proposal is accepted, the information provided in your application may be used on the official conference website for the purpose of announcing the selection results.
 
-## Note 1: The ESJ73 Symposium includes an "invited speaker" system
+## Note 1: The ESJ74 Symposium includes an "invited speaker" system
 
-The ESJ73 Symposium includes an "invited speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
+The ESJ74 Symposia include an "invited speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee. There is no limit on the number of invited speakers, but travel expenses will not be covered. Additionally, the same non-member cannot be invited to speak at two consecutive conferences.
 
 ## Note 2: Posters presented in the open session category will not be eligible for poster awards
 
@@ -74,6 +74,6 @@ This is because securing judges for new themes is challenging. Therefore, poster
 We look forward to receiving your proposals.
 
 ***
-For inquiries and requests related to this matter, please contact Dr. Narumi Tsugeki, Chair of the Symposium Committee of the ESJ73 Planning Committee (Matsuyama University): narutsugeki \[at\] gmail.com
+For inquiries and requests related to this matter, please contact Natsuko Kondo (National Institute for Environmental Studies), Chair of the Symposium Committee of the ESJ74 Planning Committee: kondo.natsuko \[at\] nies.go.jp
 
-Written by: Narumi Tsugeki, Chair of the ESJ73 Symposium Committee
+Written by: Natsuko Kondo, Chair of the ESJ74 Symposium Committee
