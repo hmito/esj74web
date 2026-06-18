@@ -6,7 +6,7 @@ multi_language: true
 
 # ER Symposium
 
-ESJ73 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal [Ecological Research](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\).
+ESJ74 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal [Ecological Research](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\).
 
 The symposium committee, responsible for the selection process, will choose one candidate overseas researcher to be the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 1), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
 
@@ -36,7 +36,7 @@ There are no nationality restrictions for the ER Invited Speaker.
 
 ### Review and Selection
 
-Proposals will be reviewed by the ESJ73 Symposium Committee, and one speaker will be selected based on the review results.
+Proposals will be reviewed by the ESJ74 Symposium Committee, and one speaker will be selected based on the review results.
 
 ### Restrictions on Reinvitation to ER Symposium
 
@@ -44,15 +44,15 @@ Proposals to reinvite individuals who have previously served as ER Invited Speak
 
 ### Restrictions on Multiple Presentations
 
-For ESJ73, the presentation rule has changed. Each presenter is now restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
+From ESJ73, the presentation rule has changed. Each presenter is  restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Deadline
 
-The deadline for submitting ER Symposium proposals is **Friday, August 29, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
+The deadline for submitting ER Symposium proposals is **Monday, August 31, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
 
 ### Application Procedure
 
-Submit proposals via this [Google Form](https://forms.gle/zLUL9b7VZKd51uJQ6). If you cannot access Google Forms and wish to apply, please contact the person listed at the end of this document via email.
+Submit proposals via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeiSLofBO7Bh6dA-V7ixVRbFa9bYFi-1c3vwtgkBpEKitmZvg/viewform). If you cannot access Google Forms and wish to apply, please contact the person listed at the end of this document via email.
 
 The proposal should include the following information:
 
@@ -60,6 +60,7 @@ The proposal should include the following information:
     - Name, affiliation, email address
 2. ER Invited Speaker Information
     - Name, affiliation
+    - Brief introduction of the ER Invited Speaker: about 100 words.
     - Reasons for inviting the speaker (e.g., how the ER Invited Speaker will enhance the value of the symposium, benefits to society members from the invited lecture, and the contributed paper): about 200 words
     - Representative papers  for the ER Invited Speaker (up to five papers). This will be utilized as a reference for the invited speaker of ER symposium.
 3. Symposium Details
@@ -72,11 +73,11 @@ Please note that if your proposal is accepted, the information provided in your 
 
 ## Note 1
 
-Travel expenses are covered within the society's travel expense regulations (URL: [https://esj.ne.jp/esj/Rule/ryohi_kitei.html](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances.
+Travel expenses are covered within the society's [Travel Expense Regulations](https://esj.ne.jp/esj/Rule/ryohi_kitei.html). While the regulations do not specify the class of airfare, economy class is generally assumed, except under exceptional circumstances. For more details, please refer to [Travel Expenses for International Invitees](https://esj-meeting.net/wp-content/uploads/2025/09/%E6%B5%B7%E5%A4%96%E6%8B%9B%E8%81%98%E8%80%85%E6%97%85%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025%EF%BC%89.pdf).
 
 ## Note 2
 
-In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
+In addition to the "ER Invited Speaker" system, ESJ74 symposia also have a "Guest Speaker" system. This allows distinguished non-members (domestic or international) to give lectures without a conference participation fee, with no limit on the number of guest speakers. However, there is no opportunity to contribute a review or feature paper to *Ecological Research* with open access at the society's expense. Travel expenses for guest speakers are also not covered. If your proposal is not selected for an ER Symposium, please consider this system.
 
 ## Reference: Common Guidelines for Regular Symposia
 
@@ -88,6 +89,6 @@ In addition to the "ER Invited Speaker" system, ESJ73 symposia also have a "Gues
 
 ***
 
-For inquiries and requests related to this matter, please contact Dr. Yusaku Ohkubo, ER Symposium Coordinator of the Symposium Committee of the ESJ73 Planning Committee (Forestry and Forest Products Research Institute): y-ohkubo \[at\] okayama-u.ac.jp
+For inquiries and requests related to this matter, please contact Prof. Yang Wei (Chiba University), ER Symposium Coordinator of the Symposium Committee of the ESJ74 Planning Committee: yangwei \[at\] chiba-u.jp
 
-Written by: Narumi Tsugeki Chair of the ESJ73 Symposium Committee
+Written by: Natsuko Kondo, Chair of the ESJ74 Symposium Committee
