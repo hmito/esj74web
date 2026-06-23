@@ -55,5 +55,5 @@ Participants must not discriminate against individuals based on attributes such 
 2. **Prevention of Harassment**  
 Participants must not engage in any form of harassment, including actions that harm the activities or careers of others, cause discomfort to individuals or groups, or encourage such behavior.
 
-3. **Prohibition of Unauthorized Photography and Recording**  
-Participants must not take photographs, record audio, or stream video at the venue without the presenter's consent. Screenshots on the meeting platform are also prohibited. On-demand videos must not be shared with third parties who are not participants. Unpublished research content must not be disclosed on social media or other platforms without the presenter’s consent.
+3. **Prohibition of Unauthorized Photography, Recording, and Sharing**  
+Participants must not take photographs, record audio, record video, or stream video at the venue without the presenter's consent. Participants must not disclose unpublished research content to third parties without the presenter's consent. Participants must not take screenshots or otherwise capture images of videos, posters, or other presentation materials delivered on the meeting platform, or allow people who are not participants to view them.
