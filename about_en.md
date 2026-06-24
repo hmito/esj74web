@@ -17,7 +17,8 @@ March 18 (Thu) - March 21 (Sun), 2027
 The meeting will be held at two separate venues. It takes about 5 minutes to walk between the venues.
 
 [Toyama International Conference Center](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A) \/ [**\[Access\]**](https://www.ticc.co.jp/english/access/)  
-[Toyama Kenmin Kaikan](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9) \/ [**\[Access\]**](https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html)
+[Toyama Kenmin Kaikan](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9) \/ [**\[Access\]**](https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html)  
+(All links lead to external sites)
 
 ## Meeting Format
 
@@ -33,7 +34,7 @@ Further details will be posted on this website as they are finalized.
 
 ## Important Dates and Registration
 
-Applications for [Open sessions](/opensession_en) are open until the end of July, and applications for the [ER Symposium](/ersympo_en) are open until the end of August. Other participation applications are scheduled to begin around October. Details will be posted on the [Registration Information page](/registinfo_en).
+Applications for [Open sessions](/opensession_en) are open until the end of July, and applications for the [ER Symposium](/ersympo_en) are open until the end of August. Other participation applications are scheduled to begin on Thu., October 1st, 2026. Details will be posted on the [Registration Information page](/registinfo_en).
 
 ## Promoting Diversity at the Meeting
 
