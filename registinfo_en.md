@@ -14,7 +14,7 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 - [Open Sessions](/opensession_en)
 - [ER Symposium](/ersympo_en)
 
-Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
+Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open on 1st October.
 
 ## Deadlines for Presentations and Proposals
 
