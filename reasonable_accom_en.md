@@ -6,7 +6,7 @@ multi_language: true
 
 # Reasonable Accommodation at the Meeting
 
-The Ecological Society of Japan is committed to fostering diversity and supporting the participation of researchers from all backgrounds, as outlined in our [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity). We strive to create an inclusive environment where everyone can participate comfortably.
+The Ecological Society of Japan is committed to fostering diversity and supporting the participation of researchers from all backgrounds, as outlined in our <a href="https://www.esj.ne.jp/esj/e_index.html#diversity" target="_blank">ESJ Diversity Statement</a>. We strive to create an inclusive environment where everyone can participate comfortably.
 
 If you need reasonable accommodation for presentations or attendance due to disability, medical conditions or other circumstances, please contact us using the email address below. We will carefully consider how we can best support your needs.
 

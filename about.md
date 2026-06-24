@@ -17,8 +17,8 @@ remarks:
 **=会場=**  
 2つの会場に分かれて開催されます。会場間は徒歩5分程度です。
 
-[富山国際会議場](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A) / [**\[アクセス\]**](https://www.ticc.co.jp/access/)  
-[富山県民会館](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9) / [**\[アクセス\]**](https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html)  
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[アクセス\]**</a>  
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">富山県民会館</a> / <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[アクセス\]**</a>  
 (いずれも外部サイトへリンクします)
 
 ## 開催形式
@@ -47,7 +47,7 @@ remarks:
 
 ## 大会における多様性の推進
 
-日本生態学会では、[ダイバーシティ推進宣言](https://www.esj.ne.jp/esj/#diversity)を掲げ、多様な背景をもつ研究者の参画を奨励しています。多様な立場やジェンダー、国籍の研究者からの意欲的な提案を期待しています。またシンポジウム・自由集会の企画者は、企画者や講演者の立場やジェンダーなどのバランスに配慮して集会を構成してください。
+日本生態学会では、<a href="https://www.esj.ne.jp/esj/#diversity" target="_blank">ダイバーシティ推進宣言</a>を掲げ、多様な背景をもつ研究者の参画を奨励しています。多様な立場やジェンダー、国籍の研究者からの意欲的な提案を期待しています。またシンポジウム・自由集会の企画者は、企画者や講演者の立場やジェンダーなどのバランスに配慮して集会を構成してください。
 
 本大会では、誰もが参加しやすい環境の整備を進めています。発表や聴講に際して、健康上の理由やその他の事情により合理的配慮が必要な場合には、あらかじめご相談ください。どのような配慮が提供可能か検討させていただきます。詳細は[合理的配慮の提供](/reasonable_accom)をご覧ください。
 

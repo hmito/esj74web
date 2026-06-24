@@ -16,8 +16,8 @@ March 18 (Thu) - March 21 (Sun), 2027
 **= Venue =**  
 The meeting will be held at two separate venues. It takes about 5 minutes to walk between the venues.
 
-[Toyama International Conference Center](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A) \/ [**\[Access\]**](https://www.ticc.co.jp/english/access/)  
-[Toyama Kenmin Kaikan](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9) \/ [**\[Access\]**](https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html)  
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/ <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/ <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
 (All links lead to external sites)
 
 ## Meeting Format
@@ -38,7 +38,7 @@ Applications for [Open sessions](/opensession_en) are open until the end of July
 
 ## Promoting Diversity at the Meeting
 
-The Ecological Society of Japan upholds a [ESJ Diversity Statement](https://www.esj.ne.jp/esj/e_index.html#diversity) and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
+The Ecological Society of Japan upholds a <a href="https://www.esj.ne.jp/esj/e_index.html#diversity" target="_blank">ESJ Diversity Statement</a> and encourages the participation of researchers from diverse backgrounds. We welcome proposals from researchers of various positions, genders, and nationalities. Organizers of symposia and workshops are also requested to consider diversity in positions, genders, and other aspects when selecting organizers and speakers.
 
 We are making efforts to create accessible environments for everyone at this meeting. If you require reasonable accommodations for presentations or attendance at the meeting due to health conditions or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
 
