@@ -29,6 +29,7 @@ The meeting will be held at two separate venues. It takes about 5 minutes to wal
     - Core time will be scheduled for onsite participants.
 - For major conference events including some sessions, recordings will be made by the meeting organizers and later made available on the online platform as on-demand streaming. Live streaming is not planned.
     - We are currently discussing whether to implement the "self-on-demand" (self-recorded videos uploaded to the online platform) for sessions and oral presentations not covered by the above criteria.
+    - Poster presentations will remain available for viewing on the online platform even after the conference has closed.
 
 Further details will be posted on this website as they are finalized.
 
