@@ -40,7 +40,7 @@ For ESJ74, each presenter is restricted to one presentation with abstract regist
 
 ### Proposal Deadline
 
-The deadline for submitting theme proposals is **Friday, July 31, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
+The deadline for submitting theme proposals is **Friday 31st July, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
 
 ### Application Procedure
 

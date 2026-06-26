@@ -11,7 +11,7 @@ remarks:
 The 74th Annual Meeting of the Ecological Society of Japan (ESJ74)
 
 **= Dates =**  
-March 18 (Thu) - March 21 (Sun), 2027
+Thu. 18th March - Sun. 21st March, 2027
 
 **= Venue =**  
 The meeting will be held at two separate venues. It takes about 5 minutes to walk between the venues.

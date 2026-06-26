@@ -34,20 +34,20 @@ Please note that the listed deadlines are subject to change.
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Fri. 31 Jul. 2026 23:59 (JST)</td>
+      <td>Fri. 31st Jul. 2026 23:59 (JST)</td>
       <td rowspan=7>Around Feb. 2027 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Mon. 31 Aug. 2026 23:59 (JST)</td>
+      <td>Mon. 31st Aug. 2026 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>Tue. 15 Sep. 2026 23:59 (JST)</td>
+      <td>Tue. 15th Sep. 2026 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> Registration to begin:<br>Thu. 1 Oct. 2026<br><br>Deadline:<br>Mon. 2 Nov. 2026 23:59 (JST)</td>
+      <td rowspan=4> Registration to begin:<br>Thu. 1st Oct. 2026<br><br>Deadline:<br>Mon. 2nd Nov. 2026 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Workshop</td>
@@ -85,7 +85,7 @@ Only ESJ members (regular, student and emeritus members) are eligible to be pres
 Co-presenters are not required to be members.
 
 | **Presentation Type** | **Member \*1** | **Non-Member** |
-|:---------------------|:--------------:|:--------------:|
+| :--------------------- | :--------------: | :--------------: |
 | Regular Presentation (Oral or Poster) | ◯ | |
 | Symposium/Workshop Organizer | ◯ | |
 | Symposium Presenter | ◯ | ◯ \*2 |

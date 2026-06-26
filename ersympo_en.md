@@ -48,7 +48,7 @@ For ESJ74, each presenter is restricted to one presentation with abstract regist
 
 ### Proposal Deadline
 
-The deadline for submitting ER Symposium proposals is **Monday, August 31, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
+The deadline for submitting ER Symposium proposals is **Monday 31st August, at 23:59 JST**. Notifications of acceptance or rejection are planned for September.
 
 ### Application Procedure
 
