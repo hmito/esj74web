@@ -44,7 +44,7 @@ The deadline for submitting theme proposals is **Friday, July 31, at 23:59 JST**
 
 ### Application Procedure
 
-Proposals can be co-authored, but only one person should be designated as the contact. Submit proposals via the [Google Form](https://forms.gle/FfhHhdaf4Bvs1Gzb7) application. If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
+Proposals can be co-authored, but only one person should be designated as the contact. Submit proposals via the <a href="https://forms.gle/FfhHhdaf4Bvs1Gzb7" target="_blank">Google Form</a> application. If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
 
 The proposal should include the following information:
 

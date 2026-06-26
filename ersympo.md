@@ -6,7 +6,7 @@ multi_language: true
 
 # ER シンポジウム（ER招待講演を希望するシンポジウム）
 
-ESJ74では、海外の優秀な研究者を招聘してシンポジウムでの講演と[Ecological Research誌](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\) への寄稿をお願いする「ER シンポジウム」という制度があります。本制度は、多様な視点からの提案を歓迎しております。女性や若手の研究者の皆様も、ぜひご応募をご検討ください。
+ESJ74では、海外の優秀な研究者を招聘してシンポジウムでの講演と<a href="https://esj-journals.onlinelibrary.wiley.com/journal/14401703" target="_blank">Ecological Research誌</a> \(ER\) への寄稿をお願いする「ER シンポジウム」という制度があります。本制度は、多様な視点からの提案を歓迎しております。女性や若手の研究者の皆様も、ぜひご応募をご検討ください。
 
 ESJ74では、ERシンポジウムで講演する海外研究者のうち1名を Ecological Research誌による招待講演者（ER招待講演者）として採用予定です。本大会ではER招待講演者は大会参加費が無料となる他、大会参加に必要な旅費を支給します（規定あり、補記1参照）。大会後にシンポジウム内容に関連したレビュー論文もしくは特集論文などをEcological Research誌に投稿していただくことが原則となりますが、投稿論文が受理された場合は学会負担でオープンアクセス化して出版されます。
 
@@ -52,7 +52,7 @@ ERシンポジウム企画案の**提案締め切りは8月31日（月）日本�
 
 ### 応募方法
 
-提案は応募用[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeiSLofBO7Bh6dA-V7ixVRbFa9bYFi-1c3vwtgkBpEKitmZvg/viewform)から行ってください。Googleフォームにアクセスできない方で、応募を希望される方は、大会のお問い合わせフォームを用いてシンポジウム部会までご連絡ください（本ページ文末参照）。
+提案は応募用<a href="https://docs.google.com/forms/d/e/1FAIpQLSeiSLofBO7Bh6dA-V7ixVRbFa9bYFi-1c3vwtgkBpEKitmZvg/viewform" target="_blank">Googleフォーム</a>から行ってください。Googleフォームにアクセスできない方で、応募を希望される方は、大会のお問い合わせフォームを用いてシンポジウム部会までご連絡ください（本ページ文末参照）。
 
 応募書類に記載する項目は以下の通りです：
 
@@ -73,7 +73,7 @@ ERシンポジウム企画案の**提案締め切りは8月31日（月）日本�
 
 ## 補記１：生態学会旅費規則
 
-旅費については学会から[生態学会旅費規則](https://esj.ne.jp/esj/Rule/ryohi_kitei.html)の範囲で支給されます。リンク先の規則には、航空券の券種についての記述がありませんが、原則としてエコノミークラスです。詳細は[海外招聘者旅費について](https://esj-meeting.net/wp-content/uploads/2025/09/%E6%B5%B7%E5%A4%96%E6%8B%9B%E8%81%98%E8%80%85%E6%97%85%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025%EF%BC%89.pdf)をご覧ください。
+旅費については学会から<a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">生態学会旅費規則</a>の範囲で支給されます。リンク先の規則には、航空券の券種についての記述がありませんが、原則としてエコノミークラスです。詳細は[海外招聘者旅費について](/media/海外招聘者旅費について（2025）.pdf)をご覧ください。
 
 ## 補記２：招待講演者制度
 

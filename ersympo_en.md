@@ -6,7 +6,7 @@ multi_language: true
 
 # ER Symposium
 
-ESJ74 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal [*Ecological Research*](https://esj-journals.onlinelibrary.wiley.com/journal/14401703) \(ER\).
+ESJ74 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal <a href="https://esj-journals.onlinelibrary.wiley.com/journal/14401703" target="_blank">*Ecological Research*</a> \(ER\).
 
 The symposium committee, responsible for the selection process, will select one overseas researcher to serve as the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations; see Note 1), and the opportunity to submit a review or feature paper on the symposium content to *Ecological Research* after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
 
@@ -52,7 +52,7 @@ The deadline for submitting ER Symposium proposals is **Monday, August 31, at 23
 
 ### Application Procedure
 
-Submit proposals via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeiSLofBO7Bh6dA-V7ixVRbFa9bYFi-1c3vwtgkBpEKitmZvg/viewform). If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
+Submit proposals via this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiSLofBO7Bh6dA-V7ixVRbFa9bYFi-1c3vwtgkBpEKitmZvg/viewform" target="_blank">Google Form</a>. If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
 
 The proposal should include the following information:
 
@@ -73,7 +73,7 @@ Please note that if your proposal is accepted, the information provided in your 
 
 ## Note 1: Travel Expense Regulations
 
-Travel expenses are covered within the society's [Travel Expense Regulations](https://esj.ne.jp/esj/Rule/ryohi_kitei.html). While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to [Travel Expenses for International Invitees](https://esj-meeting.net/wp-content/uploads/2025/09/%E6%B5%B7%E5%A4%96%E6%8B%9B%E8%81%98%E8%80%85%E6%97%85%E8%B2%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%882025%EF%BC%89.pdf). We apologize for only having the Japanese version available.
+Travel expenses are covered within the society's <a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">Travel Expense Regulations (Japanese verison only)</a>. While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to [Travel Expenses for International Invitees](/media/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf). We apologize for only having the Japanese version available.
 
 ## Note 2: Symposium Invited Speaker Program
 
