@@ -17,7 +17,7 @@ multi_language: true
 
 ## 大会案内
 
-**第74回日本生態学会大会（ESJ74）を下記の通り開催します。** 大会案内の詳細は[こちら](/about)をご覧ください。
+**第74回日本生態学会大会（ESJ74）を下記の通り開催します。** 詳細は[大会基本情報](/about)をご覧ください。
 
 **日程：2027年3月18日(木)〜21日(日)**  
 **会場：[富山国際会議場](https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A)＋[富山県民会館](https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9)**

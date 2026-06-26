@@ -14,8 +14,7 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 - [Open Sessions](/opensession_en)
 - [ER Symposium](/ersympo_en)
 
-Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open around October.
-
+Applications for Regular Presentations (oral and poster), Symposia, Workshops, and Junior Posters are scheduled to open on 1st October.
 
 ## Deadlines for Presentations and Proposals
 
@@ -35,20 +34,20 @@ Please note that the listed deadlines are subject to change.
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Fri. 31 Jul. 2026 23:59 (JST)</td>
+      <td>Fri. 31st Jul. 2026 23:59 (JST)</td>
       <td rowspan=7>Around Feb. 2027 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Mon. 31 Aug. 2026 23:59 (JST)</td>
+      <td>Mon. 31st Aug. 2026 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>Tue. 15 Sep. 2026 23:59 (JST)</td>
+      <td>Tue. 15th Sep. 2026 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> Registration to begin:<br>Thu. 1 Oct. 2026<br><br>Deadline:<br>Mon. 2 Nov. 2026 23:59 (JST)</td>
+      <td rowspan=4> Registration to begin:<br>Thu. 1st Oct. 2026<br><br>Deadline:<br>Mon. 2nd Nov. 2026 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td>Workshop</td>
@@ -64,10 +63,10 @@ Please note that the listed deadlines are subject to change.
 
 ## Restrictions on Multiple Presentations
 
-- Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation—from this conference onward, **each participant is allowed to give only one presentation with abstract (\*)**.
+- Regardless of the presentation format—such as symposium, workshop, oral, or poster presentation, **each participant is allowed to give only one presentation with abstract (\*)**.
     - <span style="color:red;">It is NOT permitted to be a presenter in both a workshop and a regular presentation at this conference</span>.
     - This restriction applies only for being a presenter. There are no restrictions for being a co-presenter (co-author). Presentations given in forums, which are events organized by various committees, are not subject to this restriction.
-- **All presentations requiring abstract registration (\*), except for poster presentations, must be delivered on-site**. However, this requirement does not apply in cases of reasonable accommodation.
+- **All presentations requiring abstract registration (\*), except for poster presentations, must be delivered on-site**. However, this requirement does not apply in cases of [reasonable accommodation](/reasonable_accom_en).
 - In addition to the above presentations with abstract, it is possible to give contributions that do not require the submission of a presentation abstract (\*), such as general introductions, commentators, panelists, or lightning talks, or to organize a session only.
     - Please note that symposia and oral presentations may be scheduled in the same time slot. Even if presentation times overlap, <span style="color:red;">no adjustments will be made to the presentation schedule</span>. We kindly ask for your understanding that we will not be able to accommodate individual requests.
     - For workshops, considering their diverse formats, they are scheduled so as not to overlap with symposia and oral presentations.
@@ -86,7 +85,7 @@ Only ESJ members (regular, student and emeritus members) are eligible to be pres
 Co-presenters are not required to be members.
 
 | **Presentation Type** | **Member \*1** | **Non-Member** |
-|:---------------------|:--------------:|:--------------:|
+| :--------------------- | :--------------: | :--------------: |
 | Regular Presentation (Oral or Poster) | ◯ | |
 | Symposium/Workshop Organizer | ◯ | |
 | Symposium Presenter | ◯ | ◯ \*2 |
