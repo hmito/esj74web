@@ -6,6 +6,8 @@ multi_language: true
 
 # ER Symposium
 
+[\[Check the selected ER-Symposium\]](/sessions_en#ER-Symposia)
+
 ESJ74 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal <a href="https://esj-journals.onlinelibrary.wiley.com/journal/14401703" target="_blank">*Ecological Research*</a> \(ER\).
 
 The symposium committee, responsible for the selection process, will select one overseas researcher to serve as the ER Invited Speaker, who will then speak at the ER Symposium. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations; see Note 1), and the opportunity to submit a review or feature paper on the symposium content to *Ecological Research* after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.

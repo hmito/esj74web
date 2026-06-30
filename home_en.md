@@ -6,14 +6,23 @@ multi_language: true
 
 # Home
 
-## Important notice
+## Important Notices
 
-- **We are now opening a call for [Open Sessions](/opensession_en) (Application: 2026.07.01 - 07.31)**
 - **We are now opening a call for [ER Symposia](/ersympo_en) (Application: 2026.07.01 - 08.31)**
+- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 31st Oct. 2025, 23:59 JST.**
+    - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
+    - **[Symposia and Workshops](/regist_session_en)**
+    - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
+    - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations) at this conference.
+- **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
+    - Early registration discount is available until 17th Feb. 2026, 13:00 JST.
+    - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration.
+- **The [results of the selection for Open Sessions and ER Symposia](/sessions_en) have been published.**
 
 ### Upcoming Schedule
 
-- Applications for Regular Presentations, Symposia, Workshops, and Junior Posters are scheduled to open on **1st October**. Details will be posted on this website at the end of September.
+- The **program** and **information for presenters** are scheduled to be published in early January.
+    - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
 
 ## Meeting information
 
