@@ -67,7 +67,7 @@ The following are important notes related to session proposals. Please also chec
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
     - For information on how to use the symposium invited speaker program, please refer to [**"Symposium Invited Speaker Program"**](#Symposium-Invited-Speaker-Program).
-- From ESJ73, [**each participant is allowed to give only one presentation with abstract\(\*\)**](/registinfo_en#Restrictions-on-Multiple-Presentations). Unlike previous conferences, **it is no longer permitted to be a presenter in both a Workshop and a Regular Presentation**.
+- In this meeting, [**each participant is allowed to give only one presentation with abstract\(\*\)**](/registinfo_en#Restrictions-on-Multiple-Presentations). **It is no longer permitted to be a presenter in both a Workshop and a Regular Presentation**.
 - Contributions that do not require the submission of a presentation abstract \(\*\), such as explanation of purpose, commentator, panelist, or lightning talk, are not counted as "presentations". Therefore, participation in sessions in these formats is possible even for non-members and is not subject to the restriction on multiple presentations.
     - **Even for such contributions, conference registration is required. Organizers are requested to inform participants accordingly**.
     - Symposia and Regular Presentations may be scheduled in the same time slot. Even if the sessions overlaps with your own presentation time, **no adjustment of presentation slots will be made**.
@@ -112,6 +112,7 @@ You can apply for the sessions at the following pages.
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 17th Feb. 2026 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
+    - For registration for invited speakers, please refer to the [Symposium Invited Speaker Program](#Symposium-Invited-Speaker-Program) as below. Registration fee is free of charge.
 - Please also see [Other Notes](/registinfo_en#Other-Notes).
 
 ## Symposium Invited Speaker Program
@@ -124,7 +125,7 @@ To apply for the program, please ask the invited speakers to follow the procedur
 1. Please proceed as follows: Non-members ⇒ Create a new ID.
 1. Depending on the speaker's status (Regular or Student), please select either ‘Non-Member (symposium speaker, regular)【Presentation only at symposia】’ or ‘Non-Member (Symposium Speaker - student) 【Presentation only at symposia】’ in "Category" field.
 1. Please fill in the required information in the other fields and complete the registration procedure.
-1. Thereafter, please follow [the procedures for Speakers](#for-speakers), i.e, provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
+1. Thereafter, please follow [the procedures for Speakers](#For-Speakers), i.e, provide the organizer with the login ID for the relevant presentation submission site, along with the title, affiliation, and other required information.
 
 Please inform the organizer of your ID on the application site.
 <!--- このあたりの英語の文言（Presentation Permitted...とか）は、実際のサイトと整合しているかチェックしたほうが良いかも ⇒ チェックして文言を修正済み--->
