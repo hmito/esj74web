@@ -83,7 +83,7 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 ### I want to cancel my attendance. How should I do this?
 
-Please contact us from the [inquiry form](/contact_en). You can cancel your registration free of charge until 17th Feb. 2026.
+ The registration fee will be refunded, except for bank transfer fees and other expenses, until 17th Feb. 2027. Please contact us from the [inquiry form](/contact_en).
 
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 
@@ -108,6 +108,8 @@ Abstracts will not be peer-reviewed. Abstracts will be published as they are reg
 ### I was not able to register my abstract by the deadline. Will my presentation be canceled?
 
 No, you can give your presentation even if you miss the abstract submission deadline. However, your abstract will be left blank.
+
+Please note that even if you are unable to submit your abstract, your presentation will still be treated as a presentation with abstract.
 
 ### Do forum speakers need to register their abstracts?
 
