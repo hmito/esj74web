@@ -14,10 +14,14 @@ The 74th Annual Meeting of the Ecological Society of Japan (ESJ74)
 Thu. 18th March - Sun. 21st March, 2027
 
 **= Venue =**  
-The meeting will be held at two separate venues. It takes about 5 minutes to walk between the venues.
+The meeting will be held at three separate venues. It is a 2-minute walk from the International Conference Center to the Civic Plaza, and a 10-minute walk from either of those venues to the Prefectural Civic Hall.
 
-<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/ <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
-<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/ <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/
+<a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Simin Plaza</a> / 
+<a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/ 
+<a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
 (All links lead to external sites)
 
 ## Meeting Format
@@ -34,7 +38,6 @@ The meeting will be held at two separate venues. It takes about 5 minutes to wal
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
     - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#Self-On-Demand-Streaming).
     - Poster presentations: All posters will be published online, and presenters may also upload explanatory videos they have recorded themselves.
-- **All major events will be recorded in their entirety, including Q&A sessions, and made available via on-demand streaming.** Recording will be conducted by professional cameras installed at the venue, so **the audience and speakers’ faces may be captured during filming**. By participating in these events, you are deemed to have understood and agreed to these terms.
 
 The availability of online participation is as follows. Please note that **real-time video streaming will not be provided** at this meeting.
 
@@ -52,18 +55,11 @@ The availability of online participation is as follows. Please note that **real-
 
 \* Streaming is available only if desired by the session organizers or presenters.
 
---------------------------------------------------------------------------
-
-Please read and agree to the following before participating in conference events and sessions that will be available via on-demand streaming:
-
-- All events subject to on-demand streaming will be **recorded in their entirety, including Q&A sessions**.
-- Cameras will be installed at the venue for recording, so **the audience and venue atmosphere may be captured in the videos**.
-
 ## Schedule
 
 The detailed timetable will be released around early January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
 
-For application, please see [**here**](/registinfo_en).
+For information on registration and presentation submissions, please see [**Registration Overview**](/registinfo_en).
 
 <table>
 <colgroup>
@@ -79,33 +75,24 @@ For application, please see [**here**](/registinfo_en).
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>Mar 8-10<br/>　(Sun-Tue)</strong></th>
-<th><strong>Mar 11<br/>　(Wed)</strong></th>
-<th><strong>Mar 12<br/>　(Thu)</strong></th>
-<th><strong>Mar 13<br/>　(Fri)</strong></th>
-<th><strong>Mar 14<br/>　(Sat)</strong></th>
-<th><strong>Mar 15<br/>　(Sun)</strong></th>
+<th><strong>Mar 13-16<br/>　(Sun-Tue)</strong></th>
+<th><strong>Mar 17<br/>　(Wed)</strong></th>
+<th><strong>Mar 18<br/>　(Thu)</strong></th>
+<th><strong>Mar 19<br/>　(Fri)</strong></th>
+<th><strong>Mar 20<br/>　(Sat)</strong></th>
+<th><strong>Mar 21<br/>　(Sun)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
 <td colspan=2>General Meeting</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
+<td colspan=6 style="text-align:center">TBD</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Award Ceremony & Lectures</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
+<td colspan=6 style="text-align:center">TBD</td>
 </tr>
+<!--
 <tr class="even">
 <td colspan=2><a href="#Mixer">Mixer</a></td>
 <td></td>
@@ -114,38 +101,29 @@ For application, please see [**here**](/registinfo_en).
 <td></td>
 <td>○</td>
 <td></td>
-</tr>
-<tr class="odd">
-<td colspan=2><a href="/sessions_en#ER-Symposia">ER Symposia</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>○</td>
-</tr>
+</tr>-->
 <tr class="even">
-<td colspan=2><a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
+<td colspan=2><a href="/sessions_en#ER-Symposia">ER Symposia</a>, <a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
+<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td></td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Workshops</td>
 <td></td>
-<td>○</td>
-<td>○</td>
-<td>○</td>
 <td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="even">
 <td colspan=2>Forums</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -154,24 +132,24 @@ For application, please see [**here**](/registinfo_en).
 <tr class="odd">
 <td colspan=2>Oral sessions</td>
 <td></td>
-<td>○</td>
-<td>○</td>
-<td>○</td>
 <td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="even">
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until early Apr.</td>
 </tr>
     <tr class="even">
 <td>Onsite</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 </tr>
@@ -179,7 +157,7 @@ For application, please see [**here**](/registinfo_en).
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
 <td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until 5th Apr.</td>
+<td colspan=5>* Posters can be viewed and commented on the conference platform until early Apr.</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>
@@ -215,6 +193,7 @@ For application, please see [**here**](/registinfo_en).
 
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registration Overview](/registinfo_en).
 
+<!--TODO: 早期申込み締切日程-->
 ||Early bird<br/>Until Feb. 17 13:00| Normal price<br/>After Feb. 20|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
@@ -223,23 +202,29 @@ Participation fees are as follows. For more information on how to apply for part
 
 ## Mixer
 
+There will be no official mixer or social networking event at this conference. We encourage you to explore the city of Toyama and enjoy interacting with other participants.
+<!--次回ミキサー開催時用に残置
 The Mixer will be held on the evening of 14th Mar. at the Kyoto International Conference Center (ICC Kyoto). Instead of the traditional buffet-style party, we’re bringing in food trucks for a fun, casual gathering! Feel free to purchase your favorite food and drinks from the trucks, or bring your own—everyone is welcome to join in and enjoy the festivities.
 
 - No advance registration is required—just come and join the fun!
 - Please note that the conference will not provide food or drinks. You can buy from the food trucks or bring your own.
 - Children are also very welcome to join.
 - More details will be announced later.
+-->
 
 ## Wi-Fi connectivity
 
+Free public Wi-Fi (<a href="https://www.toyamashi-kankoukyoukai.jp/en/wi-fi/" target="_blank">TOYAMa Free Wi-Fi</a>) is available at all three venues; however, the connection may become unstable if a large number of participants connect at the same time. If you require an internet connection, please arrange your own alternative means of access, such as a mobile data connection.
+<!--ネットワークが会場側提供されている場合，以下の注意書きがあるとよいかも
 Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
 
 - **Yoshida-South Campus, Kyoto University:** <a href="https://www.eduroam.jp/en" target="_blank">eduroam</a> is generally available throughout the venue. Participants with an eduroam account may use this service. Please note that even if you do not have an eduroam account, the conference organizers will not provide any special assistance.
 - **Kyoto International Conference Center (ICC Kyoto):** Free Public Wi-Fi \(<a href="https://www.icckyoto.or.jp/en/facility-2/free-wifi/)\" target="_blank">ICCK_Public_WiFi</a> is available throughout the venue. Please note that each connection session is limited to 60 minutes.
 
 *This information is provided for reference regarding venue facilities only. The conference organizers cannot accommodate any requests or inquiries regarding Wi-Fi connectivity.*
+-->
 
-## Support for Participants
+## Support for Participants with Children
 
 ESJ73 will have a [Childcare Service](/childcare_en#Childcare-Service) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare support](/childcare_en) page for details.
 
@@ -249,16 +234,13 @@ The Ecological Society of Japan upholds a <a href="https://www.esj.ne.jp/esj/e_i
 
 We are making efforts to create accessible environments for everyone at this meeting. If you require reasonable accommodations for presentations or attendance at the meeting due to health conditions or other circumstances, please contact us in advance. We will consider what accommodations can be provided. For details, please refer to [Reasonable Accommodation](/reasonable_accom_en).
 
-Kyoto University provides a <a href="https://www.assdr.kyoto-u.ac.jp/drc/contents/free-access-map/" target="_blank">Free Access Map</a> that clearly displays access routes, so please refer to it as well.
-Barrier-free information for the ICC Kyoto 国立京都国際会館 is available <a href="https://www.icckyoto.or.jp/en/facility-2/accessibility/" target="_blank">here</a>.
-
 ## Code of Conduct
 
 All participants are required to adhere to the following Code of Conduct during the meeting.
 
 -------------------------------------------------------------------------------
 
-Participants of the 74th Annual Meeting of the Ecological Society of Japan must comply with the following code of conduct. If requested by meeting staff or other participants to cease any disruptive or inappropriate behavior, participants must comply immediately.
+Participants of the Annual Meeting of the Ecological Society of Japan must comply with the following code of conduct. If requested by meeting staff or other participants to cease any disruptive or inappropriate behavior, participants must comply immediately.
 
 1. **Prevention of Discriminatory Behavior and Respect for Individual Dignity**  
 Participants must not discriminate against individuals based on attributes such as origin, race, ethnicity, religion, physical characteristics, age, status, gender, sexual orientation, or disability, and must respect the dignity of all individuals.

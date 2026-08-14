@@ -12,18 +12,20 @@ Please note that only currently available information regarding the presentation
 ## Oral Presentation
 
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
-- **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.**
-    - Please bring a USB flash drive and proceed to the Speaker Ready Room located within the venue.
-    - Details will be updated around January.
+- **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.** Details will be updated around January.
 - If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
 ## Sessions
 
+- Organizers of symposia, workshops, and forums can freely adjust the presentation schedule within the allotted time.
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
+<!-- 
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
 - The conference organizing committee will not provide a Wi-Fi environment specifically for sessions. Session organizers are required to prepare their own Wi-Fi if needed. 
     - For details about the venue’s Wi-Fi environment, please refer to [**this page**](/about_en#Wi-Fi-connectivity).
 - At most venues, the tables and chairs in the audience seating area are fixed to the floor. Please be aware of this when planning discussions etc.
+-->
+- Wired LAN network connections are available at all venues when required for sessions. Wireless LAN is also available for events assigned to the International Conference Hall. Please note, however, that we cannot accommodate requests for venue assignments or changes.
 - If the organizer requests it, the presentation will be recorded by a contractor.
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
     - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.
@@ -42,7 +44,7 @@ At this conference, all oral presenters could utilize “Self On-Demand Streamin
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
 - **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
 - Uploading and streaming will be conducted on the conference platform “RakuRaku-Conference”.
-    - Uploads can be made at any time after 30th Jan. 2026 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
+    - Uploads can be made at any time after around end of Jan. 2027 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
     - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
     - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the conference platform.
 - Presenters shall bear full responsibility for any consequences arising from the content of their videos.
