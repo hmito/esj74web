@@ -84,11 +84,15 @@ remarks:
 <tbody>
 <tr class="even">
 <td colspan=2>総会</td>
-<td colspan=6 style="text-align:center">未定</td>
+<td></td>
+<td></td>
+<td colspan=4 style="text-align:center">未定</td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
-<td colspan=6 style="text-align:center">未定</td>
+<td></td>
+<td></td>
+<td colspan=4 style="text-align:center">未定</td>
 </tr>
 <!--
 <tr class="even">
@@ -140,7 +144,8 @@ remarks:
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
 <td>○</td>
-<td colspan=5>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
+<td></td>
+<td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
@@ -155,7 +160,8 @@ remarks:
 <td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
 <td>○</td>
-<td colspan=5>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
+<td></td>
+<td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="odd">
 <td>オンサイト</td>
