@@ -15,7 +15,7 @@ remarks:
 2027年3月18日(木) 〜 21日(日)
 
 **=会場=**  
-3つの会場に分かれて開催されます。国際会議場と市民プラザの間は徒歩2分、両会場と県民会館の間は徒歩10分です。
+3つの会場に分かれて開催されます。国際会議場・市民プラザ間は徒歩2分、両会場と県民会館の間は徒歩10分です。
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[アクセス\]**</a>  
 <a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">富山市民プラザ</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[アクセス\]**</a>  
@@ -57,7 +57,7 @@ remarks:
 
 詳細なタイムテーブルは、12月末から1月上旬頃に公開予定です。なお、スケジュールは確定ではありません。**編成の都合で今後変更される可能性**もあります。
 
-各種申込み情報は [**こちら**](/registinfo) です。
+参加・発表申込みついては [**各種申込み情報**](/registinfo) をご覧ください。
 
 <table>
 <colgroup>
@@ -86,20 +86,15 @@ remarks:
 <td colspan=2>総会</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
+<td colspan=4 style="text-align:center">未定</td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>○</td>
-<td></td>
+<td colspan=4 style="text-align:center">未定</td>
 </tr>
+<!--
 <tr class="even">
 <td colspan=2><a href="#ミキサー（懇親会）">ミキサー（懇親会）</a></td>
 <td></td>
@@ -108,38 +103,29 @@ remarks:
 <td></td>
 <td>○</td>
 <td></td>
-</tr>
-<tr class="odd">
-<td colspan=2><a href="/sessions#ER-シンポジウム">ERシンポジウム</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>○</td>
-</tr>
+</tr>-->
 <tr class="even">
-<td colspan=2><a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
+<td colspan=2><a href="/sessions#ER-シンポジウム">ERシンポジウム</a>、<a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
+<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
-<td></td>
-<td></td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td colspan=2>自由集会</td>
 <td></td>
-<td>○</td>
-<td>○</td>
-<td>○</td>
 <td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="even">
 <td colspan=2>フォーラム</td>
 <td></td>
-<td>○</td>
+<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -148,24 +134,25 @@ remarks:
 <tr class="odd">
 <td colspan=2>口頭発表･英語口頭発表</td>
 <td></td>
-<td>○</td>
-<td>○</td>
-<td>○</td>
 <td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="even">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
 <td>○</td>
-<td colspan=5>※4月5日まで大会プラットフォーム上で閲覧・コメント可能</td>
+<td></td>
+<td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>○</td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 </tr>
@@ -173,7 +160,8 @@ remarks:
 <td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
 <td>○</td>
-<td colspan=5>※4月5日まで大会プラットフォーム上で閲覧・コメント可能</td>
+<td></td>
+<td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="odd">
 <td>オンサイト</td>
@@ -209,6 +197,7 @@ remarks:
 
 参加費は以下の通りです。参加・講演の申込みや集会企画の方法についての詳細は、[各種申込み](/registinfo)をご覧ください。
 
+<!--TODO: 早期申込み締切日程-->
 ||早期申込み<br/>2/17 13時まで|通常申込み|
 |---|---|---|
 |**一般**|17000円|19000円|
@@ -229,7 +218,7 @@ remarks:
 
 ## 会場のWi-Fi環境
 
-3会場では、無料の公共無線LAN（<a href="https://www.pref.toyama.jp/140511/kensei/kenseiunei/kensei/kj00015716.html" target="_blank">TOYAMa Free Wi-Fi</a>）が提供されていますが、多数の参加者が同時に接続すると通信が不安定となる場合があります。ネットワーク環境が必要な方は、各自でモバイル回線等の代替手段をご準備ください。
+3会場では、無料の公共無線LAN（<a href="https://www.toyamashi-kankoukyoukai.jp/wi-fi/" target="_blank">TOYAMa Free Wi-Fi</a>）が提供されていますが、多数の参加者が同時に接続すると通信が不安定となる場合があります。ネットワーク環境が必要な方は、各自でモバイル回線等の代替手段をご準備ください。
 
 <!--ネットワークが会場側提供されている場合，以下の注意書きがあるとよいかも　ESJ74では，もともと公共Wifiの通信が劣悪で使用非推奨の胸を記述しているため、さらなる注意書きは不要と判断して除外
 ※ 本情報は、施設の設備について案内するものであり、当日の接続環境について保証するものではありません。大会側ではWi-Fi環境に関するいかなる要望に対してもお答えいたしかねます。
@@ -251,7 +240,7 @@ remarks:
 
 -------------------------------------------------------------------------------
 
-第74回日本生態学会年次大会参加者は、大会への参加にあたり、以下の行動規範を遵守する。大会運営スタッフや他の参加者から迷惑・違反行為をやめるよう求められた場合、直ちにこれに応じる。
+日本生態学会年次大会参加者は、大会への参加にあたり、以下の行動規範を遵守する。大会運営スタッフや他の参加者から迷惑・違反行為をやめるよう求められた場合、直ちにこれに応じる。
 
 1. **差別的言動の防止と個人の人格の尊重**  
 大会参加者は、出自・人種・民族・宗教・身体的特徴・年齢・地位・性別・性的指向・障害の有無など個人の属性によって個人を差別せず、個人の人格を尊重する。
@@ -298,9 +287,8 @@ remarks:
 
 -------------------------------------------------------------------------------
 
-<!-- 決定次第、追って追加する。
 ### 協力・貢献
 
 |||
 |:-----------------|:----------------------------------------|
-|大会イラスト制作|Brenda de Groot|
+|エコカップ2027実行委員会|大崎晴菜、池田周生|
