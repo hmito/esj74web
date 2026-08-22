@@ -15,4 +15,4 @@ If you need reasonable accommodation for presentations or attendance due to disa
 - Please contact us as early as possible. Last-minute requests may be difficult to fulfill, and early consultation allows us to explore more options.
 
 **\[Contact for Reasonable Accommodation Consultation\]**  
-**reasonable_accom$esj.ne.jp** (Please replace the "$" with at sign)
+**reasonable_accom$esj.ne.jp** (Please replace the "$" with an @ sign)

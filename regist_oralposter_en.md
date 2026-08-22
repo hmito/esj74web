@@ -88,7 +88,7 @@ You can apply for various types of presentations at the following page.
 </tr>
 <tr>
 <td>Animal-plant interactions</td>
-<td>Microbial ecology</td>
+<td>Fungi and microbes</td>
 <td></td>
 <td></td>
 </tr>
@@ -127,15 +127,15 @@ Poster award will be judged based on online posters.
 - Only the poster itself will be evaluated; graphical abstracts and explanatory videos will generally not be considered.
     - However, judges may refer to graphical abstracts and explanatory videos to understand the research content.
 - For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
-- The language used does not directly affect the evaluation, but in the event of a tie, **posters that can be understood in English** will be given higher priority. This applies in the following cases.
+- The language used does not directly affect the evaluation, **but in the event of a tie, posters that can be understood in English will be given higher priority**. This applies in the following cases.
     - English is included in the title, introduction, and conclusion.
-    - Understanding the outline of research by reading English alone.
+    - The research outline is easily understood by reading the English alone.
     - An English version of the poster is available on a separate page.
 
 ### Precautions
 
 - The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for 13rd Mar. 2027, 23:59 (JST)).
-- The poster format should be **one A0-size sheet, portrait orientation only**.　This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
+- The poster format should be **one A0-size sheet, portrait orientation only**. This is based on the idea that “poster presentation is a way to summarize research content in a limited space.”
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
 
