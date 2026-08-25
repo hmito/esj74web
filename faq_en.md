@@ -45,8 +45,7 @@ Yes, it is possible. For details on the procedure, please see [**“Invoice Paym
 
 ### Will a receipt be issued for the participation fee?
 
-Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site.
-<!--- らくカンの公開日が確定するまで以下の記述は保留: Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026. --->
+Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site.<!--- TODO らくカンの公開日が確定するまで以下の記述は保留: Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026. -->
 
 ### Is the participation fee subject to tax?
 
@@ -84,7 +83,7 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 ### I want to cancel my attendance. How should I do this?
 
- The registration fee will be refunded, except for bank transfer fees and other expenses, until 20th Feb. 2027<!--- 不確定のため要確認 -->. For details, please check [cancellation policy](/registinfo_en#Cancellation-Policy).
+ The registration fee will be refunded, except for bank transfer fees and other expenses, until 20th Feb. 2027<!--- TODO 不確定のため要確認 -->. For details, please check [cancellation policy](/registinfo_en#Cancellation-Policy).
 
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 
