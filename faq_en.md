@@ -23,7 +23,7 @@ However, non-members may be co-authors of presentations given by members.
 
 For symposia, non-members can participate for free as invited speakers using the invited speaker system. However, the same non-member cannot be invited for two consecutive years. For details, please check [**Symposium Invited Speaker Program**](/regist_session_en#Symposium-Invited-Speaker-Program). Symposium invited speakers may also participate in other presentations and meetings, as well as view online content from the conference platform (RakuRaku-Conference).
 
-Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events, or using the conference platform.
+Forums also have an invited speaker system. Invited speakers for forums can participate in that forum for free, but must pay the registration fee if participating in other sessions or events, or using the conference platform. For details, please check [here](/regist_session_en#Proposal-of-Forum).
 
 For workshops, non-members cannot give presentations with an abstract. Please join the Ecological Society of Japan and apply as a regular member.
 
@@ -45,7 +45,8 @@ Yes, it is possible. For details on the procedure, please see [**“Invoice Paym
 
 ### Will a receipt be issued for the participation fee?
 
-Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site. Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026.
+Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site.
+<!--- らくカンの公開日が確定するまで以下の記述は保留: Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2026. --->
 
 ### Is the participation fee subject to tax?
 
@@ -75,15 +76,15 @@ You can freely cancel or change your submitted information on the webpage before
 
 ### I selected an on-site poster presentation but am now unable to attend in person.
 
-If you requested an on-site presentation for your poster or junior poster but will not be attending in person, no specific action is required. However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure.
+If you requested an on-site presentation for your poster or junior poster but will not be attending in person, no specific action is required. However, **online presentation is mandatory** for all participants. Please ensure your poster is uploaded to the conference platform by the deadline. Should you also be unable to present online, please complete the presentation cancellation procedure as blow.
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (Nov. 2, 2026). After the deadline, please contact us from the [inquiry form](/contact_en) (in that case, **please be sure to include the presentation number that are subject to cancellation**). Please note that the information at the time of the registration deadline will appear on the program and the official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (Nov. 2, 2026). After the deadline, you will need to contact us. For details, please check [cancellation policy](/registinfo_en#Cancellation-Policy).
 
 ### I want to cancel my attendance. How should I do this?
 
- The registration fee will be refunded, except for bank transfer fees and other expenses, until 17th Feb. 2027. Please contact us from the [inquiry form](/contact_en).
+ The registration fee will be refunded, except for bank transfer fees and other expenses, until 20th Feb. 2027<!--- 不確定のため要確認 -->. For details, please check [cancellation policy](/registinfo_en#Cancellation-Policy).
 
 ### I would like to give a presentation in a symposium (or workshop), but can I also apply for a general presentation in case my session is not accepted?
 
