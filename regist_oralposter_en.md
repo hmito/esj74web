@@ -48,7 +48,7 @@ You can apply for various types of presentations at the following page.
     - Title of your presentation (no more than 150 characters).
     - Names and affiliations of you and co-presenters.
 - Please select research field of your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
-- Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 17th Feb. 2027 23:59 (JST).
+- Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 16th Feb. 2027 23:59 (JST).
 - Please also check [Other Notes](/registinfo_en#Other-Notes) before submitting your abstract.
 
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>
