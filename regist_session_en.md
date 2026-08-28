@@ -104,7 +104,7 @@ You can apply for the sessions at the following pages.
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of symposium invited  speakers.
-    - Non-members are requested to apply for membership by 2nd Nov. 2026 23:59 (JST) and pay the conference fee by 17th Feb. 2027 23:59 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
+    - Non-members are requested to apply for membership by 2nd Nov. 2026 23:59 (JST) and pay the conference fee by 16th Feb. 2027 23:59 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
 - **All co-organizers/speakers must be registered on <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a> before the organizer submits an application (deadline: 31st Oct. 2025).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
