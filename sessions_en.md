@@ -11,7 +11,7 @@ multi_language: true
 The following symposium was selected for this year's [ER Symposium](/ersympo_en) (symposium where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research).
 
 ---
-
+<!--去年のデータ2026/08/30時点-->
 ### **"Toward an Old-Growth Concept for Semi-natural Ecosystems: Insights from Japanese Grasslands and Beyond"**
 
 [Organizer]  
@@ -29,38 +29,26 @@ The journal Ecological Research supports the travel expenses of ER invited speak
 
 ## Open Session
 
-The following three themes were selected for this year's [Open Sessions](/opensession_en) (symposium that involve the addition of new presentation categories).
+The following two themes were selected for this year's [Open Sessions](/opensession_en) (symposium that involve the addition of new presentation categories).
 
 ---
 
-### [Sustainable Use, Trade and Harvesting of Wildlife]
+### [Ecology and Disasters]
 
 [Convener]  
-Saeko Terada (Osaka Metropolitan University), Hubert Cheung (Ritsumeikan Asia Pacific University)
+Yusuke Ueno (Ishikawa Prefectural University), Jotaro Urabe (Tohoku University)
 
 [Objectives]  
-Overexploitation of wildlife is a major driver of global biodiversity loss, with illegal and unsustainable wildlife trade threatening the survival of species across the Tree of Life. Effective conservation measures are necessary to ensure sustainable wildlife use, harvesting and trade. This includes establishing wildlife trade regulations on the basis of science and ensuring their effectiveness. However, the uncertainty inherent in population assessments and status of many species, the complexity of wildlife trade chains, the diverse sociocultural drivers of trade, and the telecoupled impacts of trade across the globe make policy-making and enforcement regarding wildlife trade a particularly challenging.
-In order to overcome these challenges, strengthening collaboration across traditional disciplinary lines and building cross-cultural understanding are critical. This proposed Open Session on “Sustainable Use, Trade and Harvesting of Wildlife” aims to attract experts in the sustainable use of wildlife from Japan and around the world to ESJ73 by providing a forum for interdisciplinary discussion. This will advance the scientific discourse on domestic Japanese and international wildlife trade policy, strengthen international collaboration, and contribute to the development of lasting and sustainable solutions. 
-Wildlife trade experts based in Japan and internationally will be invited to speak at this Open Session. Together, our speakers will introduce the development of wildlife trade regulations, discuss the sustainable use of wildlife, explore ways to advance an adaptive approach to wildlife trade management in the 21st century, outline novel and practical ways to better include diverse stakeholders, and draw lessons from the broader global environmental governance arena to improve wildlife trade management. This Open Session on “Sustainable Use, Trade and Harvesting of Wildlife” at ESJ73 emphasizes diversity, and is intended to facilitate the sharing of diverse domestic and international insights in this field and serve as a catalyst for the future development of related research within the Ecological Society of Japan.
+Japan is one of the world’s most disaster-prone countries, with large-scale disasters such as earthquakes, tsunamis, torrential rains, landslides, and volcanic eruptions occurring across the nation; as a result, a wide range of research and monitoring activities have been conducted in the field of ecology. However, this knowledge tends to be accumulated separately for each disaster, region, or research community, and opportunities for cross-disaster and cross-disciplinary sharing and discussion remain limited.
+Furthermore, since the Great East Japan Earthquake, interest in creative reconstruction and regional resilience has grown, and concepts such as Eco-DRR (Ecosystem-based Disaster Risk Reduction) and Nature-based Solutions (NbS)—which reconcile ecosystem conservation and restoration with disaster prevention and mitigation—have been recognized internationally as important frameworks. These are important approaches for considering sustainable recovery and preparedness for future disasters, particularly in regions experiencing population decline and aging, and they are highly compatible with ecology.
+This theme, “Ecology Linking Disasters and Society: Toward the Integration of Monitoring, Reconstruction, and NbS,” covers a broad range of research and practices, including post-disaster ecosystem monitoring as well as reconstruction planning, collaboration with local communities, and the social implementation of Eco-DRR, Nature-based Solutions (NbS), and green infrastructure. By bringing together experiences and insights from various regions—including the Great East Japan Earthquake and the Noto Peninsula earthquake and torrential rains—we aim to reexamine the relationship between disasters and society from an ecological perspective, share insights for building resilient communities, and establish new research networks and areas of academic exchange.
 
 ---
 
-### [Extended Phenotype]
+### [Long-Term Ecological Research]
 
 [Convener]
-Takuya Sato (Kyoto University)
+Masahiro Nakamura (Hokkaido University)
 
 [Objectives]
-Despite the wealth of fascinating ecological phenomena observed in nature, members of the Ecological Society of Japan often find it challenging to take the step towards molecular-level analysis of their findings or to identify opportunities for interdisciplinary collaboration. This open symposium will address the theme of 'extended phenotypes' mediated by endosymbionts. It will demonstrate how collaboration among researchers with diverse expertise has advanced our understanding of the molecular mechanisms, genome evolution and ecological consequences of the extended phenotypes, ultimately leading to the emergence of new interdisciplinary fields, such as ‘co-evolutionary molecular developmental ecology’, which spans from micro and macro biology. This symposium has two objectives: (1) to provide society members with opportunities that could form the basis of future research projects, and (2) to encourage discussion on how to further promote the integration of ecology with other branches of biology.
-
----
-
-### [Human Dimensions in Ecology]
-
-[Convener]  
-Minori Tokito (Kyoto University), Naoko Tokuchi (Kyoto University)
-
-[Objectives]  
-This session re-examines the “current state of human–nature relationships” from multiple perspectives in contemporary society. In recent years, how people value, live with, and relate to nature has been significantly reshaped by climate change, pandemics, and demographic shifts. For advancing sustainable resource use and effective conservation, to move beyond treating nature solely as something to be protected apart from humans is crucial, and instead ask how we engage with it and can make use of it responsibly.  
-The human dimension lies at the heart of this concept. This interdisciplinary field explores the interactions between social systems, that is, human behavior, values, and institutions, and biological systems. This encompasses diverse themes such as the impacts of human activity on biodiversity, social contexts of conservation, public participation, and ethical and policy challenges of environmental management.
-Through this open session, we aim to share a wide range of practices and research, including community initiatives that utilize forest resources, citizen science, environmental education, and cultural engagement. By doing so, we will critically revisit the plurality of ways in which people perceive and value nature, and explore new challenges and applications for ecology. The ultimate goal of this session is to provide a platform for interdisciplinary exchange and to reconsider human–nature relationships as we seek new roles for ecology in building a sustainable society.
+Long-Term Ecological Research (LTER) is a crucial research approach for elucidating changes in ecosystems and their mechanisms through observations and studies spanning several years to several decades, thereby aiding our understanding of global-scale challenges such as climate change and biodiversity loss. This project shares long-term observational data and research findings accumulated at diverse field sites—including forests, oceans, coastal areas, lakes, and grasslands—and examines the role that Long-Term Ecological Research has played in the advancement of ecology, as well as its future potential. In addition to the insights gained at each site, we will share scientific outcomes generated through inter-site comparisons, collaborative research, and data sharing, while discussing new research possibilities arising from “connecting” different ecosystems, long-term data, field sites, researchers, and society. Furthermore, through integration with new research methods such as AI, data science, and remote sensing, as well as collaboration across disciplines, we will explore the development of new research and collaborative projects utilizing long-term data. Through this initiative, we aim not only to convey the appeal and potential of research utilizing long-term data and field sites to researchers who have been engaged in long-term ecological research, but also to young researchers, students, and researchers from other disciplines, thereby creating opportunities for new research networks and collaborative research.
