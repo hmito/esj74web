@@ -194,7 +194,7 @@ For information on registration and presentation submissions, please see [**Regi
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registration Overview](/registinfo_en).
 
 <!--TODO: 早期申込み締切日程-->
-||Early bird<br/>Until Feb. 17 13:00| Normal price<br/>After Feb. 20|
+||Early bird<br/>Until Feb. 16 13:00| Normal price<br/>After Feb. 19|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Students**|8500 JPY|9500 JPY|

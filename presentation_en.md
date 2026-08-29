@@ -15,7 +15,7 @@ Please note that only currently available information regarding the presentation
 - **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.** Details will be updated around January.
 - If you wish, you can use the [Self On-Demand Streaming](#Self-On-Demand-Streaming) to record your presentation in advance and stream it on the conference platform.
 
-## Sessions
+## Symposia, Workshops, Forums
 
 - Organizers of symposia, workshops, and forums can freely adjust the presentation schedule within the allotted time.
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
