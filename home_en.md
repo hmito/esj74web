@@ -14,9 +14,8 @@ multi_language: true
     - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
     - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations).
 - **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
-    - Early registration discount is available until 17th Feb. 2027<!--- TODO 不確定、要確認 -->, 13:00 JST.
-    <!-- TODO システム移行等でアクセスできない日時ががあれば注釈を外して追記:
-    - Please note that conference registration will be unavailable from 28th Nov. 2025 to 5th Jan. 2026 due to system migration. -->
+    - Early registration discount is available until 16th Feb. 2027, 13:00 JST.
+    - Please note that conference registration will be unavailable from 21th Nov. 2026 to 5th Jan. 2027 and from 16th Feb. 2027, 13:00 JST to 19th Feb. 2027, 9:00 JST due to system migration.
 - **The [results of the selection for Open Sessions and ER Symposia](/sessions_en) have been published.**
 
 ### Upcoming Schedule
