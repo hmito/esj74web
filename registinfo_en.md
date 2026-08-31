@@ -15,7 +15,7 @@ Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/reg
 
 Important deadlines are as follows.
 
-||**31st Oct. 2025<br/>23:59 (JST)**|**17th Feb. 2026 <br/>13:00 (JST)**|**17th Feb. 2026 <br/>23:59 (JST)**|**Until the day of the conference**|
+||**2nd Nov. 2026<br/>23:59 (JST)**|**16th Feb. 2027 <br/>13:00 (JST)**|**16th Feb. 2027 <br/>23:59 (JST)**|**Until the day of the conference**|
 |:---:|---|---|---|---|
 |[**Procedures for participation in the conference**](#Registration-for-Participation)||Early bird registration<br/>　Regular：17000 JPY<br/>　Student：8500 JPY||Normal price registration<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
 |[**Procedures for Presentations and Sessions**](#Application-for-Presentations-and-Sessions)|Deadline for Proposals||Deadline for Abstract Submission||
@@ -23,7 +23,7 @@ Important deadlines are as follows.
 
 - Invited speakers at symposia, and undergraduate or below who are not organizers and speakers can participate without registration fee.
     - Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the conference registration fee.
-- Due to system transition, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
+- Due to system transition, registrations will not be available from 21st Nov. 2026 to 5th Jan. 2027, and from 16th Feb. 2027 13:00 to 19th Feb. 2027 9:00.
 - Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
     - You can check the payment status of the membership fee from <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
@@ -35,19 +35,19 @@ You can register for the conference participation at the below link.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Application site]</a>**
 
-||Early bird<br/>until 17th Feb. 13:00|Normal price<br/>after 20th Feb.　9:00|
+||Early bird<br/>until 16th Feb. 13:00|Normal price<br/>after 19th Feb.　9:00|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Student**|8500 JPY|9500 JPY|
 |**Invited speaker <br/>undergraduate or below without presentation**|Free|Free|
 
 - The system used for the registration and payment procedures differs depending on the period.
-    - The application website will be used until 27th Nov. 2025, and the online conference platform (RakuRaku-Conference) will be used after 6th Jan. 2026.
-    - Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
+    - The application website will be used until 20th Nov. 2026, and the online conference platform (RakuRaku-Conference) will be used after 6th Jan. 2027.
+    - Due to system maintenance, registrations will not be available from 21st Nov. 2026 to 5th Jan. 2027, and from 16th Feb. 2027 13:00 to 19th Feb. 2027 9:00.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
     - You will not be able to view or upload posters without paying the registration fee.
 - Non-members are welcome to attend the conference as audience if they pay the registration fee.
-    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the conference platform after 6th Jan. 2026.
+    - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the conference platform after 6th Jan. 2027.
     - If none of the above apply, please pay the registration fee.
 - Please also read [Other Notes](#Other-Notes) when registering.
 
@@ -143,7 +143,7 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 **<a href="https://www.esj.ne.jp/esj/English/join.html" target="_blank">[Go to the ESJ membership application site]</a>**
 
-1. Please follow the above link to complete the new membership application. Selecting "2026" for "Date of Admission" enables you to present at ESJ73.　
+1. Please follow the above link to complete the new membership application. Selecting "2027" for "Date of Admission" enables you to present at ESJ74.　
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
 3. Please use your temporary membership number to register for the conference and presentation.
 
@@ -155,9 +155,9 @@ The English Presentation Award was established with the aim of promoting the int
 
  Please also refer to the message <a href="https://esj.ne.jp/esj/English/Message/0902_en.html" target="_blank">"How to internationalize our annual meetings"</a> from the President of the Ecological Society of Japan.
 
-### If you have not paid the membership fee from 2024, you will not be able to complete any procedures
+### If you have not paid the membership fee from 2025, you will not be able to complete any procedures
 
-If you have not paid the membership fee from 2024, you will not be able to apply to speak at the conference until we can confirm payment of your 2024 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee at least one week before the deadline.
+If you have not paid the membership fee from 2025, you will not be able to apply to speak at the conference until we can confirm payment of your 2025 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee at least one week before the deadline.
 
 To check the status of your membership fee payment, please visit <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
@@ -167,7 +167,7 @@ In the past, the ESJ conference has included a “Workshop Only Attendance” ca
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the online conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2026, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members. The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
+Participation certificates and receipts will be issued from the online conference platform RakuRaku-Conference, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2027, when RakuRaku-Conference will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members. The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 
@@ -175,10 +175,10 @@ The Ecological Society of Japan is **not registered** as a Qualified Invoicing B
 
 If you wish to have participation fees paid from public funds (e.g., invoice payment), please follow one of the procedures below depending on the timing of your request.
 
-- **[Until 27th Nov. 2025]** Please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
-- **[After 6th Jan. 2026]** On the payment page of Rakuraku-Conference, select "Bank Transfer" and click "View Bank Account Information" (green button). You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the Inquiry Form with your request for payment of public expenses along with the bank account information. Please also let us know if you have any specific requirements for the invoice recipient name.
+- **[Until 20th Nov. 2026]** Please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
+- **[After 6th Jan. 2027]** On the payment page of Rakuraku-Conference, select "Bank Transfer" and click "View Bank Account Information" (green button). You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the Inquiry Form with your request for payment of public expenses along with the bank account information. Please also let us know if you have any specific requirements for the invoice recipient name.
 
-Due to system maintenance, registrations will not be available from 28th Nov. 2025 to 5th Jan. 2026, and from 17th Feb. 2026 13:00 to 20th Feb. 2026 9:00.
+Due to system maintenance, registrations will not be available from 21st Nov. 2026 to 5th Jan. 2027, and from 16th Feb. 2027 13:00 to 19th Feb. 2027 9:00.
 
 ### Abolition of Errata
 
@@ -186,7 +186,20 @@ The conference does not accept revisions based on errata after the presentation 
 
 ### Cancellation Policy
 
-If a cancellation request is received before the refund deadline for each event (17th Feb. 2026 for this year's event), a refund will be made, excluding bank transfer fees and other expenses. In principle, no refunds will be made after the refund deadline has passed.
+* If you wish to cancel your presentation or request a refund of the conference registration fee, you must complete the cancellation procedure.
+* **The deadline for requesting a refund of the conference registration fee is 20th Feb. 2027.** If we receive your cancellation request by this date, the registration fee will be refunded after deducting bank transfer fees and other applicable expenses. As a general rule, no refunds will be issued after the deadline.
+* Please note that if you cancel your presentation after the presentation submission deadline (2nd Nov. 2026 23:59), the cancellation may not be reflected in the program or in the registration information posted on the website.
+
+#### How to Cancel
+
+* Please contact us through the [Contact page](/contact_en), using the appropriate **subject line** below:
+
+  * If you planned to attend the conference without giving a presentation: “**Conference Registration Cancellation (Attendance Only)**”
+  * If you wish to cancel both your presentation and conference registration: “**Conference Registration Cancellation (Presentation Number or Submission Receipt Number)**”*
+  * If you wish to cancel only your presentation but still attend the conference: “**Presentation Cancellation Only (Presentation Number or Submission Receipt Number)**”*
+* Before the presentation submission deadline, you may cancel your presentation yourself through the <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">**Presentation Submission Site**</a>.
+
+* Your presentation number or submission receipt number can be found in the program or in the confirmation email automatically sent when you submitted your presentation.
 
 ### Handling of Research Achievements in the Event of Disasters
 
