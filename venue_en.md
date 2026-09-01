@@ -21,7 +21,8 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 Transportation options to the venues include local buses and trams, or on foot. The main routes are outlined below. Please note that pre-paid IC Travel Card (e.g., Suica, ICOCA) acceptance varies depending on Transportation options.
 
-map: venue_toyama_en.png
+![](media/toyama_map_en.png)
+
 
 ### Access to Toyama International Conference Center and Toyama Shimin Plaza
 

@@ -21,7 +21,7 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 会場への交通機関は、路線バスと市内電車があります。徒歩でも移動可能です。以下に主なルートを示します。利用機関によって、全国交通系ICカードの利用可否が異なりますので注意してください。
 
-※会場周辺地図：toyama_map.png
+![](media/toyama_map.png)
 
 
 ### 富山国際会議場・富山市民プラザへのアクセス
