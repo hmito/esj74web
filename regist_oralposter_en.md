@@ -14,15 +14,15 @@ Regular presentations include oral and poster sessions.
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award will be discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award). At ESJ73, presenters in the English session will receive a small gift, so we look forward to your continued active participation.
-- Participants could utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the conference platform. Please consider to utilize this service.
+- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award was discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award).
+- Participants can utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the conference platform. Please consider utilizing this service.
 
 **Poster session**
 
-- There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
-- Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 8th to 10th Mar. 2026).
-- There will be a core time during the conference period for on-site poster presentations. 
-- Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, this does not apply to those who have received the Poster Award at a previous ESJ meeting.
+- All poster presenters are required to upload their poster to the conference platform by the specified deadline and make it available for online viewing. Presenters who wish to do so may also give an on-site presentation at the conference venue. For online poster presentations, presenters are not required to provide an explanation online at a specified time.
+- The viewing period for online posters is scheduled for 14th to 16th Mar. 2027, before the conference begins. Poster Award judging will also take place during this period, including Sunday. Based on a survey of judges, this schedule is intended to make it easier for a wider range of judges to participate.
+- There will be a core time during the conference period for on-site poster presentations. On-site presentations and Q&A sessions will not be considered in the Poster Award judging.
+- Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply.
 
 ## Application for Regular Presentations
 
@@ -32,8 +32,8 @@ Please note the following points when applying for a presentation. For **details
 
 - Please enter your preferred presentation format (oral or poster) when you apply. However, we may not be able to accommodate your request depending on the number of presentations.
 - Speakers for regular presentations are limited to members of the Ecological Society of Japan.
-    - Non-members may also eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
-    - Non-members who wish to present a lecture should complete the admission procedure to the Society by 31st Oct. 2025 23:59 (JST), referring to [Procedure for new membership to the Ecological Society of Japan](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
+    - Non-members may also be eligible to have their names listed as co-presenters (see [Presentation Eligibility by Membership Type](/registinfo_en#Presentation-Eligibility-by-Membership-Type)).
+    - Non-members who wish to present a lecture should complete the admission procedure to the Society by 2nd Nov. 2026 23:59 (JST), referring to [Procedure for new membership to the Ecological Society of Japan](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
 - Please note that **["one-person, one-presentation"](/registinfo_en#Restrictions-on-Multiple-Presentations) (with abstract submission) is the general rule** for this conference. You cannot be a speaker for other regular presentations, symposia, and workshops.
     - **Contributions that do not require the submission of a presentation abstract, such as general introductions, commentators, panelists, and lightning talks, are acceptable**. However, symposia may be held at the same time as oral presentations. Even if times of presentations overlap, no adjustments will be made to the presentation schedule.
 
@@ -43,19 +43,18 @@ You can apply for various types of presentations at the following page.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
 
-- Speakers are requested to submit their applications by 31st Oct. 2025 23:59 (JST).
+- Speakers are requested to submit their applications by 2nd Nov. 2026 23:59 (JST).
 - The following information is required to apply for a presentation. Please note that this information cannot be changed after the deadline.
-    - Title of your presentation (no more than 150 characters).
+    - Title of your presentation (up to 40 Japanese characters or 150 English characters).
     - Names and affiliations of you and co-presenters.
-- Please select research field of your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
-- Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 17th Feb. 2026 23:59 (JST).
+- Please select your preferred research fields for your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
+- The deadline for abstract registration is scheduled for around Feb. 2027. Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site.
 - Please also check [Other Notes](/registinfo_en#Other-Notes) before submitting your abstract.
 
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>
 <tr>
-<td colspan=2><a href="/sessions_en#Open-Session">Sustainable Use, Trade and Harvesting of Wildlife (Open session)</a></td>
-<td><a href="/sessions_en#Open-Session">Extended Phenotype (Open session)</a></td>
-<td><a href="/sessions_en#Open-Session">Human Dimension (Open session)</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Ecology and Disasters (Open session)</a></td>
+<td colspan=2><a href="/sessions_en#Open-Session">Long-Term Ecological Research (Open session)</a></td>
 </tr>
 <tr>
 <td>Plant ecophysiology</td>
@@ -88,8 +87,8 @@ You can apply for various types of presentations at the following page.
 <td>Education and popularization of ecology</td>
 </tr>
 <tr>
+<td>Fungal and microbial ecology</td>
 <td>Animal-plant interactions</td>
-<td>Microbial ecology</td>
 <td></td>
 <td></td>
 </tr>
@@ -105,7 +104,7 @@ To encourage researchers in the early stages of their careers, poster awards wil
 Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. Please select "Apply for Poster Award" when you apply for a presentation.
 
 - However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply, even if they meet the above requirements.
-- Speakers who requested “Wildlife Trade”, "Extended Phenotype", and "Human Dimensions" in the [Open session](/sessions_en#Open-Session) as their presentation field are also not eligible to apply for the Poster Award.
+- Presenters who are ultimately assigned to either “1 Ecology and Disasters” or “2 Long-Term Ecological Research” in the [Open session](/sessions_en#Open-Session) are not eligible to apply for the Poster Award.
 
 ### Evaluation Criteria
 
@@ -114,7 +113,7 @@ The evaluation criteria will focus on **ability to convey information** and **qu
 - **Ability to convey information**: The clarity of the research content will be evaluated. It is important that the text and figures are easy to read, that there is not too much information, and that the essential points can be understood without explanation. For example, the following efforts are required.
     1. Good title
     2. Clear abstract
-    3. Eye-catching devise
+    3. Eye-catching design
     4. Effective design that allows for understanding the basic content quickly
 - **Quality of research**: Main points of evaluation are as follows.
     1. Novelty and originality
@@ -122,36 +121,31 @@ The evaluation criteria will focus on **ability to convey information** and **qu
     3. Appropriateness of analysis methods
     4. Validity of discussion and conclusions
 
-Poster award will be judged based on online posters.
+The Poster Award will be judged based on the poster itself as viewed online. On-site presentations and Q&A sessions will not be considered in the evaluation.
 
-- As part of our efforts to promote internationalization at academic conferences, we will award additional points for research conducted from an international perspective or showing potential for such development. Depending on the research field, however, this will not be considered a mandatory evaluation criterion.
-- Only the poster itself will be evaluated; graphical abstracts and explanatory videos will generally not be considered.
-    - However, judges may refer to graphical abstracts and explanatory videos to understand the research content.
-- For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter via text chat and evaluate based on their responses.
-- The language used does not directly affect the evaluation, but in the event of a tie, **posters that can be understood in English** will be given higher priority. This applies in the following cases.
-    - English is included in the title, introduction, and conclusion.
-    - Understanding the outline of research by reading English alone.
-    - An English version of the poster is available on a separate page.
+- Only the poster itself will be evaluated. Graphical abstracts are optional and will not be considered in the evaluation.
+- For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter using the comment function on the conference platform and evaluate based on their responses. Poster Award applicants are asked to check comments during the weekday portion of the judging period and respond as promptly as possible if questions are posted. Judges will be asked to post questions to presenters on weekdays whenever possible.
 
 ### Precautions
 
-- The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline (scheduled for 7th Mar. 2026, 23:59 (JST)).
-- The poster format should be **one A0-size sheet, portrait orientation only**.　This is based on the idea that “poster presentation is a a way to summarize research content in a limited space.”
+- The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline.
+- The poster format should be **one A0-size sheet, portrait orientation only**. Please ensure sufficient visibility for both online viewing and on-site display by paying careful attention to text size, the resolution of figures and images, color schemes, and overall legibility.
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
-- There will be no core time or discussion forum for online poster presentations at this conference, so please make sure your posters are easy to understand.
+- There will be no core time for online poster presentations. Presenters are not required to provide an explanation online at a specified time, but questions and discussion can take place through the comment function.
+- Poster Award winners are scheduled to be announced after the core time for on-site poster presentations.
 
 ## Awards for Online Poster Presentations
 
-To promote communication among participants through the use of the comment function in the poster presentations at this conference, we have established a “Like!” Award and a Best Discusser Award, which will be selected by all conference participants. The winners of the awards will be announced on the RakuRaku-Conference and conference website as soon as they are determined.
+To promote communication among participants through the use of the comment function in the poster presentations at this conference, we have established a “Like!” Award and a Best Discusser Award, which will be selected by all conference participants. The winners of the awards will be announced on RakuRaku-Conference and conference website as soon as they are determined.
 
-Please note that these awards are not official awards of the Ecological Society of Japan, but are awarded independently by ESJ73.
+Please note that these awards are not official awards of the Ecological Society of Japan, but are awarded independently by ESJ74.
 
 ### "Like!" Award
 
-- To encourage communication among participants through the comment function, we are introducing a "Like!" Award in addition to the regular poster awards. All posters will be considered for the "Like!" Award.
-- Selection will be based on the number of "Like!" received for the poster presentations, which will be tallied at the end of the conference. All conference participants, including presenters at Junior Poster sessions, are eligible to vote "Like!".
+- To encourage communication among participants through the comment function, a "Like!" Award will be given in addition to the regular poster awards. All posters will be considered for the "Like!" Award.
+- Selection will be based on the number of "Like!" received for the poster presentations, which will be tallied at the end of the conference. All conference participants, including presenters at Junior Poster sessions, have the right to “Like!” posters.
 
 ### Best Discusser Award
 
 - An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including presenters at Junior Poster sessions, by posting high quality comments.
-- The number of “Like!” on comments will be tallied for each contest participant and used for selection, with the final count taken at the end of the conference. All contest participants, including presenters at Junior Poster sessions, have the right to “Like!” comments.
+- The number of “Like!” on comments will be tallied for each conference participant and used for selection, with the final count taken at the end of the conference. All conference participants, including presenters at Junior Poster sessions, have the right to “Like!” comments.
