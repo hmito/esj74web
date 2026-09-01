@@ -71,16 +71,16 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
-      <td>Fri. 31st Jul. 2026 23:59 (JST)</td>
+      <td><del>Fri. 31st Jul. 2026 23:59 (JST)</del></td>
       <td rowspan=7>Around Feb. 2027 (tentative)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
-      <td>Mon. 31st Aug. 2026 23:59 (JST)</td>
+      <td><del>Mon. 31st Aug. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>Tue. 15th Sep. 2026 23:59 (JST)</td>
+      <td><del>Tue. 15th Sep. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
