@@ -57,7 +57,7 @@ multi_language: false
 
 
 ##発表当日までの各種締め切り
-![ジュニアポスター 締め切り表]
+![ジュニアポスター 締め切り表](/media/juniorposter_deadline.jpg)
 
 
 ## 参加・発表申し込み
