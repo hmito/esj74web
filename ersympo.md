@@ -75,7 +75,7 @@ ERシンポジウム企画案の**提案締め切りは 8月31日（月）日本
 
 ## 補記１：生態学会旅費規則
 
-旅費については学会から<a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">生態学会旅費規則</a>の範囲で支給されます。リンク先の規則には、航空券の券種についての記述がありませんが、原則としてエコノミークラスです。詳細は[海外招聘者旅費について](https://edit.esj-meeting.net/wp-content/uploads/2026/06/海外招聘者旅費について（2025）.pdf)をご覧ください。
+旅費については学会から<a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">生態学会旅費規則</a>の範囲で支給されます。リンク先の規則には、航空券の券種についての記述がありませんが、原則としてエコノミークラスです。詳細は<a href="https://edit.esj-meeting.net/wp-content/uploads/2026/06/海外招聘者旅費について（2025）.pdf" target-"_blank">海外招聘者旅費について</a>をご覧ください。
 
 ## 補記２：招待講演者制度
 
