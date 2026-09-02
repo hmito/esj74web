@@ -27,7 +27,7 @@ Important deadlines are as follows.
 - Members who have not paid the membership fee from 2024 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2024-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
     - You can check the payment status of the membership fee from <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
 
-<img src="https://edit.esj-meeting.net/wp-content/uploads/2025/09/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
+<img src="media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
 
 ## Registration for Participation
 

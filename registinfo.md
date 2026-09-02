@@ -27,7 +27,7 @@ remarks:
 - 2025年から学会費が未納の会員は、納付が確認できるまで[各種申込み手続きができません](#2025年から学会費未納の場合各種手続きができません)。**講演申込み締切の一週間前**には納入いただきますようお願いいたします。
     - 学会費の納入状況は <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">【マイページ】</a> からご確認ください。
 
-<img src="https://edit.esj-meeting.net/wp-content/uploads/2025/09/regist_flowchart.png" usemap="#ImageMap" alt="参加登録フロー"/>
+<img src="media/regist_flowchart.png" usemap="#ImageMap" alt="参加登録フロー"/>
 
 ## 大会参加申込み
 
