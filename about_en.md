@@ -14,7 +14,7 @@ The 74th Annual Meeting of the Ecological Society of Japan (ESJ74)
 Thu. 18th March - Sun. 21st March, 2027
 
 **= Venue =**  
-The meeting will be held at three separate venues. It is a 2-minute walk from the International Conference Center to the Civic Plaza (Toyama Shimin Plaza), and a 10-minute walk from either of those venues to the Prefectural Civic Center (Toyama Kenmin Kaikan).
+The meeting will be held at three separate venues. It is a 2-minute walk from the Toyama International Conference Center to the Toyama Shimin Plaza, and a 10-minute walk from either of those venues to the Toyama Kenmin Kaikan.
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/
 <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
