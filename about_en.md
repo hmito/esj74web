@@ -14,11 +14,11 @@ The 74th Annual Meeting of the Ecological Society of Japan (ESJ74)
 Thu. 18th March - Sun. 21st March, 2027
 
 **= Venue =**  
-The meeting will be held at three separate venues. It is a 2-minute walk from the International Conference Center to the Civic Plaza, and a 10-minute walk from either of those venues to the Prefectural Civic Hall.
+The meeting will be held at three separate venues. It is a 2-minute walk from the International Conference Center to the Civic Plaza (Toyama Shimin Plaza), and a 10-minute walk from either of those venues to the Prefectural Civic Center (Toyama Kenmin Kaikan).
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/
 <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
-<a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Simin Plaza</a> /
+<a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Shimin Plaza</a> /
 <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
 <a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/
 <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
@@ -33,7 +33,7 @@ The meeting will be held at three separate venues. It is a 2-minute walk from th
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
     - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
-    - Core time will be scheduled for onsite poster presenters.
+    - Core time will be scheduled for onsite poster presentations.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
     - Oral presentations: Presenters may record their own presentations in advance or after the meeting and publish the videos on the conference platform as ["Self On-Demand Streaming"](/presentation_en#Self-On-Demand-Streaming).
@@ -184,7 +184,7 @@ For information on registration and presentation submissions, please see [**Regi
 Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registration Overview](/registinfo_en).
 
 <!--TODO: 早期申込み締切日程-->
-||Early bird<br/>Until Feb. 16 13:00| Normal price<br/>After Feb. 19|
+||Early bird<br/>Until Feb. 16 13:00| Normal price<br/>After Feb. 19 9:00|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Students**|8500 JPY|9500 JPY|
@@ -216,7 +216,7 @@ Free Wi-Fi is available at both venues. Please note that the quality or availabi
 
 ## Support for Participants with Children
 
-ESJ73 will have a [Childcare Service](/childcare_en#Childcare-Service) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare support](/childcare_en) page for details.
+ESJ74 will have a [Childcare Service](/childcare_en#Childcare-Service) at the venue. We also plan to set up a [Family Lounge](/childcare_en#Family-Lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare support](/childcare_en) page for details.
 
 ## Promoting Diversity at the Meeting
 
