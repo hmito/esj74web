@@ -8,21 +8,20 @@ multi_language: true
 
 3つの施設で開催します。
 
-富山国際会議場
+富山国際会議場  
 https://www.ticc.co.jp/access/
 
-富山市民プラザ
+富山市民プラザ  
 https://www.siminplaza.co.jp/access
 
-富山県民会館
+富山県民会館  
 https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 ## 会場へのアクセス
 
 会場への交通機関は、路線バスと市内電車があります。徒歩でも移動可能です。以下に主なルートを示します。利用機関によって、全国交通系ICカードの利用可否が異なりますので注意してください。
 
-![](media/toyama_map.png)
-
+![アクセス地図](media/toyama_map.png)
 
 ### 富山国際会議場・富山市民プラザへのアクセス
 
@@ -37,7 +36,6 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 ※全国交通系ICカードの利用「可」
 
 #### 3. 徒歩：富山駅から約２０分
-
 
 --------------------
 
@@ -60,23 +58,22 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 ### 参考情報
 
-・路線バス（富山地方鉄道株式会社）
+・路線バス（富山地方鉄道株式会社）  
 https://www.chitetsu.co.jp/?page_id=679
 
-・市内電車（富山地方鉄道株式会社）
+・市内電車（富山地方鉄道株式会社）  
 https://www.chitetsu.co.jp/?page_id=656
 
-・富山国際会議場：アクセス
+・富山国際会議場：アクセス  
 https://www.ticc.co.jp/access/
 
-・富山市民プラザ：アクセス
+・富山市民プラザ：アクセス  
 https://www.siminplaza.co.jp/access
 
-・富山県民会館：アクセス・駐車場
+・富山県民会館：アクセス・駐車場  
 https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 ## 宿泊場所について
 
-JR富山駅周辺から会場周辺にかけての宿泊施設の利用をお勧めします。
-
-宿泊先をできるだけ早く確保されることをお勧めします。
+- JR富山駅周辺から会場周辺にかけての宿泊施設の利用をお勧めします。
+- 宿泊先をできるだけ早く確保されることをお勧めします。

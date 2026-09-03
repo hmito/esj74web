@@ -18,9 +18,9 @@ The meeting will be held at three separate venues. It is a 2-minute walk from th
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/
 <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
-<a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Simin Plaza</a> / 
+<a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Simin Plaza</a> /
 <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
-<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/ 
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/
 <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
 (All links lead to external sites)
 
