@@ -75,7 +75,7 @@ Please note that if your proposal is accepted, the information provided in your 
 
 ## Note 1: Travel Expense Regulations
 
-Travel expenses are covered within the society's <a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">Travel Expense Regulations (Japanese verison only)</a>. While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to <a href="https://edit.esj-meeting.net/wp-content/uploads/2026/06/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf" target-"_blank">Travel Expenses for International Invitees</a>.
+Travel expenses are covered within the society's <a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">Travel Expense Regulations (Japanese verison only)</a>. While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to <a href="https://edit.esj-meeting.net/wp-content/uploads/2026/06/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf" target="_blank">Travel Expenses for International Invitees</a>.
 
 ## Note 2: Symposium Invited Speaker Program
 
