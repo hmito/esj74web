@@ -9,7 +9,7 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 31st Oct. 2025 (JST). Please check the details in below and register from the application site.
+Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 2nd Nov. 2025 23:59 (JST). Please check the details in below and register from the application site.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Applications site]</a>**
 
@@ -72,7 +72,7 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
       <td><del>Fri. 31st Jul. 2026 23:59 (JST)</del></td>
-      <td rowspan=7>Around Feb. 2027 (tentative)</td>
+      <td rowspan=7>Fri. 19th Feb. 2027 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td><a href = "ersympo_en">ER Symposium</a></td>
@@ -84,7 +84,7 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
     </tr>
     <tr class="even">
       <td>Symposium<br />
-      <td rowspan=4> Registration to begin:<br>Thu. 1st Oct. 2026<br><br>Deadline:<br>Mon. 2nd Nov. 2026 23:59 (JST)</td>
+      <td rowspan=4>Mon. 2nd Nov. 2026 23:59 (JST)</td>
     </tr>
     <tr class="odd">
       <td><a href="/regist_session_en/#Workshop">Workshop</a></td>
@@ -149,21 +149,11 @@ Non-members are not eligible to present with [some exceptions](#Presentation-Eli
 
 ## Other Notes
 
-### Notice on the Discontinuation of the English Presentation Award
-
-The English Presentation Award was established with the aim of promoting the internationalization of society members, and it has provided many young researchers with opportunities to present in English as well as with encouragement. In line with this purpose, the award has achieved significant outcomes and has played an important role in supporting the international activities of our members. In recent years, the number of applicants has steadily increased, and many members have actively taken on presentations in English, leading us to conclude that the original objectives have been fully achieved. In light of these accomplishments, the award has fulfilled its role and will be concluded. However, English oral presentation sessions will continue to be held. At ESJ73, we plan to present a small gift to oral presenters in English, and we sincerely look forward to your continued active participation.
-
- Please also refer to the message <a href="https://esj.ne.jp/esj/English/Message/0902_en.html" target="_blank">"How to internationalize our annual meetings"</a> from the President of the Ecological Society of Japan.
-
 ### If you have not paid the membership fee from 2025, you will not be able to complete any procedures
 
 If you have not paid the membership fee from 2025, you will not be able to apply to speak at the conference until we can confirm payment of your 2025 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee at least one week before the deadline.
 
 To check the status of your membership fee payment, please visit <a href="https://iap-jp.org/esj/mypage/login/login" target="_blank">My Page</a>.
-
-### Abolition of Quota for Participation in Workshops Only
-
-In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into account the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. We apologize for the inconvenience, but we ask that those who wish to attend only Workshops also follow the regular procedures to participate in the conference.
 
 ### Participation Certificates/Receipts
 
@@ -187,7 +177,7 @@ The conference does not accept revisions based on errata after the presentation 
 ### Cancellation Policy
 
 * If you wish to cancel your presentation or request a refund of the conference registration fee, you must complete the cancellation procedure.
-* **The deadline for requesting a refund of the conference registration fee is 20th Feb. 2027.** If we receive your cancellation request by this date, the registration fee will be refunded after deducting bank transfer fees and other applicable expenses. As a general rule, no refunds will be issued after the deadline.
+* **The deadline for requesting a refund of the conference registration fee is 19th Feb. 2027.** If we receive your cancellation request by this date, the registration fee will be refunded after deducting bank transfer fees and other applicable expenses. As a general rule, no refunds will be issued after the deadline.
 * Please note that if you cancel your presentation after the presentation submission deadline (2nd Nov. 2026 23:59), the cancellation may not be reflected in the program or in the registration information posted on the website.
 
 #### How to Cancel

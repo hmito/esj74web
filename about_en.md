@@ -75,12 +75,12 @@ For information on registration and presentation submissions, please see [**Regi
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>Mar 13-16<br/>　(Sun-Tue)</strong></th>
-<th><strong>Mar 17<br/>　(Wed)</strong></th>
-<th><strong>Mar 18<br/>　(Thu)</strong></th>
-<th><strong>Mar 19<br/>　(Fri)</strong></th>
-<th><strong>Mar 20<br/>　(Sat)</strong></th>
-<th><strong>Mar 21<br/>　(Sun)</strong></th>
+<th><strong>13-16 Mar. <br/>　(Sun-Tue)</strong></th>
+<th><strong>17 Mar.<br/>　(Wed)</strong></th>
+<th><strong>18 Mar.<br/>　(Thu)</strong></th>
+<th><strong>19 Mar.<br/>　(Fri)</strong></th>
+<th><strong>20 Mar.<br/>　(Sat)</strong></th>
+<th><strong>21 Mar.<br/>　(Sun)</strong></th>
 </tr>
 </thead>
 <tbody>

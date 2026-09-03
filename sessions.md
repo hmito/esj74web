@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/sessions/
 menu: プログラム > 企画集会
-toc: true
 multi_language: true
 ---
 

@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/ecocup/
 menu: プログラム > エコカップ
-toc: false
 multi_language: false
 ---
 
@@ -13,7 +12,7 @@ multi_language: false
 
 ## 概要
 
-- 開催日時：2027年3月22日（月）10:00〜16:00（大会翌日）
+- 開催日時：2027年3月22日(月) 10:00〜16:00（大会翌日）
 - 会場：<a href="https://toyamap.or.jp/kenso/info_map/indoor/" target="_blank">富山県総合運動公園 屋内グラウンド</a>  
   ※全天候型の屋根がある人工芝のグラウンドです！
 - 参加資格：学会参加者、および学会参加者と研究室などを通じてつながりのある方

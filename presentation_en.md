@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/presentation_en/
 menu: About > Guidelines for Presentations
-toc: false
 multi_language: true
 ---
 
@@ -44,7 +43,7 @@ At this conference, all oral presenters could utilize “Self On-Demand Streamin
     - Please keep your presentation within the allotted time (oral presentation: 15 minutes) and do not exceed it significantly.
 - **Recording presentation at the conference venue is strictly prohibited in any form**. Please record individually either before or after the conference.
 - Uploading and streaming will be conducted on the conference platform “RakuRaku-Conference”.
-    - Uploads can be made at any time after around end of Jan. 2027 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
+    - Uploads can be made at any time after 29th Jan. 2027 on the RakuRaku-Conference. There is no deadline for uploads, and replacements can be made at any time.
     - Only conference participants can view the streaming. It will be published with settings that prevent downloading.
     - To make it clear at a glance whether streaming video is available, a marker will be added to the title when a video is uploaded on the conference platform.
 - Presenters shall bear full responsibility for any consequences arising from the content of their videos.

@@ -1,8 +1,8 @@
 ---
 url: https://esj-meeting.net/faq_en/
 menu: Contact > FAQ
-toc: true
 multi_language: true
+remarks: 冒頭に見出しを表示するよう設定
 ---
 
 # Frequently Asked Questions

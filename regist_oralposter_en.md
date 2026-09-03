@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/regist_oralposter_en/
 menu: Registration > Regular Presentations
-toc: false
 multi_language: true
 ---
 
@@ -14,7 +13,7 @@ Regular presentations include oral and poster sessions.
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award was discontinued at ESJ73](/registinfo_en#Notice-on-the-Discontinuation-of-the-English-Presentation-Award).
+- Since the purpose of establishing the award to promote English presentations has been achieved, the [English Presentation Award was discontinued at ESJ73](https://esj73.esj-meeting.net/registinfo_en/#Notice-on-the-Discontinuation-of-the-English-Presentation-Award).
 - Participants can utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the conference platform. Please consider utilizing this service.
 
 **Poster session**
@@ -48,7 +47,7 @@ You can apply for various types of presentations at the following page.
     - Title of your presentation (up to 40 Japanese characters or 150 English characters).
     - Names and affiliations of you and co-presenters.
 - Please select your preferred research fields for your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
-- The deadline for abstract registration is scheduled for around Feb. 2027. Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site.
+- The deadline for abstract registration is Tue. 16th Feb. 2027. Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site.
 - Please also check [Other Notes](/registinfo_en#Other-Notes) before submitting your abstract.
 
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody>

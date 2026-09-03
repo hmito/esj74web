@@ -1,7 +1,6 @@
 ---
 url: https://esj-meeting.net/regist_session_en/
 menu: Registration > Proposal for sessions
-toc: false
 multi_language: true
 ---
 
