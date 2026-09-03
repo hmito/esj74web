@@ -62,8 +62,7 @@ remarks:
 <table>
 <colgroup>
 <col style="width: 16%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
+<col style="width: 16%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
@@ -73,8 +72,7 @@ remarks:
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>3月13-16日<br/>　(日-火)</strong></th>
-<th><strong>3月17日<br/>　(水)</strong></th>
+<th><strong>会期前</strong></th>
 <th><strong>3月18日<br/>　(木)</strong></th>
 <th><strong>3月19日<br/>　(金)</strong></th>
 <th><strong>3月20日<br/>　(土)</strong></th>
@@ -85,12 +83,10 @@ remarks:
 <tr class="even">
 <td colspan=2>総会</td>
 <td></td>
-<td></td>
 <td colspan=4 style="text-align:center">未定</td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
-<td></td>
 <td></td>
 <td colspan=4 style="text-align:center">未定</td>
 </tr>
@@ -107,7 +103,6 @@ remarks:
 <tr class="even">
 <td colspan=2><a href="/sessions#ER-シンポジウム">ERシンポジウム</a>、<a href="/sessions#公募セッション">公募セッション</a>、シンポジウム</td>
 <td></td>
-<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -115,7 +110,6 @@ remarks:
 </tr>
 <tr class="odd">
 <td colspan=2>自由集会</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -125,7 +119,6 @@ remarks:
 <tr class="even">
 <td colspan=2>フォーラム</td>
 <td></td>
-<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -133,7 +126,6 @@ remarks:
 </tr>
 <tr class="odd">
 <td colspan=2>口頭発表･英語口頭発表</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -143,13 +135,11 @@ remarks:
 <tr class="even">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
-<td>○</td>
-<td></td>
+<td>14～16日</td>
 <td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -159,13 +149,11 @@ remarks:
 <tr class="odd">
 <td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
-<td>○</td>
-<td></td>
+<td>15～17日</td>
 <td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="odd">
 <td>オンサイト</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,12 +166,10 @@ remarks:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>○</td>
 </tr>
 <tr class="odd">
 <td colspan=2>公開講演会</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -65,8 +65,7 @@ For information on registration and presentation submissions, please see [**Regi
 <colgroup>
 <col style="width: 16%" />
 <col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
+<col style="width: 16%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
@@ -75,8 +74,7 @@ For information on registration and presentation submissions, please see [**Regi
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>13-16 Mar. <br/>　(Sun-Tue)</strong></th>
-<th><strong>17 Mar.<br/>　(Wed)</strong></th>
+<th><strong>Before the Meeting</strong></th>
 <th><strong>18 Mar.<br/>　(Thu)</strong></th>
 <th><strong>19 Mar.<br/>　(Fri)</strong></th>
 <th><strong>20 Mar.<br/>　(Sat)</strong></th>
@@ -105,7 +103,6 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="even">
 <td colspan=2><a href="/sessions_en#ER-Symposia">ER Symposia</a>, <a href="/sessions_en#Open-Session">Open Sessions</a>, <a href="/regist_session_en">Symposia</a></td>
 <td></td>
-<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -113,7 +110,6 @@ For information on registration and presentation submissions, please see [**Regi
 </tr>
 <tr class="odd">
 <td colspan=2>Workshops</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -123,7 +119,6 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="even">
 <td colspan=2>Forums</td>
 <td></td>
-<td></td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -131,7 +126,6 @@ For information on registration and presentation submissions, please see [**Regi
 </tr>
 <tr class="odd">
 <td colspan=2>Oral sessions</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -141,12 +135,11 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="even">
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
-<td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until early Apr.</td>
+<td>14-16 Mar.</td>
+<td colspan=4>* Available for viewing and comments until early Apr.</td>
 </tr>
-    <tr class="even">
+<tr class="even">
 <td>Onsite</td>
-<td></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -156,12 +149,11 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="odd">
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
-<td>○</td>
-<td colspan=5>* Posters can be viewed and commented on the conference platform until early Apr.</td>
+<td>15-17 Mar.</td>
+<td colspan=4>* Available for viewing and comments until early Apr.</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -174,12 +166,10 @@ For information on registration and presentation submissions, please see [**Regi
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>○</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Public Lecture</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
