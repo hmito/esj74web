@@ -60,7 +60,7 @@ multi_language: true
 <tbody>
 <tr>
     <td colspan=2><a href="/sessions#公募セッション">災害と生態学 (公募)</a></td>
-    <td><a href="/sessions#公募セッション">長期生態学研究 (公募)</a></td>
+    <td colspan=2><a href="/sessions#公募セッション">長期生態学研究 (公募)</a></td>
 </tr>
 <tr>
     <td>植物生理生態</td>
