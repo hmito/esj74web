@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/venue/
 menu: 大会案内 > 会場
 multi_language: true
+remarks: 図表 (会場地図) あり。
 ---
 
 # 会場
@@ -45,7 +46,8 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 富山駅前（南口）バスターミナル４番のりばから発車するバス（いずれの行き先でも可）に乗車し、「富山市役所前」下車（最初のバス停）。徒歩１分（道路の向かい側の建物）。
 ※全国交通系ICカードの利用「不可」
-※他の路線でも「富山市役所前」に停車します。
+
+<!--※他の路線でも「富山市役所前」に停車します。-->
 
 #### 2. 市内電車（富山地方鉄道株式会社）
 
