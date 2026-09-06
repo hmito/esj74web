@@ -21,7 +21,7 @@ Important deadlines are as follows.
 |[**Procedures for Presentations and Sessions**](#Application-for-Presentations-and-Sessions)|Deadline for Proposals||Deadline for Abstract Submission||
 |[**Non-members joining the ESJ for presentations**](#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan)|Deadline for New Members to Join the ESJ||Deadline for Payment of Membership Fee||
 
-- Invited speakers at symposia, and undergraduate or below who are not organizers and speakers can participate without registration fee.
+- Invited speakers at symposia, junior poster presenters, and undergraduate or below who are not organizers and speakers can participate without registration fee.
     - Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the meeting registration fee.
 - Due to the system transition, registrations will not be available from 21st Nov. 2026 to 5th Jan. 2027, and from 16th Feb. 2027 13:00 to 19th Feb. 2027 9:00.
 - Members who have not paid the membership fee from 2025 will [not be able to complete the registration and application procedures](#If-you-have-not-paid-the-membership-fee-from-2025-you-will-not-be-able-to-complete-any-procedures) until payment is confirmed. Please pay the membership fee, at least, **one week before the deadline**.
