@@ -39,7 +39,7 @@ You can register for the meeting at the link below.
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Student**|8500 JPY|9500 JPY|
-|**Invited speaker <br/>Undergraduate or below without presentation**|Free|Free|
+|**Invited speaker<br/>Junior poster presenter <br/>Undergraduate or below without presentation**|Free|Free|
 
 - The system used for the registration and payment procedures differs depending on the period.
     - The application website will be used until 20th Nov. 2026, and the online conference platform (RakuRaku-Conference) will be used after 6th Jan. 2027.
