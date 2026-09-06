@@ -176,7 +176,7 @@ The meeting does not accept revisions based on errata after the presentation app
 ### Cancellation Policy
 
 * If you wish to cancel your presentation or request a refund of the meeting registration fee, you must complete the cancellation procedure.
-* **The deadline for requesting a refund of the meeting registration fee is 19th Feb. 2027.** If we receive your cancellation request by this date, the registration fee will be refunded after deducting bank transfer fees and other applicable expenses. As a general rule, no refunds will be issued after the deadline.
+* **The deadline for requesting a refund of the meeting registration fee is 16th Feb. 2027.** If we receive your cancellation request by this date, the registration fee will be refunded after deducting bank transfer fees and other applicable expenses. As a general rule, no refunds will be issued after the deadline.
 * Please note that if you cancel your presentation after the presentation submission deadline (2nd Nov. 2026 23:59), the cancellation may not be reflected in the program or in the registration information posted on the website.
 
 #### How to Cancel
