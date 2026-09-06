@@ -20,7 +20,7 @@ multi_language: true
 |Time|3 hours|1.5 hours|1.5 hours|
 |Presenters| On-site|On-site|On-site|
 |<a href="#Online-Support">Online Support</a>|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
-|Priority|Top priority|High priority|Top priority|
+|Priority|High|Low|High|
 |Presentations by non-ESJ members|**Encouraged**<br><a href="#Symposium-Invited-Speaker-Program">Invited speakers</a> are exempt from the registration fee|**Not allowed**<br>Contributions without presentation abstract are allowed|**Allowed**|
 
 ### Symposium
@@ -50,13 +50,18 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 **Online presentations will not be accepted for any presentation with abstract submission** at this conference, except in cases where reasonable accommodation is required. This policy applies equally to presenters residing outside Japan. All such presentations must be given on-site.
 
-If it is difficult to present on-site, **remote presentations using Zoom or similar tools will be permitted only for contributions that do not require the submission of a presentation abstract**, such as opening remarks, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below. 
+If it is difficult to present on-site, **remote presentations using Zoom or similar tools will be permitted only for contributions that do not require the submission of a presentation abstract**, such as opening remarks, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below.
 
-If online presentations are introduced for such purposes, session organizers are responsible for arranging the necessary tools (e.g., Zoom) and internet access at their own expense and responsibility. **Connection to Zoom or similar tools is strictly limited to organizers and presenters.** Audio or video from the session must not be independently streamed online outside the venue.
+If online presentations are introduced for such purposes, session organizers are responsible for arranging the necessary tools (e.g., Zoom) and internet access at their own expense and responsibility. For information on the network environment at the venue, please also refer to [Presentation Guidelines](/presentation_en#Symposia-Workshops-Forums). **Connection to Zoom or similar tools is strictly limited to organizers and presenters.** Audio or video from the session must not be independently streamed online outside the venue.
 
 ### On-Demand Streaming of Presentations
 
-Presentations in all symposia, workshops, and forums for which on-demand streaming is selected will be recorded and made available on the RakuRaku-Conference at a later date. As a general rule, all symposia will be made available for on-demand streaming. Presentations delivered remotely using Zoom or similar tools, including those not requiring abstract submission, will also be recorded and made available on demand.
+Presentations in all symposia, workshops, and forums for which on-demand streaming is selected will be recorded and made available on the RakuRaku-Conference at a later date. As a general rule, all symposia will be made available for on-demand streaming.
+
+- When submitting a proposal for a session, the organizer selects whether the entire session will be available for on-demand streaming.
+- Each presenter within the session also selects whether their own presentation may be distributed on-demand when submitting their abstract.
+- On-demand streaming will be provided only for sessions whose organizers have permitted on-demand streaming, and only for presentations whose presenters have also permitted streaming.
+    - Presentations delivered online via Zoom or similar platforms, which do not involve abstract submission, will be recorded and distributed as long as the organizer has permitted on-demand streaming for the session as a whole.
 
 In order to prevent problems with the recordings, all recording work will be handled by a contractor. Organizers cannot perform the recording.
 
@@ -96,13 +101,16 @@ You can apply for the sessions at the following pages.
     - Type of session
     - Session title: up to 40 characters in Japanese or 150 characters in English
     - Session short title: up to 20 characters in Japanese or 75 characters in English
-    - Session abstract: up to 800 characters in Japanese or 400 words in English. Information for presenters who will not submit an abstract (e.g., introductory speakers and commentators) should be included in the session abstract.
-    - On-demand streaming: please indicate whether the entire session, including the opening remarks and commentary by commentators, will be made available for on-demand streaming. If on-demand streaming is not selected, none of the presentations in the session will be made available on-demand. Even if on-demand streaming is selected, individual presenters may choose whether or not to make their presentation available for on-demand streaming when submitting their presentation abstracts.
-    - Open session: Please indicate here if the Symposium is proposed as an Open Session, or if a workshop is to be held in the field added under the Open Session. 
+    - Session abstract: up to 800 characters in Japanese or 400 words in English
+        - Information for presenters who will not submit an abstract (e.g., introductory speakers and commentators) should be included in the session abstract.
+    - Whether the session will be available for on-demand streaming (please refer [on-demand streaming](#On-Demand-Streaming-of-Presentations))
+    On-demand streaming: please indicate whether the entire session will be made available for on-demand streaming.
+    - Open session
+        - lease indicate here if the Symposium is proposed as an Open Session, or if a workshop is to be held in the field added under the Open Session.
 - After submitting your session proposal, the presentation registration menu will appear. Please register presentation information such as titles or speakers for all presentations requiring abstract submission.
     - Contributions without presentation abstracts, such as opening remarks, comments, or opinion statements, cannot be registered via the presentation registration menu. Please include information about such contributions within the session abstract.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
-    - In the case that your proposal is not accepted, [alternative measures](/faq_en/#I-would-like-to-give-a-presentation-in-a-symposium-or-workshop-but-can-I-also-apply-for-a-general-presentation-in-case-my-session-is-not-accepted) will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
+    - In the case that your proposal is not accepted, alternative measures such as changing the session type or transferring your application to a general presentation will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
 - The conference committee will not be involved in the content of the session, but those that are deemed to contain content that defames or slanders individuals or groups may not be adopted.
 - Please also read [Other Notes](/registinfo_en#Other-Notes) before applying.
 
@@ -116,7 +124,7 @@ You can apply for the sessions at the following pages.
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 16th Feb. 2027 23:59 (JST). Also, please indicate whether or not your presentation will be made available for on-demand streaming.
-    - Note that on-demand streaming will only be provided if the session organizer has also registered to allow on-demand streaming for the entire session.
+    - Note that on-demand streaming will only be provided if the session organizer has also registered to allow on-demand streaming for the entire session (please refer [on-demand streaming](#On-Demand-Streaming-of-Presentations)).
 - Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
     - For registration for invited speakers, please refer to the [Symposium Invited Speaker Program](#Symposium-Invited-Speaker-Program) as below. Registration fee is free of charge.
 - Please also see [Other Notes](/registinfo_en#Other-Notes).
