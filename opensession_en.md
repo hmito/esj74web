@@ -38,23 +38,23 @@ Conveners of accepted themes will receive a list of oral presentations, poster p
 
 ### Restrictions on Multiple Presentations
 
-For ESJ74, each presenter is restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en#Restrictions-on-Multiple-Presentations) for more information.
+For ESJ74, each presenter is restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](https://esj-meeting.net/registinfo_en/#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Deadline
 
-The deadline for submitting theme proposals is **Friday 31st July, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
+The deadline for submitting theme proposals is **Friday, July 31, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
 
 ### Application Procedure
 
-Proposals can be co-authored, but only one person should be designated as the contact. Submit proposals via the <a href="https://forms.gle/FfhHhdaf4Bvs1Gzb7" target="_blank">Google Form</a> application. If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
+Proposals can be co-authored, but only one person should be designated as the contact. Submit proposals via the [Google Form](https://forms.gle/FfhHhdaf4Bvs1Gzb7) application. If you cannot access Google Forms and wish to apply, please contact the Symposium Committee using ESJ74's Contact Form presented at the end of this page.
 
 The proposal should include the following information:
 
-1. Name of the principal applicant, affiliation, and email address
-2. Proposed theme name (up to 30 characters in English, including spaces)
-3. Theme objectives (this description will be published on the conference website if the proposal is accepted)
-4. Rationale for proposing the theme (expected impact on the conference and the field by introducing the theme as a new category)
-5. Additional information related to the theme (e.g., relevant publications, international treaties)
+1.  Name of the principal applicant, affiliation, and email address
+2.  Proposed theme name (up to 30 characters in English, including spaces)
+3.  Theme objectives (this description will be published on the conference website if the proposal is accepted)
+4.  Rationale for proposing the theme (expected impact on the conference and the field by introducing the theme as a new category)
+5.  Additional information related to the theme (e.g., relevant publications, international treaties)
 
 Note: Item 2 will also be used as the name of a new category for the field of Regular Presentations. It is NOT the symposium title. Item 5 is just additional information related to Item 4. Journal impact factor in which relevant papers were published is not considered as a review criterion.
 
@@ -70,12 +70,12 @@ This is because securing judges for new themes is challenging. Therefore, poster
 
 ## Reference: Common Guidelines for Regular Symposia
 
-1. Symposium organizers (including co-organizers) must be regular members of the Ecological Society of Japan.
-2. Symposia will be held for approximately three hours.
-3. Those proposing themes must also apply for presentations in the same way as regular presentations. The registration deadline is the same as for other regular presentations.
+1.  Symposium organizers (including co-organizers) must be regular members of the Ecological Society of Japan.
+2.  Symposia will be held for approximately three hours.
+3.  Those proposing themes must also apply for presentations in the same way as regular presentations. The registration deadline is the same as for other regular presentations.
 
 We look forward to receiving your proposals.
 
-***
+* * *
 
-For inquiries or requests related to this matter, please use ESJ74's [Contact Form](/contact_en) and specify that your inquiry is **for the Symposium Committee**.
+For inquiries or requests related to this matter, please use ESJ74's [Contact Form](https://esj-meeting.net/contact_en/) and specify that your inquiry is **for the Symposium Committee**.
