@@ -74,7 +74,7 @@ For information on registration and presentation submissions, please see [**Regi
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>Before the Meeting</strong></th>
+<th><strong>14-16 Mar.<br/>(Sun-Tue)</strong></th>
 <th><strong>18 Mar.<br/>　(Thu)</strong></th>
 <th><strong>19 Mar.<br/>　(Fri)</strong></th>
 <th><strong>20 Mar.<br/>　(Sat)</strong></th>
@@ -135,7 +135,7 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="even">
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
-<td>14-16 Mar.</td>
+<td>○</td>
 <td colspan=4>* Available for viewing and comments until early Apr.</td>
 </tr>
 <tr class="even">
@@ -149,7 +149,7 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="odd">
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
-<td>15-17 Mar.</td>
+<td>○</td>
 <td colspan=4>* Available for viewing and comments until early Apr.</td>
 </tr>
 <tr class="odd">

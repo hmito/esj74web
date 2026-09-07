@@ -72,7 +72,7 @@ remarks:
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>会期前</strong></th>
+<th><strong>3月14～16日<br/>(日-火)</strong></th>
 <th><strong>3月18日<br/>　(木)</strong></th>
 <th><strong>3月19日<br/>　(金)</strong></th>
 <th><strong>3月20日<br/>　(土)</strong></th>
@@ -135,7 +135,7 @@ remarks:
 <tr class="even">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
-<td>14～16日</td>
+<td>○</td>
 <td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
@@ -149,7 +149,7 @@ remarks:
 <tr class="odd">
 <td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
-<td>15～17日</td>
+<td>○</td>
 <td colspan=4>※4月頃まで大会プラットフォーム上で閲覧・コメント可能</td>
 </tr>
 <tr class="odd">
@@ -183,7 +183,6 @@ remarks:
 
 参加費は以下の通りです。参加・講演の申込みや集会企画の方法についての詳細は、[各種申込み](/registinfo)をご覧ください。
 
-<!--TODO: 早期申込み締切日程-->
 ||早期申込み<br/>2/16 13時まで|通常申込み<br/>2/19 9時以降|
 |---|---|---|
 |**一般**|17000円|19000円|
