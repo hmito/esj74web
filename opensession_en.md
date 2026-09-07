@@ -6,7 +6,9 @@ multi_language: true
 
 # Open Session
 
-Following the previous meetings, ESJ74 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose “themes.” If selected, these themes will be used to organize symposia, and the proposed “themes” will be added as new categories for regular presentations. The categories for general presentations at ESJ74 will remain unchanged from [those](https://esj73.esj-meeting.net/regist_oralposter_en/#Application-for-Regular-Presentations) used at ESJ73, excluding the open session themes.
+[\[Check the selected Open Session\]](/sessions_en#Open-Session)
+
+Following the previous meetings, ESJ74 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose “themes.” If selected, these themes will be used to organize symposia, and the proposed “themes” will be added as new categories for regular presentations.
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
