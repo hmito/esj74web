@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/ersympo_en/
 menu: Registration > ER Symposium
 multi_language: true
+remarks: PDFあり。
 ---
 
 # ER Symposium
@@ -18,7 +19,7 @@ We encourage those considering inviting overseas researchers to the symposium to
 
 ### Travel Expenses are Covered and Participation Fees are Waived
 
-The ER Invited Speaker will receive the necessary travel expenses (subject to regulations, see Note 1) and have their conference participation fees waived.
+The ER Invited Speaker will receive the necessary travel expenses (subject to regulations, see [Note 1](#Note-1-Travel-Expense-Regulations)) and have their conference participation fees waived.
 
 ### Paper Contribution
 

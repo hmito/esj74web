@@ -16,11 +16,11 @@ Thu. 18th March - Sun. 21st March, 2027
 **= Venue =**  
 The meeting will be held at three separate venues. It is a 2-minute walk from the Toyama International Conference Center to the Toyama Shimin Plaza, and a 10-minute walk from either of those venues to the Toyama Kenmin Kaikan.
 
-<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> \/
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> /
 <a href="https://www.ticc.co.jp/english/access/" target="_blank">**\[Access\]**</a>  
 <a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">Toyama Shimin Plaza</a> /
 <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
-<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> \/
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> /
 <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
 (All links lead to external sites)
 
