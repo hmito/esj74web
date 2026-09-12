@@ -10,10 +10,14 @@ remarks:
 
 The 74th Annual Meeting of the Ecological Society of Japan (ESJ74)
 
-**= Dates =**  
+**= Online Poster Viewine Period =**  
+Mon. 15th March - Tue. 16st March, 2027  
+* This is the period during which we ask participants to focus their viewing and discussion of posters on the conference platform. Viewing and commenting will remain possible until around April.
+
+**= Onsite Dates =**  
 Thu. 18th March - Sun. 21st March, 2027
 
-**= Venue =**  
+**= Onsite Venue =**  
 The meeting will be held at three separate venues. It is a 2-minute walk from the Toyama International Conference Center to the Toyama Shimin Plaza, and a 10-minute walk from either of those venues to the Toyama Kenmin Kaikan.
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> /
@@ -32,7 +36,7 @@ The meeting will be held at three separate venues. It is a 2-minute walk from th
 - For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
-    - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. No core time will be set.
+    - Online presentations will be conducted by uploading files to the conference platform in advance, allowing participants to view them freely during the conference period. Although no core time is scheduled, we have designated **15th–16th Mar. as a “viewing period” for focused viewing and discussion**.
     - Core time will be scheduled for onsite poster presentations.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
@@ -74,7 +78,7 @@ For information on registration and presentation submissions, please see [**Regi
 <thead>
 <tr class="header">
 <th colspan=2></th>
-<th><strong>14-16 Mar.<br/>(Sun-Tue)</strong></th>
+<th><strong>15-16 Mar.<br/>(Mon-Tue)</strong></th>
 <th><strong>18 Mar.<br/>　(Thu)</strong></th>
 <th><strong>19 Mar.<br/>　(Fri)</strong></th>
 <th><strong>20 Mar.<br/>　(Sat)</strong></th>

@@ -19,7 +19,7 @@ Regular presentations include oral and poster sessions.
 **Poster session**
 
 - There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
-- Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from 14th to 16th Mar. 2027).
+- For online poster presentations, no core time is scheduled, but we have designated 15th–16th Mar. 2027 as a “viewing period” for focused viewing and discussion. Please respond to comments during this period.
 - There will be a core time during the conference period for on-site poster presentations. 
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply.
 
@@ -99,14 +99,20 @@ You can apply for various types of presentations at the following page.
 
 To encourage researchers in the early stages of their careers, poster awards will be given for outstanding poster presentations.
 
-### Eligibility
+### Eligibility and Application
 
-Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. Please select "Apply for Poster Award" when you apply for a presentation.
+Please select "Apply for Poster Award" when you apply for a presentation.
 
-- However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply, even if they meet the above requirements.
-- Presenters who are ultimately assigned to either “1 Ecology and Disasters” or “2 Long-Term Ecological Research” in the [Open session](/sessions_en#Open-Session) are not eligible to apply for the Poster Award.
+- Student members who have not obtained a Ph.D. (as of the  deadline for regular presentations) are eligible to apply. 
+  - However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past ESJ annual meeting are not eligible to apply, even if they meet the above requirements.
+- Presenters who are assigned to the research field proposed in the [Open session](/sessions_en#Open-Session), i.e., “Ecology and Disasters” or “Long-Term Ecological Research”, are not eligible to apply for the Poster Award.
 
-### Evaluation Criteria
+### Evaluation
+
+The poster award will be judged based on the online poster uploaded by 13th Mar. (Sat) 23:59 (JST).
+    - Judges may ask questions to the presenter using the comment function on the conference platform and evaluate based on their responses.During the viewing period (15th–16th Mar.), please make sure to respond to comments.
+    - On-site presentations and Q&A sessions are not included in the evaluation.
+- Only the poster itself will be evaluated. Graphical abstracts are optional and will not be considered in the evaluation.
 
 The evaluation criteria will focus on **ability to convey information** and **quality of research** of the poster.
 
@@ -121,18 +127,17 @@ The evaluation criteria will focus on **ability to convey information** and **qu
     3. Appropriateness of analysis methods
     4. Validity of discussion and conclusions
 
-The Poster Award will be judged based on the poster itself as viewed online. On-site presentations and Q&A sessions will not be considered in the evaluation.
 
-- Only the poster itself will be evaluated. Graphical abstracts are optional and will not be considered in the evaluation.
-- For items that are difficult to evaluate based on the poster alone, judges may ask questions to the presenter using the comment function on the conference platform and evaluate based on their responses. Poster Award applicants are asked to check comments during the weekday portion of the judging period and respond as promptly as possible if questions are posted. Judges will be asked to post questions to presenters on weekdays whenever possible.
 
-### Precautions
-
-- The judging will take place before the conference begins, so please make sure to upload your poster to RakuRaku-Conference by the specified deadline.
+<!--TODO：以下の内容については、1月公開の「発表にあたって」のポスター注意点に移動？
 - The poster format should be **one A0-size sheet, portrait orientation only**. Please ensure sufficient visibility for both online viewing and on-site display by paying careful attention to text size, the resolution of figures and images, color schemes, and overall legibility.
 - To ensure fairness, please refrain from including topics on your poster that differ from those you registered.
 - There will be no core time for online poster presentations. Presenters are not required to provide an explanation online at a specified time, but questions and discussion can take place through the comment function.
-- Poster Award winners are scheduled to be announced after the core time for on-site poster presentations.
+-->
+
+### Announcement of Award Winners
+
+Poster Award winners are scheduled to be announced after the core time for on-site poster presentations.
 
 ## Awards for Online Poster Presentations
 
