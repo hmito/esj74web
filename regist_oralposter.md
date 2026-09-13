@@ -111,7 +111,7 @@ multi_language: true
 
 - 応募できるのは、**博士号未取得の学生会員**（一般講演の申込締切期限時点）です。
     - ただし、過去の日本生態学会大会においてポスター「最優秀賞」または「優秀賞」を受賞した者は、応募できません。
-- [公募セッション](/sessions#公募セッション)の「災害と生態学 Ecology and Disasters」「長期生態学研究 Long-Term Ecological Research」を発表分野として選択した場合、ポスター賞に応募できません。
+- [公募セッション](/sessions#公募セッション)の「災害と生態学 Ecology and Disasters」「長期生態学研究 Long-Term Ecological Research」を発表分野として選択し割り当てられた場合、ポスター賞には応募できません。
 
 ### ポスターの審査
 
