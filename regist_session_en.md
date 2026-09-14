@@ -118,15 +118,16 @@ You can apply for the sessions at the following pages.
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of Symposium Invited  Speakers.
     - Non-members are requested to apply for membership by 2nd Nov. 2026 23:59 (JST) and pay the conference fee by 16th Feb. 2027 23:59 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
+    - For registration for invited speakers, please refer to the [Symposium Invited Speaker Program](#Symposium-Invited-Speaker-Program) as below. In this case, the application for membership is not necessary and registration fee of the conference is free of charge.
 - **All co-organizers/speakers must be registered on <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a> before the organizer submits an application (deadline: 2nd Nov. 2026).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
+    - Although the [payment of the registration fee](/registinfo_en#Registration-for-Participation) can be made up to the day of the conference, we recommend completing the payment as early as possible to ensure smooth access to the conference platform.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
     - Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
     - Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 16th Feb. 2027 23:59 (JST). Also, please indicate whether or not your presentation will be made available for on-demand streaming.
     - Note that on-demand streaming will only be provided if the session organizer has also registered to allow on-demand streaming for the entire session (please refer [on-demand streaming](#On-Demand-Streaming-of-Presentations)).
-- Please complete the [conference registration procedures](/registinfo_en#Registration-for-Participation) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
-    - For registration for invited speakers, please refer to the [Symposium Invited Speaker Program](#Symposium-Invited-Speaker-Program) as below. Registration fee is free of charge.
+
 - Please also see [Other Notes](/registinfo_en#Other-Notes).
 
 ## Symposium Invited Speaker Program
