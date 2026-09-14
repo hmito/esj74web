@@ -25,10 +25,12 @@ multi_language: true
 
 ## Meeting information
 
-The 74th Annual Meeting of the Ecological Society of Japan (ESJ74) will be held as follows. For more details about the meeting, please see [meeting overview page](/about_en).
+The 74th Annual Meeting of the Ecological Society of Japan (ESJ74) will be held as follows. For more details, please see [meeting overview page](/about_en).
 
 **Dates: 18th March 2027 to 21st March 2027**  
 **Venue: <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a>, <a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a>, and <a href="https://maps.app.goo.gl/rsEuApvdfjeXmxLy7" target="_blank">Toyama Shimin Plaza</a>** (links lead to Google Map)
+
+Prior to the main conference, **15th–16th (Mon–Tue) Mar. is the online poster viewing period**. We encourage you to actively participate in viewing and discussing the online posters.
 
 This meeting will be held in a [hybrid format](/about_en#Meeting-Format) using an online platform alongside on-site events.
 
