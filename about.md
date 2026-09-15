@@ -135,7 +135,7 @@ remarks:
 <tr class="even">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
-<td colspan=5>3月13日以降、大会会期中随時閲覧・議論（閲覧・コメント機能は4月16日まで利用可能）</td>
+<td colspan=5>3月13日～（閲覧・コメント機能は4月16日まで利用可能）</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
@@ -148,7 +148,7 @@ remarks:
 <tr class="odd">
 <td rowspan=2>ジュニアポスター</td>
 <td>オンライン</td>
-<td colspan=5>3月13日以降、大会会期中随時閲覧・議論（閲覧・コメント機能は4月16日まで利用可能）</td>
+<td colspan=5>3月13日～（閲覧・コメント機能は4月16日まで利用可能）</td>
 </tr>
 <tr class="odd">
 <td>オンサイト</td>
