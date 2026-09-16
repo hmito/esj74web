@@ -19,8 +19,9 @@ Regular presentations include oral and poster sessions.
 **Poster session**
 
 - There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
-- For online poster presentations, no core time is scheduled, but we have designated 15th–16th Mar. 2027 as a “viewing period” for focused viewing and discussion. Please respond to comments during this period.
-- There will be a core time during the conference period for on-site poster presentations. 
+- In the online poster session, no core time is scheduled. 
+    - Once all posters are published on the conference platform on 13th Mar., viewing and discussion via the comment function will be possible at any time throughout the conference period. (The viewing and commenting functions will remain available until 16th Apr.)
+- There will be a core time during the conference period for on-site poster presentations.
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply.
 
 ## Application for Regular Presentations
@@ -109,8 +110,8 @@ Please select "Apply for Poster Award" when you apply for a presentation.
 
 ### Evaluation
 
-The poster award will be judged based on the online poster uploaded by 13th Mar. (Sat) 23:59 (JST).
-    - Judges may ask questions to the presenter using the comment function on the conference platform and evaluate based on their responses.During the viewing period (15th–16th Mar.), please make sure to respond to comments.
+The poster award will be judged based on the online poster uploaded by 12th Mar. (Fri) 23:59 (JST).
+    - Judges may ask questions to the presenter using the comment function on the conference platform and evaluate based on their responses.
     - On-site presentations and Q&A sessions are not included in the evaluation.
 - Only the poster itself will be evaluated. Graphical abstracts are optional and will not be considered in the evaluation.
 
