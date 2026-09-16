@@ -61,22 +61,11 @@ About 10 minutes from the Toyama Station.
 
 ### Additional Information
 
-Route Bus Information (Toyama Chihou Tetsudou Inc.)  
-https://www.chitetsu.co.jp/?page_id=679
-(Japanese text only)
-
-Tram Information (Toyama Chihou Tetsudou Inc.)  
-https://www.chitetsu.co.jp/english/trams/
-
-Toyama International Conference Center Information  
-https://www.ticc.co.jp/english/
-
-Toyama Shimin Plaza Official Access Information  
-https://www.siminplaza.co.jp/access 
-(Japanese text only)
-
-Toyama Kenmin Kaikan Official Access&Parking Information  
-https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
+<a href="https://www.chitetsu.co.jp/?page_id=679" target="_blank">Route Bus Information (Toyama Chihou Tetsudou Inc.)</a> (Japanese text only)<br>
+<a href="https://www.chitetsu.co.jp/english/trams/" target="_blank">Tram Information (Toyama Chihou Tetsudou Inc.)</a>
+<br><a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> / <a href="https://www.ticc.co.jp/english/" target="_blank">**\[Access\]**</a>
+<br><a href="https://maps.app.goo.gl/G1v5xUsbwoSkGarWA" target="_blank">Toyama Shimin Plaza</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a> (Japanese text only)
+<br><a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> / <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a> (Japanese text only)
 
 
 ## Accommodation
