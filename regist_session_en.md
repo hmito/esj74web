@@ -13,13 +13,13 @@ multi_language: true
 
 ## Concept of Sessions
 
-| |Symposium|Workshop|Forum|
+||Symposium|Workshop|Forum|
 |:----:|:-------------------:|:--------------------:|:---------------------:|
 |Concept|Core sessions of the conference|Free discussion about various topics|Building consensus within ESJ on issues in the field|
 |Applicant|Open|Open|Applied by committees of ESJ|
 |Time|3 hours|1.5 hours|1.5 hours|
-|Presenters| On-site|On-site|On-site|
-|<a href="#Online-Support">Online Support</a>|On-Demand Streaming|On-Demand Streaming |On-Demand Streaming|
+|Presenters|On-site|On-site|On-site|
+|<a href="#Online-Support">Online Support</a>|On-Demand Streaming|On-Demand Streaming|On-Demand Streaming|
 |Priority|High|Low|High|
 |Presentations by non-ESJ members|**Encouraged**<br><a href="#Symposium-Invited-Speaker-Program">Invited speakers</a> are exempt from the registration fee|**Not allowed**<br>Contributions without presentation abstract are allowed|**Allowed**|
 

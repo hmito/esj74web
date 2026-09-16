@@ -50,11 +50,11 @@ Proposals can be co-authored, but only one person should be designated as the co
 
 The proposal should include the following information:
 
-1.  Name of the principal applicant, affiliation, and email address
-2.  Proposed theme name (up to 30 characters in English, including spaces)
-3.  Theme objectives (this description will be published on the conference website if the proposal is accepted)
-4.  Rationale for proposing the theme (expected impact on the conference and the field by introducing the theme as a new category)
-5.  Additional information related to the theme (e.g., relevant publications, international treaties)
+1. Name of the principal applicant, affiliation, and email address
+2. Proposed theme name (up to 30 characters in English, including spaces)
+3. Theme objectives (this description will be published on the conference website if the proposal is accepted)
+4. Rationale for proposing the theme (expected impact on the conference and the field by introducing the theme as a new category)
+5. Additional information related to the theme (e.g., relevant publications, international treaties)
 
 Note: Item 2 will also be used as the name of a new category for the field of Regular Presentations. It is NOT the symposium title. Item 5 is just additional information related to Item 4. Journal impact factor in which relevant papers were published is not considered as a review criterion.
 
@@ -70,9 +70,9 @@ This is because securing judges for new themes is challenging. Therefore, poster
 
 ## Reference: Common Guidelines for Regular Symposia
 
-1.  Symposium organizers (including co-organizers) must be regular members of the Ecological Society of Japan.
-2.  Symposia will be held for approximately three hours.
-3.  Those proposing themes must also apply for presentations in the same way as regular presentations. The registration deadline is the same as for other regular presentations.
+1. Symposium organizers (including co-organizers) must be regular members of the Ecological Society of Japan.
+2. Symposia will be held for approximately three hours.
+3. Those proposing themes must also apply for presentations in the same way as regular presentations. The registration deadline is the same as for other regular presentations.
 
 We look forward to receiving your proposals.
 

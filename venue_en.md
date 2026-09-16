@@ -7,7 +7,7 @@ remarks: 図表 (会場地図) あり。
 
 # Venue
 
-The meeting will be held at three venues.
+The meeting will be held at three venues. It is a 2-minute walk from the Toyama International Conference Center to the Toyama Shimin Plaza, and a 10-minute walk from either of those venues to the Toyama Kenmin Kaikan.
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[Access\]**</a>  
 <a href="https://maps.app.goo.gl/G1v5xUsbwoSkGarWA" target="_blank">Toyama Shimin Plaza</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
@@ -19,7 +19,6 @@ The meeting will be held at three venues.
 Transportation options to the venues include local buses and trams, or on foot. The main routes are outlined below. Please note that pre-paid IC travel card (e.g., Suica, ICOCA) acceptance varies depending on transportation options.
 
 ![](media/toyama_map_en.png)
-
 
 ### Access to Toyama International Conference Center and Toyama Shimin Plaza
 
@@ -61,12 +60,8 @@ About 10 minutes from the Toyama Station.
 
 ### Additional Information
 
-<a href="https://www.chitetsu.co.jp/?page_id=679" target="_blank">Route Bus Information (Toyama Chihou Tetsudou Inc.)</a> (Japanese text only)<br>
-<a href="https://www.chitetsu.co.jp/english/trams/" target="_blank">Tram Information (Toyama Chihou Tetsudou Inc.)</a>
-<br><a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> / <a href="https://www.ticc.co.jp/english/" target="_blank">**\[Access\]**</a>
-<br><a href="https://maps.app.goo.gl/G1v5xUsbwoSkGarWA" target="_blank">Toyama Shimin Plaza</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a> (Japanese text only)
-<br><a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> / <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a> (Japanese text only)
-
+- <a href="https://www.chitetsu.co.jp/?page_id=679" target="_blank">Route Bus Information (Toyama Chihou Tetsudou Inc.)</a> (Japanese text only)<br>
+- <a href="https://www.chitetsu.co.jp/english/trams/" target="_blank">Tram Information (Toyama Chihou Tetsudou Inc.)</a>
 
 ## Accommodation
 
