@@ -207,7 +207,7 @@ The Mixer will be held on the evening of 14th Mar. at the Kyoto International Co
 
 ## Wi-Fi connectivity
 
-Free public Wi-Fi (<a href="https://www.toyamashi-kankoukyoukai.jp/en/wi-fi/" target="_blank">TOYAMa Free Wi-Fi</a>) is available at all three venues; however, the connection may become unstable if a large number of participants connect at the same time. If you require an internet connection, please arrange your own alternative means of access, such as a mobile data connection.
+Free public Wi-Fi (<a href="https://www.toyamashi-kankoukyoukai.jp/en/wi-fi/" target="_blank">TOYAMA Free Wi-Fi</a>) is available at all three venues; however, the connection may become unstable if a large number of participants connect at the same time. If you require an internet connection, please arrange your own alternative means of access, such as a mobile data connection.
 <!--ネットワークが会場側提供されている場合，以下の注意書きがあるとよいかも
 Free Wi-Fi is available at both venues. Please note that the quality or availability of the wireless network on the day of the event is not guaranteed.
 
