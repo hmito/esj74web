@@ -9,14 +9,10 @@ remarks: 図表 (会場地図) あり。
 
 The meeting will be held at three venues.
 
-Toyama International Conference Center  
-https://www.ticc.co.jp/access/
-
-Toyama Shimin Plaza  
-https://www.siminplaza.co.jp/access
-
-Toyama Kenmin Kaikan  
-https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">Toyama International Conference Center</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/G1v5xUsbwoSkGarWA" target="_blank">Toyama Shimin Plaza</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[Access\]**</a>  
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">Toyama Kenmin Kaikan</a> / <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[Access\]**</a>  
+(All links lead to external sites)
 
 ## Access to the Venues
 
