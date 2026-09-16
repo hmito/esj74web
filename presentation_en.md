@@ -8,7 +8,7 @@ multi_language: true
 
 Please note that only currently available information regarding the presentations is provided here. **More detailed information will to be updated around January**.
 
-## Oral Presentation
+## Regular Oral Presentation
 
 - All presentations must use the PCs provided at the venue. Presentations using personal laptops are not permitted.
 - **All Presenters must personally register their presentation files (e.g., PowerPoint) onto the presentation PC in advance.** Details will be updated around January.
@@ -21,7 +21,8 @@ Please note that only currently available information regarding the presentation
 - Wired LAN network connections are available at all venues when required for sessions. Wireless LAN is also available for events assigned to the International Conference Hall. Please note, however, that we cannot accommodate requests for venue assignments or changes.
 - If the organizer requests it, the presentation will be recorded by a contractor.
     - To prevent troubles for recording, all recording tasks will be handled by the contractor. Organizers cannot perform the recording. The [Self On-Demand Streaming](#Self-On-Demand-Streaming) prepared for oral presentations is not available.
-    - Recording will be conducted using cameras provided by the contractor installed at the venue, so the venue layout and speakers' faces will be visible during recording.
+    - Recording will be conducted using cameras provided by the contractor installed at the venue.
+    - The recording will capture the screen slides and audio only. The venue layout and speakers' faces will not be visible in the recording.
     - For Q&A and discussions, only content spoken through the microphone can be recorded.
 <!-- 
     - HDMI is used for connecting to the projector. If you do not have an HDMI conversion adapter, please prepare one in advance.
@@ -34,7 +35,7 @@ Please note that only currently available information regarding the presentation
 
 At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
 
-- It covers all oral presentations.
+- It covers all regular oral presentations. It is not available for symposia, workshops, or forums.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
 - The use of Self On-Demand Streaming is **optional**. It is not mandatory for presentations.
     - We do not permit online-only presentations. **If you cancel your on-site presentation, you will also be unable to use Self On-Demand Streaming**.
