@@ -38,7 +38,7 @@ Conveners of accepted themes will receive a list of oral presentations, poster p
 
 ### Restrictions on Multiple Presentations
 
-For ESJ74, each presenter is restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](https://esj-meeting.net/registinfo_en/#Restrictions-on-Multiple-Presentations) for more information.
+For ESJ74, each presenter is restricted to one presentation with abstract registration, regardless of the presentation format. Please refer to [Restrictions on Multiple Presentations](/registinfo_en/#Restrictions-on-Multiple-Presentations) for more information.
 
 ### Proposal Deadline
 
@@ -78,4 +78,4 @@ We look forward to receiving your proposals.
 
 * * *
 
-For inquiries or requests related to this matter, please use ESJ74's [Contact Form](https://esj-meeting.net/contact_en/) and specify that your inquiry is **for the Symposium Committee**.
+For inquiries or requests related to this matter, please use ESJ74's [Contact Form](/contact_en/) and specify that your inquiry is **for the Symposium Committee**.
