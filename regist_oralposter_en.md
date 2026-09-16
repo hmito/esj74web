@@ -19,7 +19,8 @@ Regular presentations include oral and poster sessions.
 **Poster session**
 
 - There are two opportunities to present posters: online presentations (**mandatory**) using the conference platform, and on-site presentations (optional) at the conference venue.
-- In the online poster session, no core time is scheduled, but posters can be viewed at any time during the conference period, and discussion via the comment function is also possible.
+- In the online poster session, no core time is scheduled. 
+    - Once all posters are published on the conference platform on 13th Mar., viewing and discussion via the comment function will be possible at any time throughout the conference period. (The viewing and commenting functions will remain available until 16th Apr.)
 - There will be a core time during the conference period for on-site poster presentations.
 - Student members who have not yet obtained a doctoral degree are eligible to apply for [the Poster Award](#Poster-Award). However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply.
 

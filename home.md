@@ -31,8 +31,6 @@ multi_language: true
 **日程：2027年3月18日(木) 〜 21日(日)**  
 **会場：<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a>＋<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">富山県民会館</a>＋<a href="https://maps.app.goo.gl/rsEuApvdfjeXmxLy7" target="_blank">富山市民プラザ</a>** (Google Mapへリンクします)
 
-なお、大会に先立つ**3月15-16日(月-火)はオンラインポスターの閲覧期間**です。オンラインポスターの閲覧・議論に積極的にご参加ください。
-
 本大会では、[オンラインプラットフォームを併用したハイブリッド形式](/about#開催形式)で開催します。
 
 - 口頭発表や各種集会は、オンサイト開催となります。オンラインのみでの発表は原則認められません。
