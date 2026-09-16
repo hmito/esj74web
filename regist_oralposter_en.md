@@ -13,7 +13,7 @@ Regular presentations include oral and poster sessions.
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available.
 - Oral sessions consist of sessions in both Japanese and English. Oral presentations can be given in English during Japanese oral sessions.
-- Since the purpose of establishing the award to promote English presentations has been achieved, the <a href="https://esj73.esj-meeting.net/registinfo_en/#Notice-on-the-Discontinuation-of-the-English-Presentation-Award" target="_blank">English Presentation Award was discontinued at ESJ73</a>.
+- Since the purpose of establishing the award to promote English presentations has been achieved, the <a href="https://esj.ne.jp/meeting/73/registinfo_en/#Notice-on-the-Discontinuation-of-the-English-Presentation-Award" target="_blank">English Presentation Award was discontinued at ESJ73</a>.
 - Participants can utilize the [Self On-Demand Streaming](/presentation_en#Self-On-Demand-Streaming) feature to record their presentations in advance or afterward and stream them on the conference platform. Please consider utilizing this service.
 
 **Poster session**
@@ -86,9 +86,9 @@ You can apply for various types of presentations at the following page.
 <td>Education and popularization of ecology</td>
 </tr>
 <tr>
-<td>Fungal and microbial ecology</td>
-<td>Animal-plant interactions</td>
 <td>Fungi and microbes</td>
+<td>Animal-plant interactions</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
