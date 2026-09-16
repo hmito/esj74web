@@ -16,6 +16,8 @@ Please note that only currently available information regarding the presentation
 
 ## Symposia, Workshops, Forums
 
+For notes related to session proposals, please refer to [**"For Organizers"**](/regist_session_en#For-Organizers).
+
 - Organizers of symposia, workshops, and forums can freely adjust the presentation schedule within the allotted time.
 - For symposia, workshops, and forums, presentation PCs will not be prepared at the venue. **Presenters or organizers are required to bring their own PCs for presentations**.
 - Wired LAN network connections are available at all venues when required for sessions. Wireless LAN is also available for events assigned to the International Conference Hall. Please note, however, that we cannot accommodate requests for venue assignments or changes.
@@ -33,7 +35,7 @@ Please note that only currently available information regarding the presentation
 
 ## Self On-Demand Streaming
 
-At this conference, all oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
+At this conference, all regular oral presenters could utilize “Self On-Demand Streaming,” where they record their own presentations and stream them on the conference platform.
 
 - It covers all regular oral presentations. It is not available for symposia, workshops, or forums.
     - The option to upload "explanatory videos", previously available for poster presentations, has been extended to oral presentations as well.
