@@ -78,4 +78,5 @@ We look forward to receiving your proposals.
 
 * * *
 
-For inquiries or requests related to this matter, please use ESJ74's [Contact Form](/contact_en/) and specify that your inquiry is **for the Symposium Committee**.
+For inquiries or requests related to this matter, please use ESJ74's [Contact Form](/
+contact_en) and specify that your inquiry is **for the Symposium Committee**.
