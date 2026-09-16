@@ -48,7 +48,7 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 ### Online Presentations
 
-**Online presentations will not be accepted for any presentation with abstract submission** at this conference, except in cases where reasonable accommodation is required. This policy applies equally to presenters residing outside Japan. All such presentations must be given on-site.
+**Online presentations will not be accepted for any presentation with abstract submission** at this conference, except in cases where [reasonable accommodation](/reasonable_accom_en) is required. This policy applies equally to presenters residing outside Japan. All such presentations must be given on-site.
 
 If it is difficult to present on-site, **remote presentations using Zoom or similar tools will be permitted only for contributions that do not require the submission of a presentation abstract**, such as opening remarks, comments, or statements of opinion. These presentations can also be recorded and included in the on-demand streaming described below.
 
@@ -61,7 +61,7 @@ Presentations in all symposia, workshops, and forums for which on-demand streami
 - When submitting a proposal for a session, the organizer selects whether the entire session will be available for on-demand streaming.
 - Each presenter within the session also selects whether their own presentation may be distributed on-demand when submitting their abstract.
 - On-demand streaming will be provided only for sessions whose organizers have permitted on-demand streaming, and only for presentations whose presenters have also permitted streaming.
-    - Presentations delivered online via Zoom or similar platforms, which do not involve abstract submission, will be recorded and distributed as long as the organizer has permitted on-demand streaming for the session as a whole.
+    - Presentations which do not involve abstract submission, such as opening remarks, comments, and general discussions, will be recorded and distributed as long as the organizer has permitted on-demand streaming for the session as a whole.
 
 In order to prevent problems with the recordings, all recording work will be handled by a contractor. Organizers cannot perform the recording.
 
@@ -104,20 +104,20 @@ You can apply for the sessions at the following pages.
     - Session abstract: up to 800 characters in Japanese or 400 words in English
         - Information for presenters who will not submit an abstract (e.g., introductory speakers and commentators) should be included in the session abstract.
     - Whether the session will be available for on-demand streaming (please refer [on-demand streaming](#On-Demand-Streaming-of-Presentations))
-    On-demand streaming: please indicate whether the entire session will be made available for on-demand streaming.
+    - On-demand streaming: please indicate whether the entire session will be made available for on-demand streaming.
     - Open session
-        - lease indicate here if the Symposium is proposed as an Open Session, or if a workshop is to be held in the field added under the Open Session.
+        - Please indicate here if the Symposium is proposed as an Open Session, or if a workshop is to be held in the field added under the Open Session.
 - After submitting your session proposal, the presentation registration menu will appear. Please register presentation information such as titles or speakers for all presentations requiring abstract submission.
     - Contributions without presentation abstracts, such as opening remarks, comments, or opinion statements, cannot be registered via the presentation registration menu. Please include information about such contributions within the session abstract.
 - Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
     - In the case that your proposal is not accepted, alternative measures such as changing the session type or transferring your application to a general presentation will be provided. Please refrain from submitting duplicate applications for Regular Presentations as a backup in case your session proposal is not accepted.
-- The conference committee will not be involved in the content of the session, but those that are deemed to contain content that defames or slanders individuals or groups may not be adopted.
+- The conference committee will not be involved in the content of the session, but those that are deemed to contain content that defames or slanders individuals or groups may not be accepted.
 - Please also read [Other Notes](/registinfo_en#Other-Notes) before applying.
 
 ### For Speakers
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of Symposium Invited  Speakers.
-    - Non-members are requested to apply for membership by 2nd Nov. 2026 23:59 (JST) and pay the conference fee by 16th Feb. 2027 23:59 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
+    - Non-members are requested to apply for membership by 2nd Nov. 2026 23:59 (JST) and pay the conference fee by 16th Feb. 2027 13:00 (JST), by referring to [this page](/registinfo_en#Procedure-for-new-membership-to-the-Ecological-Society-of-Japan).
     - For registration for invited speakers, please refer to the [Symposium Invited Speaker Program](#Symposium-Invited-Speaker-Program) as below. In this case, the application for membership is not necessary and registration fee of the conference is free of charge.
 - **All co-organizers/speakers must be registered on <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">the conference application site</a> before the organizer submits an application (deadline: 2nd Nov. 2026).** Please log in to the conference application site using your membership number and register your information (e-mail address, affiliation, etc.) as soon as possible.
     - Although the [payment of the registration fee](/registinfo_en#Registration-for-Participation) can be made up to the day of the conference, we recommend completing the payment as early as possible to ensure smooth access to the conference platform.
