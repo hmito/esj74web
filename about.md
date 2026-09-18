@@ -15,7 +15,7 @@ remarks:
 2027年3月18日(木) 〜 21日(日)  
 
 **=会場=**  
-3つの会場に分かれて開催されます。
+3つの会場に分かれて開催されます。詳細は[会場のページ](/venue)をご覧ください。
 
 <a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[アクセス\]**</a>  
 <a href="https://maps.app.goo.gl/oUUii6veXq46uaDCA" target="_blank">富山市民プラザ</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[アクセス\]**</a>  
