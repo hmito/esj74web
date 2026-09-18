@@ -15,9 +15,9 @@ multi_language: true
     - なお、[自由集会と一般講演双方で講演者となることはできません](/registinfo#複数講演の制限)。ご注意ください。
 - **大会参加の申込みを受付中です。[大会参加申込み](/registinfo#大会参加申込み)からお手続きください。**
     - 参加費の早期割引は、 2027年2月16日(火) 13時 までです。
-    - なお、 2026年11月21日(火) ～ 2027年1月5日(火)、2027年2月16日(火) 13時 ～ 2月19日(金) 9時 は、システムメンテナンスのため大会参加申込みができません。
+    - なお、 2026年11月21日(土) ～ 2027年1月5日(火)、2027年2月16日(火) 13時 ～ 2月19日(金) 9時 は、システムメンテナンスのため大会参加申込みができません。
 - **[公募セッション及びERシンポジウムの採択結果](/sessions)を公開しました。**
-- **高校生以下向け企画については、 [ジュニアポスター](/juniorposter) および [ジュニア生態学講座](/juniorlec) のページをご覧ください。**
+- **高校生以下向け企画については、 [ジュニアポスター](/juniorposter) および [ジュニア生態学講座](/juniorlec) のページに、必要な情報をまとめて掲載しております。**
 
 ### 今後の予定
 
@@ -26,10 +26,10 @@ multi_language: true
 
 ## 大会案内
 
-**第74回日本生態学会大会（ESJ74）を下記の通り開催します。** 大会案内の詳細は[こちら](/about)をご覧ください。
+**第74回日本生態学会大会（ESJ74）を下記の通り開催します。** 詳細は[大会基本情報](/about)をご覧ください。
 
-**日程：2027年3月18日(木) 〜 21日(日)**  
-**会場：<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a>＋<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">富山県民会館</a>＋<a href="https://maps.app.goo.gl/rsEuApvdfjeXmxLy7" target="_blank">富山市民プラザ</a>** (Google Mapへリンクします)
+**[日程](/about#スケジュール)：2027年3月18日(木) 〜 21日(日)**  
+**[会場](/venue)：<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a>＋<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">富山県民会館</a>＋<a href="https://maps.app.goo.gl/rsEuApvdfjeXmxLy7" target="_blank">富山市民プラザ</a>** (Google Mapへリンクします)
 
 本大会では、[オンラインプラットフォームを併用したハイブリッド形式](/about#開催形式)で開催します。
 

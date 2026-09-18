@@ -10,20 +10,37 @@ multi_language: true
 
 ## Childcare Service
 
-To be updated
+Childcare service will be provided in the ESJ74 venue to those who have completed advance application and payment. The service is provided by Certified NPO organization Naani-mama, which is contracted out by the ESJ.
+
+### Operating dates
+
+March 18, 2027 to March 21, 2027.
+
+### Fees
+
+To be updated (in late December).
+
+### Registration
+
+To be updated (in late December).
 
 ## Family Lounge
 
-To be updated
+A family lounge will be set up for participants with their infant(s) and school children. No reservation is required. Please use the room to eat with your child(ren) or just to relax.
+
+### Operation dates
+
+March 18, 2027 to March 21, 2027.
+
 
 ## Facilities
 
 ### Nursing rooms
 
-To be updated
+- In the Toyama International Conference Center, one room will open as a nursing room.
+- The Toyama Prefectural Civic Center has a nursing room within the venue as part of its facilities.
 
 ### Diaper changing space
 
-To be updated
+- Both Toyama International Conference Center and Toyama Prefectural Civic Center have multipurpose restrooms available for both men and women, equipped with diaper-changing facilities.
 
-<!--TODO 更新予定-->

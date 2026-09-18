@@ -35,7 +35,7 @@ You can register for the meeting at the link below.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Application site]</a>**
 
-||Early bird<br/>until 16th Feb. 13:00|Normal price<br/>after 19th Feb.　9:00|
+||Early bird<br/>until 16th Feb. 13:00|Normal price<br/>after 19th Feb. 9:00|
 |---|---|---|
 |**Regular**|17000 JPY|19000 JPY|
 |**Student**|8500 JPY|9500 JPY|
@@ -188,7 +188,7 @@ The meeting does not accept revisions based on errata after the presentation app
   * If you wish to cancel only your presentation but still attend the meeting: “**Presentation Cancellation Only (Presentation Number or Submission Receipt Number)**”*
 * Before the presentation submission deadline, you may cancel your presentation yourself through the <a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">**Presentation Submission Site**</a>.
 
-* Your presentation number or submission receipt number can be found in the program or in the confirmation email automatically sent when you submitted your presentation.
+※ Your presentation number or submission receipt number can be found in the program or in the confirmation email automatically sent when you submitted your presentation.
 
 ### Handling of Research Achievements in the Event of Disasters
 

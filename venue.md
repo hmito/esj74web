@@ -7,16 +7,12 @@ remarks: 図表 (会場地図) あり。
 
 # 会場
 
-3つの施設で開催します。
+3つの施設で開催します。国際会議場・市民プラザ間は徒歩2分、両会場と県民会館の間は徒歩10分です。
 
-富山国際会議場  
-https://www.ticc.co.jp/access/
-
-富山市民プラザ  
-https://www.siminplaza.co.jp/access
-
-富山県民会館  
-https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
+<a href="https://maps.app.goo.gl/aB8MLzXtKxfi5Wv2A" target="_blank">富山国際会議場</a> / <a href="https://www.ticc.co.jp/access/" target="_blank">**\[アクセス\]**</a>  
+<a href="https://maps.app.goo.gl/G1v5xUsbwoSkGarWA" target="_blank">富山市民プラザ</a> / <a href="https://www.siminplaza.co.jp/access" target="_blank">**\[アクセス\]**</a>  
+<a href="https://maps.app.goo.gl/Jc81jKeVBiZuh3oH9" target="_blank">富山県民会館</a> / <a href="https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html" target="_blank">**\[アクセス\]**</a>  
+(いずれも外部サイトへリンクします)
 
 ## 会場へのアクセス
 
@@ -60,20 +56,8 @@ https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
 
 ### 参考情報
 
-・路線バス（富山地方鉄道株式会社）  
-https://www.chitetsu.co.jp/?page_id=679
-
-・市内電車（富山地方鉄道株式会社）  
-https://www.chitetsu.co.jp/?page_id=656
-
-・富山国際会議場：アクセス  
-https://www.ticc.co.jp/access/
-
-・富山市民プラザ：アクセス  
-https://www.siminplaza.co.jp/access
-
-・富山県民会館：アクセス・駐車場  
-https://www.bunka-toyama.jp/kenminkaikan/access-parking/index.html
+- <a href="https://www.chitetsu.co.jp/?page_id=679" target="_blank">路線バス（富山地方鉄道株式会社）</a>
+- <a href="https://www.chitetsu.co.jp/?page_id=656" target="_blank">市内電車（富山地方鉄道株式会社）</a>
 
 ## 宿泊場所について
 

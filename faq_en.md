@@ -45,7 +45,7 @@ Yes, it is possible. For details on the procedure, please see [**“Invoice Paym
 
 ### Will a receipt be issued for the participation fee?
 
-Receipts are issued from the online conference platform, RakuRaku-Conference (formerly ONLINE CONF), not from the conference registration site.Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2027.
+Receipts are issued from the online conference platform, RakuRaku-Conference, not from the conference registration site.Please note that printed receipts will not be sent. You can download your receipt after RakuRaku-Conference opens on 6th Jan. 2027.
 
 ### Is the participation fee subject to tax?
 
