@@ -2,6 +2,7 @@
 url: https://esj-meeting.net/juniorposter/
 menu: 各種申込み > ジュニアポスター
 multi_language: false
+remarks: 2件の画像あり
 ---
 
 # ジュニアポスター (旧・高校生ポスター)
