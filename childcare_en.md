@@ -38,9 +38,10 @@ March 18, 2027 to March 21, 2027.
 ### Nursing rooms
 
 - In the Toyama International Conference Center, one room will open as a nursing room.
+- At Toyama Shimin Plaza, a nursing room is available near the poster venue on the 2nd floor. Hot water is not provided.
 - The Toyama Prefectural Civic Center has a nursing room within the venue as part of its facilities.
 
 ### Diaper changing space
 
 - Both Toyama International Conference Center and Toyama Prefectural Civic Center have multipurpose restrooms available for both men and women, equipped with diaper-changing facilities.
-
+- At Toyama Shimin Plaza, diaper‑changing stations are located next to the elevator on the south side of the 1st floor and in front of the restroom nearest to the 2nd‑floor poster venue.
