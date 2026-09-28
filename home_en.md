@@ -8,13 +8,13 @@ multi_language: true
 
 ## Important Notices
 
-- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is 2nd Nov. 2026, 23:59 JST.**
+- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is Mon. 2nd Nov. 2026, 23:59 JST.**
     - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
     - **[Symposia and Workshops](/regist_session_en)**
     - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
     - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations).
 - **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
-    - Early registration discount is available until 16th Feb. 2027, 13:00 JST.
+    - Early registration discount is available until Tue. 16th Feb. 2027, 13:00 JST.
     - Please note that conference registration will be unavailable from 21st Nov. 2026 to 5th Jan. 2027 and from 16th Feb. 2027, 13:00 JST to 19th Feb. 2027, 9:00 JST due to system migration and system maintenance.
 - **The [results of the selection for Open Sessions and ER Symposia](/sessions_en) have been published.**
 
