@@ -2,9 +2,12 @@
 url: https://esj-meeting.net/ersympo_en/
 menu: Registration > ER Symposium
 multi_language: true
+remarks: PDFあり。
 ---
 
 # ER Symposium
+
+[\[Check the selected ER-Symposium\]](/sessions_en#ER-Symposia)
 
 ESJ74 features a single "ER Symposium," where an outstanding overseas researcher is invited to give a presentation and contribute to the journal <a href="https://esj-journals.onlinelibrary.wiley.com/journal/14401703" target="_blank">*Ecological Research*</a> \(ER\).
 
@@ -16,7 +19,7 @@ We encourage those considering inviting overseas researchers to the symposium to
 
 ### Travel Expenses are Covered and Participation Fees are Waived
 
-The ER Invited Speaker will receive the necessary travel expenses (subject to regulations, see Note 1) and have their conference participation fees waived.
+The ER Invited Speaker will receive the necessary travel expenses (subject to regulations, see [Note 1](#Note-1-Travel-Expense-Regulations)) and have their conference participation fees waived.
 
 ### Paper Contribution
 
@@ -73,7 +76,7 @@ Please note that if your proposal is accepted, the information provided in your 
 
 ## Note 1: Travel Expense Regulations
 
-Travel expenses are covered within the society's <a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">Travel Expense Regulations (Japanese verison only)</a>. While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to [Travel Expenses for International Invitees](https://edit.esj-meeting.net/wp-content/uploads/2026/06/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf).
+Travel expenses are covered within the society's <a href="https://esj.ne.jp/esj/Rule/ryohi_kitei.html" target="_blank">Travel Expense Regulations (Japanese verison only)</a>. While the regulations do not specify the class of airfare, economy class is generally assumed, unless otherwise specified. For further details, please refer to <a href="https://edit.esj-meeting.net/wp-content/uploads/2026/06/Travel-expenses-policy-for-inviting-overseas-researchers_2025.pdf" target="_blank">Travel Expenses for International Invitees</a>.
 
 ## Note 2: Symposium Invited Speaker Program
 
