@@ -14,13 +14,14 @@ remarks:
 
 ---
 
-### **『Breaking down the barriers between parasitology and ecology: a user’s guide』**
+### **The future of the ecology of host–parasite relationships in Japan: Linking natural history and ecology**
 
 【提案者】  
 長谷川稜太（北海道大学）、佐藤拓哉（京都大学）
 
 【ER招待講演者】  
-**Robert Poulin** (University of Otago, New Zealand)
+**Robert Poulin** (University of Otago, New Zealand)  
+「Breaking down the barriers between parasitology and ecology: a user’s guide」
 
 ![](/media/ersympo_invited_speaker.jpg)
 
