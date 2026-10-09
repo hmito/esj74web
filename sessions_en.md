@@ -14,13 +14,14 @@ The following symposium was selected for this year's [ER Symposium](/ersympo_en)
 
 ---
 
-### **"Breaking down the barriers between parasitology and ecology: a user's guide"**
+### **The future of the ecology of host–parasite relationships in Japan: Linking natural history and ecology**
 
 [Organizer]  
 Ryota Hasegawa (Hokkaido University), Takuya Sato (Kyoto University)
 
 [ER Invited Speaker]  
-**Robert Poulin** (University of Otago, New Zealand)
+**Robert Poulin** (University of Otago, New Zealand)  
+"Breaking down the barriers between parasitology and ecology: a user's guide"
 
 ![](/media/ersympo_invited_speaker.jpg)
 
