@@ -9,7 +9,9 @@ remarks:
 
 # 各種申込み概要
 
-[一般講演](/regist_oralposter)、[シンポジウム](/regist_session/#シンポジウム)、[自由集会](/regist_session/#自由集会)を募集中です。締切は 2026年11月2日(月) です。詳細を確認の上、下記申込みサイトからお手続きください。
+[一般講演](/regist_oralposter)、[シンポジウム](/regist_session/#シンポジウム)、[自由集会](/regist_session/#自由集会)の募集は締切りました。大会参加については引き続き受け付けています。
+
+講演要旨の登録締切は 2027年2月16日(火) 23:59 です。詳細を確認の上、下記申込みサイトからお手続きください。
 
 **<a href="https://iap-jp.org/esj/conf/login.php" target="_blank">【大会参加・各種講演申込みサイトへ移動】</a>**
 
