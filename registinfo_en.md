@@ -68,7 +68,7 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
     <th>Session type</th>
     <th><strong>Application Deadline</strong></th>
     <th><strong>Abstract Submission Deadline</strong></th>
-    </tr></thead>
+  </tr></thead>
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
@@ -80,12 +80,12 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
       <td><del>Mon. 31st Aug. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
-      <td>Forum</td>
+      <td><a href="/regist_session_en/#Forum">Forum</a></td>
       <td><del>Tue. 15th Sep. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="even">
-      <td>Symposium<br />
-      <td rowspan=4>Mon. 2nd Nov. 2026 23:59 (JST)</td>
+      <td><a href="/regist_session_en/#Symposium">Symposium</a><br />
+      <td rowspan=4><del>Mon. 2nd Nov. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td><a href="/regist_session_en/#Workshop">Workshop</a></td>
