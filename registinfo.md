@@ -81,12 +81,12 @@ remarks:
       <td><del>2026年8月31日(月) 23:59</del></td>
     </tr>
     <tr class="odd">
-      <td>フォーラム</td>
+      <td><a href="/regist_session#フォーラム">フォーラム</a></td>
       <td><del>2026年9月15日(火) 23:59</del></td>
     </tr>
     <tr class="even">
-      <td>シンポジウム<br />
-      <td rowspan=4> 2026年11月2日(月) 23:59</td>
+      <td><a href="/regist_session#シンポジウム">シンポジウム</a><br />
+      <td rowspan=4> <del>2026年11月2日(月) 23:59</del></td>
     </tr>
     <tr class="odd">
       <td><a href="/regist_session#自由集会">自由集会</a></td>
@@ -95,7 +95,7 @@ remarks:
      <td><a href="/regist_oralposter">一般講演</a><br />
     </tr>
     <tr class="odd">
-      <td>ジュニアポスター<br/></td>
+      <td><a href="/juniorposter">ジュニアポスター</a><br/></td>
     </tr>
   </tbody>
 </table>
