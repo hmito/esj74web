@@ -32,7 +32,7 @@ The meeting will be held at three separate venues. For detail, please see the [v
 - For oral presentations and sessions (symposia, workshops), [all presentations with abstracts must be given on-site](/registinfo_en#Restrictions-on-Multiple-Presentations). Online presentations are not permitted.
     - If reasonable accommodations are required, please [contact us](/reasonable_accom_en) as early as possible so that we can consider individual arrangements.
 - There are two opportunities to present posters: online (mandatory) and onsite (optional).
-    - Online presentations will be conducted by uploading files to the conference platform. No core time is scheduled. From 13th Mar. onward, posters can be viewed and discussed at any time during the conference period (the viewing and commenting functions will remain available until 16th Apr.).
+    - Online presentations will be conducted by uploading files to the conference platform. No core time is scheduled. From 14th Mar. onward, posters can be viewed and discussed at any time during the conference period (the viewing and commenting functions will remain available until 16th Apr.).
     - Core time will be scheduled for onsite poster presentations.
 - On-Demand Streaming will be available on the conference platform.
     - All major events of the conference, symposia and workshops: The organizers will record and later publish them on the online platform.
@@ -135,7 +135,7 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="even">
 <td rowspan=2>Poster sessions</td>
 <td>Online</td>
-<td colspan=5> From 13th Mar. onward (viewing and commenting available until 16th Apr.)</td>
+<td colspan=5> From 14th Mar. onward (viewing and commenting available until 16th Apr.)</td>
 </tr>
 <tr class="even">
 <td>Onsite</td>
@@ -148,7 +148,7 @@ For information on registration and presentation submissions, please see [**Regi
 <tr class="odd">
 <td rowspan=2>Junior Poster</td>
 <td>Online</td>
-<td colspan=5>From 13th Mar. onward (viewing and commenting available until 16th Apr.)</td>
+<td colspan=5>From 14th Mar. onward (viewing and commenting available until 16th Apr.)</td>
 </tr>
 <tr class="odd">
 <td>Onsite</td>
