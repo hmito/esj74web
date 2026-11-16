@@ -11,17 +11,18 @@ remarks:
 ## Before your question
 
 Before contacting us, please also review our [**Frequently Asked Questions**](/faq_en) in advance. We appreciate your cooperation in reducing the burden on the conference planning/organizing committee.
-<!-- 発表登録締め切り後に掲載
+
 - Requests for **revised presentation sessions/dates/times** cannot be accommodated.
 - Requests for **changes to presentation information** (titles, author names, affiliations, etc.) will not be accepted under any circumstances. Corrections via errata are also not published.
 - For matters related to **certificates of participation, receipts, or invoice payments**, please refer to [this page](/registinfo_en/#Participation-CertificatesReceipts).
 - If you require reasonable accommodation due to health conditions or other circumstances, please consult from [this page](/reasonable_accom_en).
--->
+
 ## Send a question or request
 
 Please contact us using the form below. We will be **out of service each night from 17:00 to 10:00 in JST.**
 
 [\[Contact Form\]](https://otoiawase.jp/do/public/form/seitai/3)
+
 <!--大会プラットフォーム公開後に掲載（URL等はESJ73のものなので，最新情報を要確認）
 ---
 
