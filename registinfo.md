@@ -9,7 +9,7 @@ remarks:
 
 # 各種申込み概要
 
-[一般講演](/regist_oralposter)、[シンポジウム](/regist_session/#シンポジウム)、[自由集会](/regist_session/#自由集会)の募集は締切りました。大会参加については引き続き受け付けています。
+各種講演の募集は締切りました。大会参加については引き続き受け付けています。
 
 講演要旨の登録締切は 2027年2月16日(火) 23:59 です。詳細を確認の上、下記申込みサイトからお手続きください。
 
@@ -35,7 +35,7 @@ remarks:
 
 以下のページから大会参加申込みが可能です。
 
-**<a href="https://iap-jp.org/esj/conf/login.php" target="_blank">【大会参加申込みサイトへ】</a>**
+**<a href="https://esj74.raku-con.com" target="_blank">【大会プラットフォーム（らくらくカンファレンス）へ】</a>**
 
 ||早期申込み<br/>2/16 13時まで|通常申込み<br/>2/19 9時以降|
 |---|---|---|
@@ -57,7 +57,7 @@ remarks:
 
 以下のページから講演及び各種集会の申込みが可能です。各講演についての説明（下記表のリンク）および[その他の注意点](#その他注意点)もご確認の上、申込みを行ってください。
 
-**<a href="https://iap-jp.org/esj/conf/login.php" target="_blank">【講演及び各種集会の申込みへ】</a>**
+**<a href="https://iap-jp.org/esj/conf/login.php" target="_blank">【講演要旨の登録はこちら】</a>**
 
 <table>
   <colgroup>

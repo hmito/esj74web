@@ -9,7 +9,7 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) have closed. We still accept applications for the participation in the conference.
+The call for presentations has now closed. We still accept applications for the participation in the conference.
 
 The deadline for abstract submission is Tue. 16th Feb. 2027 23:59 (JST). Please review the details and complete the process via the application site below.
 
@@ -35,7 +35,7 @@ Important deadlines are as follows.
 
 You can register for the meeting at the link below.
 
-**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Application site]</a>**
+<a href="https://esj74.raku-con.com" target="_blank">**[Go to the ESJ73 online conference platform "Rakuraku-Conference"]**</a>
 
 ||Early bird<br/>until 16th Feb. 13:00|Normal price<br/>after 19th Feb. 9:00|
 |---|---|---|
@@ -56,7 +56,7 @@ You can register for the meeting at the link below.
 
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site. Please read the description of each session (links in the table below) and [Other Notes](#Other-Notes) before applications.
 
-**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Application site]</a>**
+**<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to Abstract Submission]</a>**
 
 <table>
   <colgroup>
