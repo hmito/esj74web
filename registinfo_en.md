@@ -9,7 +9,9 @@ remarks:
 
 # Registration Overview
 
-Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) are accepted until 2nd Nov. 2026 23:59 (JST). Please check the details below and register through the application site.
+Applications for [Regular Presentations](/regist_oralposter_en), [Symposia](/regist_session_en#Symposium), and [Workshops](/regist_session_en#Workshop) have closed. We still accept applications for the participation in the conference.
+
+The deadline for abstract submission is Tue. 16th Feb. 2027 23:59 (JST). Please review the details and complete the process via the application site below.
 
 **<a href="https://iap-jp.org/esj/conf/login_en.php" target="_blank">[Go to the Applications site]</a>**
 
@@ -66,7 +68,7 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
     <th>Session type</th>
     <th><strong>Application Deadline</strong></th>
     <th><strong>Abstract Submission Deadline</strong></th>
-    </tr></thead>
+  </tr></thead>
   <tbody>
     <tr class="odd">
       <td><a href = "opensession_en">Open Session</a></td>
@@ -78,12 +80,12 @@ You can apply for Regular Presentations, Symposia, and Workshops at the Applicat
       <td><del>Mon. 31st Aug. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
-      <td>Forum</td>
+      <td><a href="/regist_session_en/#Forum">Forum</a></td>
       <td><del>Tue. 15th Sep. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="even">
-      <td>Symposium<br />
-      <td rowspan=4>Mon. 2nd Nov. 2026 23:59 (JST)</td>
+      <td><a href="/regist_session_en/#Symposium">Symposium</a><br />
+      <td rowspan=4><del>Mon. 2nd Nov. 2026 23:59 (JST)</del></td>
     </tr>
     <tr class="odd">
       <td><a href="/regist_session_en/#Workshop">Workshop</a></td>

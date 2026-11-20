@@ -8,11 +8,8 @@ multi_language: true
 
 ## Important Notices
 
-- **We are currently accepting applications for the following presentations and events. Please apply via [Registration](/registinfo_en) page. The deadline is Mon. 2nd Nov. 2026, 23:59 JST.**
-    - **[General Presentations (Oral/Poster)](/regist_oralposter_en)**
-    - **[Symposia and Workshops](/regist_session_en)**
-    - **[Junior Poster (formerly: High School Poster)](/juniorposter)**
-    - It is [NOT permitted to be a presenter in both a workshop and a regular presentation](/registinfo_en#Restrictions-on-Multiple-Presentations).
+- **Applications for presentations and sessions are now closed.**
+    - After the deadline, we cannot accept presentation applications or modifications to submitted applications.
 - **Registration for conference participation is now open. Please register via [Conference Participation Application](/registinfo_en#Registration-for-Participation).**
     - Early registration discount is available until Tue. 16th Feb. 2027, 13:00 JST.
     - Please note that conference registration will be unavailable from 21st Nov. 2026 to 5th Jan. 2027 and from 16th Feb. 2027, 13:00 JST to 19th Feb. 2027, 9:00 JST due to system migration and system maintenance.
@@ -22,6 +19,7 @@ multi_language: true
 
 - The **program** and **information for presenters** are scheduled to be published in early January.
     - Note that we are unable to respond to individual inquiries regarding presentation dates or requests for specific dates. Thank you for your understanding.
+- **Abstract registration will close at Tue. 16th Feb. 2027 23:59 (JST).**
 
 ## Meeting information
 
@@ -38,6 +36,7 @@ This meeting will be held in a [hybrid format](/about_en#Meeting-Format) using a
 
 ## Update history
 
+- 2026.11.03: The call for general presentations, symposia, workshop and junior posters has closed.
 - 2026.09.30: Information on general presentations, symposia, workshop and junior posters has been posted.
 - 2026.09.30: Basic meeting information, access to the venue, and childcare support have been posted.
 - 2026.09.30: Guidelines for presenters and frequently asked questions have been posted.
